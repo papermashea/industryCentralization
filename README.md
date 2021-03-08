@@ -21,13 +21,12 @@ Finally, I scraped and cleaned up CEO compensation, employee compensation, numbe
 
 ![Color coded industry power](/images/Test_data.png)
 
-** Demo available here: https://observablehq.com/d/1376cdb30f06b5fe**
+** Demo available here: https://observablehq.com/d/1376cdb30f06b5fe **
 
 
 ### More resources
-https://www.bloomberg.com/graphics/ceo-pay-ratio
-https://work.chron.com/average-income-ceo-fortune-500-company-5348.html
-https://github.com/cmusam/fortune500
-http://people.stern.nyu.edu/adamodar/New_Home_Page/databreakdown.html
-https://www.salary.com/
-
+- [Bloomberg](https://www.bloomberg.com/graphics/ceo-pay-ratio)
+- [Work Chrom](https://work.chron.com/average-income-ceo-fortune-500-company-5348.html)
+- [Fortune 500 archive](https://github.com/cmusam/fortune500)
+- [NYU Stern S&P industries](http://people.stern.nyu.edu/adamodar/New_Home_Page/databreakdown.html)
+- [Salary.com](https://www.salary.com/)
