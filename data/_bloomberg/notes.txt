@@ -1,0 +1,3 @@
+en: employees
+cc: ceo compensation
+cpr: CEO pay ratio
