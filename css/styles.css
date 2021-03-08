@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(255, 255, 250);
+    margin: 0;
+}
+
+.node:hover{
+  stroke-width: 2px !important;
+  opacity: 1!important;
+}
+
+.tooltip {
+	width: 25%;
+	float: right;
+}
+
+h1 {
+	font-family: pt-sans-pro,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1;
+}
+
+.sector-industry {
+	font-family: pt-sans-pro,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1;
+}
+
+#industry {
+	font-family: pt-sans-pro,sans-serif;
+}

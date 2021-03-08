@@ -1,0 +1,964 @@
+﻿company,value,sector,employees,ceo_comp,employee_comp,cpr,industry,fy
+Walmart Inc,559151,Consumer Staples,2200000,23618233,21952,1076,Retail  - General),2019
+Amazon.com Inc,386064,Consumer Discretionary,1298000,1681840,28848,58,Retail  - Online),2019
+Berkshire Hathaway Inc,286256,Financials,360174,374773,65740,5.7,Diversified,2019
+Apple Inc,274515,Information Technology,147000,11555466,57596,201,Computers - Peripherals,2019
+CVS Health Corp,268706,Health Care,300000,36466470,46140,790,Healthcare Support Services,2019
+UnitedHealth Group Inc,257141,Health Care,325000,18907522,54322,348,Healthcare Support Services,2019
+McKesson Corp,231051,Health Care,80000,17400207,38026,458,Healthcare Support Services,2019
+Alphabet Inc,182527,Information Technology,135301,280621552,258708,1085,Software  - Entertainment),2019
+Exxon Mobil Corp,178574,Energy,72000,23529292,173712,135,Oil - Gas  - Integrated),2019
+AT&T Inc,171760,Communication Services,230760,32032925,98630,325,Telecom. Services,2019
+Costco Wholesale Corp,166761,Consumer Staples,156000,8016200,47312,169,Retail  - General),2019
+Cigna Corp,160401,Health Care,73700,19303032,62946,306.7,Healthcare Support Services,2019
+Cardinal Health Inc,152922,Health Care,48000,15584454,57261,272,Healthcare Support Services,2019
+Microsoft Corp,143015,Information Technology,163000,42910215,172512,249,Software  - System  -  Application),2019
+Walgreens Boots Alliance Inc,139537,Consumer Staples,331000,19156202,34074,562,Retail  - Special Lines),2019
+Home Depot Inc,132110,Consumer Discretionary,500000,11366662,23389,486,Not found,2019
+JPMorgan Chase & Co,129503,Financials,255351,31619266,80431,393,Bank  - Money Center),2019
+Verizon Communications Inc,128292,Communication Services,132200,18111823,172971,105,Telecom. Services,2019
+Ford Motor Co,127144,Consumer Discretionary,186000,17355505,110706,157,Not found,2019
+General Motors Co,122485,Consumer Discretionary,155000,21630867,106715,203,Not found,2019
+Kroger Co ,122286,Consumer Staples,435000,12037872,24912,483,Not found,2019
+Anthem Inc,121867,Health Care,83400,15473139,62686,247,Healthcare Support Services,2019
+Centene Corp,111115,Materials,71300,26448425,68987,383,Healthcare Support Services,2019
+Comcast Corp,103564,Communication Services,168000,36384957,78869,461,Cable TV,2019
+Chevron Corp,94471,Energy,48200,33070662,140063,236,Oil - Gas  - Integrated),2019
+Dell Technologies Inc,94224,Information Technology,165000,3623801,88459,41,Computers - Peripherals,2019
+Bank of America Corp,93753,Financials,212505,26049804,94256,276,Bank  - Money Center),2019
+Lowe's Cos Inc,89597,Consumer Discretionary,300000,14302791,22921,650,Not found,2019
+Citigroup Inc,88839,Financials,210000,25521414,52988,482,Bank  - Money Center),2019
+Facebook Inc,85965,Communication Services,58604,23415973,247883,94,Software  - Entertainment),2019
+United Parcel Service Inc,84628,Industrials,543000,18040841,74395,243,Transportation,2019
+Johnson & Johnson,82584,Health Care,134500,25380258,76000,334,Drugs  - Pharmaceutical),2019
+Wells Fargo & Co,80303,Financials,268531,36288490,65931,550,Not found,2019
+General Electric Co,79619,Industrials,174000,24553788,50471,486,Not found,2019
+Target Corp,78112,Consumer Discretionary,368000,17204069,22439,767,Retail  - General),2019
+Intel Corp,77867,Information Technology,110600,66935100,96300,695,Semiconductor,2019
+Humana Inc,77155,Health Care,48700,16726455,73669,227,Healthcare Support Services,2019
+International Business Machines Corp,73621,Information Technology,352600,20160865,56896,354,Computer Services,2019
+Procter & Gamble Co,70950,Consumer Staples,99000,20498812,66326,309,Not found,2019
+PepsiCo Inc,70372,Consumer Staples,291000,16870817,45896,368,Beverage  - Soft),2019
+Marathon Petroleum Corp,69779,Energy,60910,24129164,27507,877,Oilfield Svcs - Equip.,2019
+FedEx Corp,69217,Industrials,183000,15973884,52718,303,Transportation,2019
+T-Mobile US Inc,68397,Communication Services,75000,27762231,62195,446,Telecom  - Wireless),2019
+MetLife Inc,67842,Financials,46500,14709539,77359,190,Insurance  - Life),2019
+Lockheed Martin Corp,65398,Industrials,114000,30900000,154883,200,Aerospace - Defense,2019
+Walt Disney Co ,65388,Consumer Staples,203000,47525560,52184,911,Not found,2019
+Valero Energy Corp,64912,Energy,9964,28175952,272417,103,Oilfield Svcs - Equip.,2019
+Archer-Daniels-Midland Co,64355,Consumer Staples,39088,18174409,63981,285,Not found,2019
+Phillips 66,64129,Energy,14300,31927081,188738,169,Oil - Gas Distribution,2019
+Boeing Co ,58158,Industrials,141000,14250195,158869,90,Not found,2019
+Prudential Financial Inc,57033,Financials,41671,15144335,111499,136,Insurance  - Life),2019
+HP Inc,56639,Information Technology,53000,19317972,75013,258,Computers - Peripherals,2019
+United Technologies Corp,56587,Information Technology,181000,21538847,76417,282,Not found,2018
+Goldman Sachs Group Inc,53498,Financials,40500,24657737,138854,178,Not found,2019
+Sysco Corp,52893.31,Consumer Staples,57000,10742679,70801,152,Food Wholesalers,2019
+Morgan Stanley,52047,Financials,68000,31642395,127414,248,Brokerage  -  Investment Banking,2019
+HCA Healthcare Inc,51533,Health Care,210000,26788251,56012,478,Hospitals - Healthcare Facilities,2019
+Cisco Systems Inc,49301,Information Technology,77500,25829833,142593,181,Telecom. Equipment,2019
+Charter Communications Inc,48097,Communication Services,96100,8743601,57625,151.7,Cable TV,2019
+Merck & Co Inc,47994,Health Care,74000,27648475,95621,289,Not found,2019
+Best Buy Co Inc,47262,Consumer Discretionary,125000,17382486,28500,610,Not found,2019
+AbbVie Inc,45804,Health Care,47000,21668015,155885,139,Drugs  - Biotechnology),2019
+Allstate Corp ,44791,Financials,41860,19615696,61860,317,Not found,2019
+Accenture PLC,44327.039,Information Technology,506000,15031875,50512,298,Not found,2019
+American International Group Inc,43736,Financials,45000,19369637,67403,288,Insurance  - General),2019
+Tyson Foods Inc,43185,Consumer Staples,139000,10398160,36681,283,Food Processing,2019
+Progressive Corp,42638.1,Financials,41571,14041272,66285,212,Not found,2019
+Bristol-Myers Squibb Co,42518,Health Care,30250,18767253,123365,152,Not found,2019
+Pfizer Inc,41908,Health Care,88000,17928963,98972,181,Drugs  - Pharmaceutical),2019
+Caterpillar Inc,41748,Industrials,97300,34519129,65132,530,Construction Supplies,2019
+Bunge Ltd,41404,Consumer Staples,23000,16734730,39133,428,Not found,2019
+Oracle Corp,39068,Information Technology,135000,2481646,83813,30,Software  - System  -  Application),2019
+Dow Inc,38542,Materials,35700,15878639,109556,145,Chemical  - Basic),2019
+American Express Co,38185,Financials,63700,23796002,64803,367,Not found,2019
+General Dynamics Corp,37925,Industrials,100700,18313204,116510,157,Aerospace - Defense,2019
+NIKE Inc,37403,Consumer Discretionary,75400,13968022,25386,550,Shoe,2019
+Northrop Grumman Corp,36799,Industrials,97000,20307994,114667,177,Aerospace - Defense,2019
+Chubb Ltd,35994,Financials,33000,20475070,66372,308.5,Not found,2019
+Deere & Co,35540,Industrials,69634,21697885,80267,270,Not found,2019
+Abbott Laboratories,34608,Health Care,109000,27802817,84434,329,Healthcare Products,2019
+Sprint Corp,33600,Industrials,28500,6395042,70941,90,Not found,2018
+Exelon Corp,33039,Utilities,32713,15400000,126000,122,Power,2019
+Coca-Cola Co ,33014,Utilities,80300,18701149,11285,1657,Not found,2019
+Honeywell International Inc,32637,Industrials,113000,20525104,69513,295,Diversified,2019
+Thermo Fisher Scientific Inc,32218,Health Care,80000,19023145,80915,235,Heathcare Information and Technology,2019
+3M,32184,Industrials,94987,18321566,57494,319,Diversified,2019
+TJX Cos Inc ,32136.962,Consumer Discretionary,286000,18822770,11791,1596,Not found,2019
+Travelers Cos Inc ,31981,Industrials,30600,16791247,111170,151,Not found,2019
+Capital One Financial Corp,31643,Financials,52000,7705792,68780,112,Financial Svcs.  - Non - bank  -  Insurance),2019
+Tesla Inc,31536,Consumer Discretionary,70757,23760,58455,0.41,Auto  -  Truck,2019
+Raytheon Co,29176,Financials,70000,23721407,141123,168,Not found,2018
+Medtronic PLC,28913,Health Care,90000,17796325,74206,240,Not found,2019
+Philip Morris International Inc,28694,Consumer Staples,71000,22125060,53756,396,Tobacco,2019
+Arrow Electronics Inc,28673.363,Information Technology,19600,11671842,60819,192,Computer Services,2019
+Dollar General Corp,27753.973,Consumer Discretionary,143000,10602517,13773,770,Retail  - General),2019
+LyondellBasell Industries NV,27753,Materials,19200,15943313,86466,184,Not found,2019
+Jabil Inc,27266.438,Financials,240000,11412435,7109,1605,Electronics  - General),2019
+Linde PLC,27243,Materials,80820,22475878,43216,520,Not found,2019
+Hewlett Packard Enterprise Co,26982,Information Technology,59400,13714497,67196,204,Not found,2019
+Mondelez International Inc,26581,Consumer Staples,79000,18115449,32280,561,Food Processing,2019
+Kraft Heinz Co ,26185,Consumer Staples,38000,44158287,42689,1034,Not found,2019
+Amgen Inc,25424,Health Care,24300,19612793,130904,150,Drugs  - Biotechnology),2019
+CBS Corp,25285,Real Estate,23990,36572367,104791,349,Not found,2018
+US Bancorp,25241,Industrials,70000,18801847,69775,269,Not found,2019
+Netflix Inc,24996.056,Communication Services,9400,38577129,202931,190,Entertainment,2019
+Gilead Sciences Inc,24689,Health Care,13600,29361393,173264,169,Drugs  - Biotechnology),2019
+Eli Lilly & Co,24539.8,Communication Services,35000,21283242,96290,221,Not found,2019
+BB&T Corp,24427,Health Care,54982,11509407,101421,113,Not found,2017
+Broadcom Inc,23888,Information Technology,21000,2366888,354119,7,Semiconductor,2019
+Duke Energy Corp,23868,Utilities,28793,15029386,123608,122,Power,2019
+CBRE Group Inc,23826.195,Real Estate,100000,13435428,61122,220,Real Estate  - Operations  -  Services),2019
+Dollar Tree Inc,23610.8,Consumer Discretionary,56900,9398842,11250,835,Retail  - General),2019
+Schlumberger Ltd,23601,Energy,86000,22247160,71021,313,Not found,2019
+QUALCOMM Inc,23531,Information Technology,41000,23065052,90259,256,Semiconductor,2019
+Starbucks Corp,23518,Consumer Discretionary,349000,19241950,11489,1675,Restaurant - Dining,2019
+US Foods Holding Corp,22885,Industrials,26000,7711847,82441,94,Food Wholesalers,2019
+Lennar Corp,22488.854,Consumer Discretionary,9495,18279581,102830,178,Homebuilding,2019
+Johnson Controls International plc,22317,Industrials,97000,15476638,41987,369,Not found,2019
+Danaher Corp,22284,Health Care,69000,18193200,74672,244,Healthcare Products,2019
+Aflac Inc,22147,Financials,6239,14108852,56371,250,Insurance  - Life),2019
+Visa Inc,21846,Information Technology,19500,24265771,142494,170,Information Services,2019
+PayPal Holdings Inc,21454,Information Technology,26500,25825473,70405,367,Information Services,2019
+Micron Technology Inc,21435,Information Technology,40000,16944751,60796,279,Semiconductor,2019
+salesforce.com Inc,21252,Information Technology,56606,28391846,151955,187,Software  - System  -  Application),2019
+Altria Group Inc,20841,Consumer Staples,8294,15439987,142246,109,Tobacco,2019
+CenturyLink Inc,20712,Utilities,39000,17235108,71279,243,Not found,2018
+Baker Hughes a GE Co,20705,Materials,55000,14922621,79242,188,Not found,2017
+International Paper Co,20580,Materials,49300,15924647,88810,179,Not found,2019
+Hartford Financial Services Group Inc ,20523,Consumer Discretionary,18500,14560748,96867,150,Not found,2019
+Penske Automotive Group Inc,20443.9,Information Technology,23000,6893752,44527,155,Retail  - Automotive),2019
+WellCare Health Plans Inc,20414.1,Utilities,12000,12697176,81647,155.5,Not found,2018
+DuPont de Nemours Inc,20397,Materials,34000,11660634,86294,135,Chemical  - Specialty),2019
+AutoNation Inc,20390,Information Technology,21600,8510005,49568,172,Retail  - Automotive),2019
+Southern Co ,20375,Industrials,27700,27865185,167872,166,Not found,2019
+CarMax Inc,20319.987,Consumer Discretionary,27050,8951547,38554,232,Retail  - Automotive),2019
+DR Horton Inc,20311.1,Materials,9716,14377638,86531,166,Not found,2019
+Nucor Corp,20139.658,Materials,26400,19099582,87573,218,Steel,2019
+Kohl's Corp,19974,Information Technology,37000,12340445,11069.63,1115,Retail  - General),2019
+Cummins Inc,19811,Industrials,57825,25116751,73480,341.8,Construction Supplies,2019
+DXC Technology Co,19577,Information Technology,138000,17256539,41602,415,Not found,2019
+Union Pacific Corp,19533,Industrials,41967,15018400,79446,189,Transportation  - Railroads),2019
+Whirlpool Corp,19456,Consumer Discretionary,78000,14011663,20765,675,Furn - Home Furnishings,2019
+Molina Healthcare Inc,19423,Consumer Discretionary,10500,18025074,62227,290,Healthcare Support Services,2019
+McDonald's Corp,19207.8,Consumer Discretionary,200000,18012549,9291,1939,Restaurant - Dining,2019
+Kimberly-Clark Corp,19140,Consumer Staples,46000,12028120,47328,254,Household Products,2019
+AmerisourceBergen Corp,18989.3926,Health Care,22000,11323960,54472,208,Healthcare Support Services,2019
+ConocoPhillips,18784,Energy,9700,30381543,186334,163,Oil - Gas  - Production and Exploration),2019
+PACCAR Inc,18728.5,Industrials,26000,7430608,79282,94,Construction Supplies,2019
+Mylan NV,18526.417,Financials,35000,18526417,43367,427,Not found,2019
+PG&E Corp,18469,Health Care,24000,19372233,206693,94,Power,2019
+CDW Corp-DE,18467.5,Information Technology,10000,6191797,93452,66,Not found,2019
+Sherwin-Williams Co ,18361.7,Materials,61031,14854731,42590,349,Not found,2019
+PNC Financial Services Group Inc ,18262,Financials,49549,16555752,76131,217,Not found,2019
+Harris Corp,18194,Consumer Discretionary,50000,15745630,58426,269,Not found,2017
+Macy's Inc,18097,Financials,123000,12733691,21885,582,Retail  - General),2019
+ManpowerGroup Inc,18001,Financials,25000,12545932,5625,2230,Business  -  Consumer Services,2019
+NextEra Energy Inc,17997,Utilities,13900,21877597,129735,168,Power,2019
+Eaton Corp PLC,17858,Materials,92000,19980672,57712,346,Not found,2019
+Occidental Petroleum Corp,17809,Energy,14400,16017683,185259,86,Oil - Gas  - Integrated),2019
+Avnet Inc,17634.333,Materials,14600,8438078,52638,160,Computer Services,2019
+General Mills Inc,17626.6,Consumer Staples,35000,9855417,57177,172,Food Processing,2019
+Westrock Co,17578.8,Materials,49300,11659257,58183,200,Not found,2019
+Lincoln National Corp,17439,Financials,10966,15412217,79460,194,Insurance  - Life),2019
+American Airlines Group Inc,17337,Industrials,102700,11571714,61143,189,Air Transport,2019
+Marsh & McLennan Cos Inc,17224,Financials,76000,20331697,67826,300,Not found,2019
+Applied Materials Inc,17202,Industrials,24000,14072395,104500,135,Semiconductor Equip,2019
+Becton Dickinson and Co,17117,Health Care,72000,16014633,42219,379,Not found,2019
+Delta Air Lines Inc,17095,Industrials,74000,17325379,118198,147,Air Transport,2019
+Lear Corp,17045.5,Consumer Discretionary,174600,13718257,10172,1349,Auto Parts,2019
+Bank of New York Mellon Corp ,16940,Financials,48500,13437888,63202,213,Not found,2019
+Emerson Electric Co,16785,Communication Services,83500,20310575,47415,428,Electrical Equipment,2019
+Western Digital Corp,16736,Information Technology,63800,12866469,10063,1279,Computers - Peripherals,2019
+NVIDIA Corp,16675,Materials,13532,13642838,155035,88,Semiconductor,2019
+Cognizant Technology Solutions Corp,16652,Information Technology,289500,16503792,32084,514,Computer Services,2019
+Jones Lang LaSalle Inc,16589.9,Industrials,90800,9298663,106000,87,Real Estate  - Operations  -  Services),2019
+Genuine Parts Co,16537.433,Consumer Discretionary,50000,8169948,39321,208,Not found,2019
+Synchrony Financial,16472,Financials,16500,12181183,45407,268,Financial Svcs.  - Non - bank  -  Insurance),2019
+Colgate-Palmolive Co,16471,Consumer Staples,34200,11149290,24055,463,Not found,2019
+Gap Inc ,16383,Consumer Discretionary,129000,20793939,5831,3566,Not found,2019
+XPO Logistics Inc,16252,Information Technology,102000,7858337,33162,237,Transportation,2019
+CH Robinson Worldwide Inc,16207.106,Materials,14888,5065928,59086,86,Not found,2019
+BlackRock Inc,16205,Financials,16500,24308254,133644,182,Investments  -  Asset Management,2019
+Allergan PLC,16088.9,Industrials,17400,9770528,92255,106,Not found,2017
+Ross Stores Inc,16039.073,Consumer Discretionary,92500,12248994,10027,1222,Retail  - Special Lines),2019
+Fluor Corp,15668.477,Industrials,50182,6682051,67856,98,Engineering - Construction,2019
+Nordstrom Inc,15524,Utilities,75000,4451746,34454,129,Retail  - General),2019
+DISH Network Corp,15493.435,Communication Services,13500,1007020,54685,18,Cable TV,2019
+United Continental Holdings Inc,15355,Industrials,74400,12643005,74750,169,Not found,2019
+Mastercard Inc,15301,Information Technology,21000,23249977,138142,168,Information Services,2019
+Celgene Corp,15281,Materials,8852,16223923,263237,62,Not found,2018
+Waste Management Inc,15218,Industrials,48250,11298101,76048,149,Environmental  -  Waste Services,2019
+PBF Energy Inc,15115.9,Information Technology,3442,10149441,160703,63,Oilfield Svcs - Equip.,2019
+American Electric Power Co Inc,14918.5,Utilities,16787,14492436,132611,109,Not found,2019
+Fiserv Inc,14852,Information Technology,44000,27633556,65254,423,Information Services,2019
+Athene Holding Ltd,14764,Communication Services,1350,4254581,85259,50,Not found,2019
+Principal Financial Group Inc,14741.7,Financials,17400,14748051,116561,127,Insurance  - Life),2019
+Reinsurance Group of America Inc,14596,Financials,3188,8116274,113479,72,Reinsurance,2019
+Automatic Data Processing Inc,14589.8,Information Technology,58000,19000187,63225,301,Information Services,2019
+Stanley Black & Decker Inc,14534.6,Industrials,53100,18707111,43316,432,Machinery,2019
+Texas Instruments Inc,14461,Information Technology,30000,18655972,82034,227,Semiconductor,2019
+Halliburton Co,14445,Energy,40000,12770467,87289,146,Not found,2019
+Stryker Corp,14351,Health Care,43000,14974829,70771,212,Healthcare Products,2019
+Estee Lauder Cos Inc ,14294,Consumer Staples,48000,21435428,30733,697,Not found,2019
+Corteva Inc,14217,Materials,21000,11357053,80757,141,Chemical  - Specialty),2019
+Freeport-McMoRan Inc,14198,Materials,24500,15742249,75874,207,Metals  -  Mining,2019
+Qurate Retail Inc,14177,Health Care,25314,4697971,30221,155,Retail  - Online),2019
+Dominion Energy Inc,14172,Utilities,17300,17257035,145136,119,Utility  - General),2019
+Wayfair Inc,14145.156,Health Care,16122,83237,41412,2,Retail  - Online),2019
+Laboratory Corp of America Holdings,13978.5,Industrials,72400,13138362,41834,314,Not found,2019
+PPG Industries Inc,13834,Materials,46900,15117938,40598,372,Chemical  - Specialty),2019
+Kellogg Co,13770,Consumer Staples,31000,9694223,38895,249,Not found,2019
+Parker-Hannifin Corp,13695.52,Industrials,50520,17472500,57282,305,Machinery,2019
+Edison International,13578,Utilities,12937,11806662,190935,62,Power,2019
+Jacobs Engineering Group Inc,13566.975,Industrials,55000,14627254,79733,183,Engineering - Construction,2017
+Biogen Inc,13444.6,Health Care,9100,18159858,159721,114,Drugs  - Biotechnology),2019
+AECOM,13239.976,Information Technology,54000,15910241,80021,199,Engineering - Construction,2019
+Omnicom Group Inc,13171.1,Communication Services,64100,19818780,44059,450,Advertising,2019
+Unum Group,13162.1,Financials,10700,9727186,65568,148,Insurance  - Life),2019
+Aptiv PLC,13066,Consumer Discretionary,151000,15164533,7302,2077,Not found,2019
+TechnipFMC PLC,13050.6,Information Technology,37000,15351206,63294,243,Not found,2019
+Discover Financial Services,12953,Financials,17600,9250436,47096,196,Financial Svcs.  - Non - bank  -  Insurance),2019
+Adobe Inc,12868,Information Technology,22516,39145631,147115,266,Software  - System  -  Application),2019
+Viacom Inc,12838,Consumer Discretionary,10700,24350958,39110,623,Not found,2018
+Anadarko Petroleum Corp,12837,Information Technology,4700,16959896,160251,106,Not found,2017
+Aramark,12829.559,Consumer Discretionary,170750,16960517,16510,1027,Restaurant - Dining,2019
+Adient PLC,12670,Communication Services,83000,14738869,18861,782,Not found,2018
+AutoZone Inc,12631.967,Consumer Discretionary,96690,8617562,27581,312,Retail  - Automotive),2019
+Loews Corp,12583,Financials,12200,9312872,72145,129,Insurance  - Prop - Cas.),2019
+Illinois Tool Works Inc,12574,Industrials,43000,15455289,51892,298,Machinery,2019
+Fidelity National Information Services Inc,12552,Information Technology,62000,27658117,59235,467,Information Services,2019
+AXA Equitable Holdings Inc,12415,Materials,7900,11254123,108566,104,Not found,2019
+WESCO International Inc,12325.995,Real Estate,18000,6642192,57269,116,Retail  - Distributors),2019
+Goodyear Tire & Rubber Co ,12321,Financials,63000,16970655,53623,316,Not found,2019
+Fox Corp,12303,Industrials,9000,29154460,81307,359,Broadcasting,2019
+Leidos Holdings Inc,12297,Information Technology,39000,10671271,103657,103,Computer Services,2019
+Consolidated Edison Inc,12246,Utilities,14071,15345285,215556,71,Utility  - General),2019
+DTE Energy Co,12177,Utilities,10600,8776433,153976,57,Not found,2019
+TE Connectivity Ltd,12172,Information Technology,82000,9291836,20846,446,Not found,2019
+Charles Schwab Corp ,12109,Materials,32000,16101141,105565,153,Not found,2019
+Pilgrim's Pride Corp,12091.901,Energy,56400,4492122,22600,199,Food Processing,2019
+State Street Corp,12078,Financials,39439,8699401,56610,154,Investments  -  Asset Management,2019
+Ameriprise Financial Inc,11958,Financials,12300,24516930,106428,230,Investments  -  Asset Management,2019
+L Brands Inc,11846.891,Consumer Discretionary,25500,4553310,14186,321,Retail  - Special Lines),2019
+WW Grainger Inc,11797,Financials,23100,7675215,66072,116,Not found,2019
+Ecolab Inc,11790.2,Materials,50200,19803193,54234,365,Chemical  - Specialty),2019
+Ball Corp,11781,Materials,21500,11855919,93903,126,Packaging  -  Container,2019
+VMware Inc,11767,Information Technology,31000,23569191,131144,180,Software  - System  -  Application),2019
+Berry Global Group Inc,11709,Financials,47000,5590944,50162,111,Packaging  -  Container,2019
+Kinder Morgan Inc-DE,11700,Energy,10524,7270,111546,0,Not found,2019
+Baxter International Inc,11673,Health Care,50000,13913821,43131,323,Healthcare Products,2019
+Textron Inc,11651,Industrials,33000,18942936,99196,191,Aerospace - Defense,2019
+LKQ Corp,11628.83,Communication Services,44000,6429072,29945,215,Retail  - Distributors),2019
+Keurig Dr Pepper Inc,11618,Consumer Staples,27000,9204921,49645,185,Beverage  - Soft),2019
+O'Reilly Automotive Inc,11604.493,Consumer Discretionary,77857,3080482,23175,133,Retail  - Automotive),2019
+Crown Holdings Inc,11575,Real Estate,33000,14010690,33390,420,Packaging  -  Container,2019
+Universal Health Services Inc,11558.897,Health Care,78800,24473240,38931,629,Hospitals - Healthcare Facilities,2019
+DaVita Inc,11550.604,Health Care,67000,17629901,61536,286,Healthcare Support Services,2019
+Xcel Energy Inc,11526,Utilities,11367,16898798,113022,150,Power,2019
+Newmont Goldcorp Corp,11497,Materials,12400,9098908,83522,109,Not found,2019
+Vistra Energy Corp,11443,Information Technology,5475,9692170,117549,82,Not found,2019
+Sempra Energy,11370,Utilities,19000,19829297,145951,136,Utility  - General),2019
+IQVIA Holdings Inc,11359,Health Care,70000,22139776,118891,186,Heathcare Information and Technology,2019
+Corning Inc,11303,Information Technology,50110,14283654,49121,291,Electronics  - General),2019
+Quanta Services Inc,11202.672,Industrials,40300,10247932,92493,111,Engineering - Construction,2019
+HollyFrontier Corp,11183.643,Energy,4074,5222831,129232,40,Oilfield Svcs - Equip.,2019
+Aon PLC,11066,Financials,50000,16181591,69784,232,Not found,2019
+Conagra Brands Inc,11054.4,Consumer Staples,16500,14392748,45590,316,Food Processing,2019
+PulteGroup Inc,11036.082,Consumer Discretionary,5249,9216065,96842,95,Homebuilding,2019
+EOG Resources Inc,11004.841,Energy,2900,12751421,175681,73,Oil - Gas  - Production and Exploration),2019
+Ally Financial Inc,10882,Financials,9500,10659777,123305,86,Financial Svcs.  - Non - bank  -  Insurance),2019
+CNA Financial Corp,10808,Utilities,5800,13054480,114082,114,Insurance  - Prop - Cas.),2019
+FirstEnergy Corp,10790,Utilities,12153,14684659,149550,98,Power,2019
+Fidelity National Financial Inc,10778,Industrials,25063,9646148,57381,168,Insurance  - Prop - Cas.),2019
+Discovery Inc,10671,Communication Services,9800,45843912,79343,578,Broadcasting,2019
+Tractor Supply Co,10620.352,Consumer Discretionary,20000,8655358,28524,303,Not found,2019
+CSX Corp,10583,Industrials,19282,15537181,107632,144,Transportation  - Railroads),2019
+Marriott International Inc-MD,10571,Consumer Discretionary,174000,13435887,38878,346,Not found,2019
+Seagate Technology PLC,10509,Information Technology,42000,10344579,9570,1081,Not found,2019
+VF Corp,10488.556,Health Care,48000,17842521,10099,1767,Not found,2019
+SunTrust Banks Inc,10431,Health Care,22899,8815914,67311,131,Not found,2018
+eBay Inc,10271,Consumer Discretionary,12700,17647255,130636,135,Retail  - Online),2019
+L3 Technologies Inc,10244,Consumer Discretionary,31000,19712866,78820,250,Not found,2017
+BorgWarner Inc,10165,Consumer Discretionary,50000,13947029,44389,314,Auto Parts,2019
+Republic Services Inc,10153.6,Industrials,35000,12617294,63899,197,Environmental  -  Waste Services,2019
+Henry Schein Inc,10119.141,Health Care,19000,14438094,71272,203,Healthcare Support Services,2019
+Expeditors International of Washington Inc,10116.481,Industrials,17908,6424455,45108,142,Transportation,2019
+Entergy Corp,10113.636,Utilities,13635,14264249,129663,110,Power,2019
+Advance Auto Parts Inc,10106.321,Consumer Discretionary,40000,7691513,19463,395,Retail  - Automotive),2019
+Assurant Inc,10094.8,Financials,14250,10155682,43368,234.2,Insurance  - General),2019
+Lam Research Corp,10044.736,Information Technology,11300,13745109,95689,144,Semiconductor Equip,2019
+Boston Scientific Corp,9913,Health Care,38000,15764140,65630,240,Healthcare Products,2019
+PVH Corp,9909,Consumer Discretionary,21500,17065604,18089,943,Apparel,2019
+Norfolk Southern Corp,9789,Industrials,20156,16655786,108348,154,Transportation  - Railroads),2019
+Advanced Micro Devices Inc,9763,Information Technology,12600,58534288,96874,604,Semiconductor,2019
+United States Steel Corp,9741,Industrials,23350,13318357,72170,185,Steel,2019
+Markel Corp,9735.066,Energy,18900,4853777,39303,123.5,Insurance  - Prop - Cas.),2019
+AES Corp-VA,9660,Utilities,8000,10827886,61975,175,Not found,2019
+Molson Coors Brewing Co,9654,Consumer Staples,17000,5234327,72272,72,Not found,2019
+JB Hunt Transport Services Inc,9636.573,Industrials,30309,6588249,65663,100,Not found,2019
+Hormel Foods Corp,9608.462,Consumer Staples,19100,8324267,45086,185,Food Processing,2019
+Public Service Enterprise Group Inc,9603,Utilities,12992,13074227,142188,92,Utility  - General),2019
+Steel Dynamics Inc,9601.482,Financials,8385,10615111,127630,83,Steel,2019
+Everest Re Group Ltd,9598.114,Financials,1603,7626619,144915,52.63,Not found,2019
+Mohawk Industries Inc,9552.197,Consumer Discretionary,42000,3126417,42999,73,Furn - Home Furnishings,2019
+First Data Corp,9498,Financials,19000,102210395,50406,2028,Not found,2019
+Square Inc,9497.578,Industrials,5477,2.75,164369,0.0001,Information Services,2019
+Quest Diagnostics Inc,9437,Health Care,49000,10131566,53492,189,Healthcare Support Services,2019
+Newell Brands Inc,9385,Consumer Discretionary,31000,8624805,31704,272,Household Products,2019
+Huntington Ingalls Industries Inc,9361,Industrials,42000,8641992,73108,118,Aerospace - Defense,2019
+Cheniere Energy Inc,9358,Communication Services,1519,16789520,182655,91.9,Oil - Gas Distribution,2019
+Willis Towers Watson PLC,9352,Financials,46000,18691731,70319,266,Not found,2019
+Alcoa Corp,9286,Consumer Staples,12900,12963461,100290,129,Metals  -  Mining,2019
+Casey's General Stores Inc,9175.296,Industrials,17282,3528588,15655,225,Retail  - Grocery and Food),2019
+AGCO Corp,9149.7,Financials,20961,15287732,48463,315,Farming - Agriculture,2019
+NRG Energy Inc,9093,Utilities,4577,9146053,114883,80,Power,2019
+Interpublic Group of Cos Inc ,9061,Communication Services,50200,16590172,71835,231,Not found,2019
+Southwest Airlines Co,9048,Industrials,56537,8771124,101302,86.6,Air Transport,2019
+News Corp,9008,Communication Services,23500,14747659,64666,228,Publishing  -  Newspapers,2019
+Eversource Energy,8904.43,Utilities,9299,19806088,133899,148,Power,2019
+Alleghany Corp,8896.719,Health Care,9017,13993062,30363,461,Reinsurance,2019
+Air Products & Chemicals Inc,8856.3,Materials,19275,17031957,61035,279,Not found,2019
+Reliance Steel & Aluminum Co,8811.9,Financials,12800,13770002,58100,237,Steel,2019
+Dick's Sporting Goods Inc,8750.743,Energy,15300,9083405,10091,900,Retail  - Special Lines),2019
+Campbell Soup Co,8691,Consumer Staples,14500,8491078,60357,141,Not found,2019
+Mosaic Co ,8681.7,Financials,12617,9767104,37234,262,Not found,2019
+Chesapeake Energy Corp,8634,Communication Services,2300,15392109,128199,120,Oil - Gas  - Production and Exploration),2019
+NXP Semiconductors NV,8612,Consumer Discretionary,29400,20558002,50294,409,Not found,2019
+Amphenol Corp,8598.9,Information Technology,80000,7380975,14441,511,Electronics  - General),2019
+ONEOK Inc,8542.242,Energy,2886,10945741,136080,80,Oil - Gas Distribution,2019
+United Rentals Inc,8530,Industrials,18250,6215830,73881,84,Retail  - Distributors),2019
+Arch Capital Group Ltd,8525.275,Consumer Discretionary,4500,8915516,112111,80,Not found,2019
+Brighthouse Financial Inc,8503,Health Care,1400,8490118,150678,56,Insurance  - Life),2019
+Regeneron Pharmaceuticals Inc,8497.1,Health Care,9123,21455117,139055,154,Drugs  - Biotechnology),2019
+Eastman Chemical Co,8473,Materials,14500,14556133,81638,178,Not found,2019
+CommScope Holding Co Inc,8435.9,Financials,30000,13992038,12769,1096,Not found,2019
+Ryder System Inc,8420.091,Consumer Discretionary,39000,6604851,48274,137,Trucking,2019
+Fifth Third Bancorp,8402,Financials,19872,8999237,68103,132,Banks  - Regional),2019
+Constellation Brands Inc,8343.5,Consumer Staples,9000,10312778,53851,192,Beverage  - Alcoholic),2019
+Univar Inc,8265,Health Care,9457,6479497,64418,101,Not found,2019
+Yum China Holdings Inc,8263,Industrials,450000,12170001,4161,2925,Not found,2019
+Targa Resources Corp,8260.3,Consumer Discretionary,2372,12460549,114112,109,Oil - Gas Distribution,2019
+Intercontinental Exchange Inc,8244,Financials,8890,14408908,146693,98,Financial Svcs.  - Non - bank  -  Insurance),2019
+Raymond James Financial Inc,8168,Financials,14800,13090394,94864,138,Brokerage  -  Investment Banking,2019
+Thor Industries Inc,8167.933,Health Care,22250,9048728,50233,180,Auto  -  Truck,2019
+Hershey Co ,8149.719,Health Care,15200,16787188,38099,441,Not found,2019
+Santander Consumer USA Holdings Inc,8108.462,Information Technology,5175,3588991,54633,65.7,Financial Svcs.  - Non - bank  -  Insurance),2019
+WR Berkley Corp,8098.925,Financials,7495,11017931,105106,105,Not found,2019
+Activision Blizzard Inc,8086,Communication Services,9500,30122896,94308,319,Entertainment,2019
+American Tower Corp,8041.5,Real Estate,5618,18095288,62745,288,R.E.I.T.,2019
+Liberty Media Corp-Liberty SiriusXM,8040,Consumer Discretionary,4555,0,0,0,Not found,2019
+Sirius XM Holdings Inc,8040,Real Estate,5726,18778831,137390,137,Cable TV,2019
+Southern Copper Corp,7984.9,Utilities,13777,1639870,33321,49,Metals  -  Mining,2019
+American Financial Group Inc-OH,7909,Financials,6500,10464587,73634,142,Not found,2019
+Darden Restaurants Inc,7806.9,Consumer Discretionary,177895,10710578,18175,589,Restaurant - Dining,2019
+JM Smucker Co ,7801,Consumer Staples,7300,8056890,71045,113,Not found,2019
+Williams Cos Inc ,7719,Energy,4739,15590338,177403,88,Not found,2019
+Intuit Inc,7679,Information Technology,10600,17933345,157232,114,Software  - System  -  Application),2019
+Citizens Financial Group Inc,7676,Financials,17584,9898442,66497,149,Banks  - Regional),2019
+Voya Financial Inc,7649,Real Estate,6000,12554291,127400,99,Financial Svcs.  - Non - bank  -  Insurance),2019
+PPL Corp,7607,Utilities,12318,14142567,147463,96,Power,2019
+Wabtec Corp,7556.1,Financials,27000,7484027,42045,178,Construction Supplies,2019
+Foot Locker Inc,7548,Materials,15589,13411422,8241,1627,Retail  - Special Lines),2019
+NVR Inc,7536.923,Consumer Discretionary,6100,3987000,78448,51,Homebuilding,2019
+Cincinnati Financial Corp,7536,Financials,5266,5528654,96112,57.5,Insurance  - Prop - Cas.),2019
+Weyerhaeuser Co,7532,Real Estate,9372,9957168,63464,157,Not found,2019
+Westlake Chemical Corp,7504,Industrials,9430,10880451,86219,126.2,Chemical  - Basic),2019
+Booz Allen Hamilton Holding Corp,7463.841,Consumer Discretionary,27200,7448529,106954,70,Computer Services,2019
+S&P Global Inc,7442,Financials,23000,12152512,27860,436,Financial Svcs.  - Non - bank  -  Insurance),2019
+Global Payments Inc,7423.558,Information Technology,24000,20502096,56040,367,Information Services,2019
+CenterPoint Energy Inc,7418,Utilities,9500,7724121,102957,75,Utility  - General),2019
+Motorola Solutions Inc,7414,Information Technology,18000,23619990,93750,252,Telecom. Equipment,2019
+Ulta Beauty Inc,7398.068,Consumer Discretionary,18000,14257713,25666,556,Retail  - Special Lines),2019
+KeyCorp,7337,Financials,16826,9663988,63748,152,Banks  - Regional),2019
+Burlington Stores Inc,7286.398,Consumer Staples,47000,9428212,12120,778,Retail  - Special Lines),2019
+WEC Energy Group Inc,7241.7,Utilities,7273,9262101,127703,73,Utility  - General),2019
+Masco Corp,7188,Industrials,18000,8659363,40070,216,Building Materials,2019
+Old Republic International Corp,7165.9,Industrials,9000,1646775,82043,20.1,Insurance  - Prop - Cas.),2019
+Seaboard Corp,7126,Energy,13100,8806646,37682,234,Food Processing,2019
+First American Financial Corp,7086.667,Financials,19597,10367225,55016,188,Insurance  - Prop - Cas.),2019
+Cintas Corp,7085.12,Financials,40000,8621245,52302,165,Business  -  Consumer Services,2019
+Toll Brothers Inc,7077.659,Consumer Discretionary,4500,10744205,70089,153,Homebuilding,2019
+Pioneer Natural Resources Co,7068,Energy,2323,13562263,171525,79,Not found,2019
+Owens Corning,7055,Industrials,19000,6351566,55090,115,Building Materials,2019
+Polaris Industries Inc,7027.9,Financials,5000,10158452,49387,205.7,Not found,2019
+Zimmer Biomet Holdings Inc,7024.5,Health Care,20000,11176720,69683,160,Healthcare Products,2019
+Xerox Corp,7022,Information Technology,27000,0,0,0,Not found,2019
+Arthur J Gallagher & Co,7003.6,Information Technology,32401,8960616,56067,160,Not found,2019
+Avery Dennison Corp,6971.5,Materials,32000,8495032,12278,692,Packaging  -  Container,2019
+Oshkosh Corp,6856.8,Information Technology,14400,10258166,62619,164,Construction Supplies,2019
+Booking Holdings Inc,6796,Consumer Discretionary,20300,14768526,50418,293,Retail  - Online),2019
+Ardagh Group SA,6731,Consumer Staples,16340,0,0,0,Not found,2019
+Clorox Co ,6721,Information Technology,8800,9362715,68441,137,Not found,2019
+Dover Corp,6683.76,Consumer Discretionary,23000,9149075,45141,203,Machinery,2019
+CMS Energy Corp,6680,Utilities,8837,8986702,122783,73,Utility  - General),2019
+Zoetis Inc,6675,Health Care,11300,21145419,76949,275,Drugs  - Pharmaceutical),2019
+Hanesbrands Inc,6664.35,Consumer Discretionary,61000,3956325,7076,559,Apparel,2019
+Packaging Corp of America,6658.2,Industrials,15200,10338117,71268,125.5,Not found,2019
+Regions Financial Corp,6655,Financials,19406,13128415,60621,217,Banks  - Regional),2019
+Graphic Packaging Holding Co,6559.9,Industrials,18775,9154192,60795,151,Not found,2019
+UGI Corp,6559,Real Estate,6500,8592760,64610,133,Power,2019
+Sprouts Farmers Market Inc,6468.759,Industrials,28000,6780744,21181,320,Retail  - Grocery and Food),2019
+Rockwell Automation Inc,6329.8,Industrials,23500,11710165,57907,202,Electrical Equipment,2019
+Avangrid Inc,6320,Real Estate,6597,2258449,221567,10,Power,2019
+Northern Trust Corp,6301.1,Financials,19800,9459768,76636,123,Investments  -  Asset Management,2019
+Nielsen Holdings PLC,6290,Industrials,43000,12936400,32646,396,Business  -  Consumer Services,2019
+M&T Bank Corp,6281.156,Financials,17373,5704703,66768,85,Banks  - Regional),2019
+Realogy Holdings Corp,6221,Industrials,9235,0,0,0,Real Estate  - Operations  -  Services),2019
+NCR Corp,6207,Financials,36000,12780572,54281,235,Computers - Peripherals,2019
+T Rowe Price Group Inc,6206.7,Consumer Staples,7678,14588346,109916,133,Not found,2019
+Vertex Pharmaceuticals Inc,6205.683,Health Care,3400,18800000,227653,83,Drugs  - Biotechnology),2019
+Ralph Lauren Corp,6159.8,Health Care,13700,13851684,22787,608,Apparel,2019
+HD Supply Holdings Inc,6146,Health Care,11500,7467171,51288,146,Not found,2018
+Invesco Ltd,6145.6,Financials,8512,11518949,125282,92,Investments  -  Asset Management,2019
+Owens-Illinois Inc,6091,Industrials,25000,0,0,0,Not found,2019
+Fortune Brands Home & Security Inc,6090.3,Industrials,27500,10693887,57125,187,Building Materials,2019
+National Oilwell Varco Inc,6090,Financials,35479,9253961,51374,180,Not found,2019
+Alexion Pharmaceuticals Inc,6069.9,Health Care,3387,18947984,237151,80,Drugs  - Biotechnology),2019
+Huntsman Corp,6018,Industrials,9000,16468951,71711,230,Chemical  - Diversified),2019
+Equinix Inc,5998.545,Real Estate,10013,16575596,133688,124,R.E.I.T.,2019
+Ingredion Inc,5987,Industrials,12000,8474335,47754,177,Farming - Agriculture,2019
+Chipotle Mexican Grill Inc,5984.634,Consumer Discretionary,88000,16068144,14155,1136,Restaurant - Dining,2019
+Jefferies Financial Group Inc,5958.375,Industrials,3922,9231958,170000,54,Diversified,2019
+Williams-Sonoma Inc,5898.008,Energy,11600,27254166,11137,2447,Retail  - Building Supply),2019
+LPL Financial Holdings Inc,5871.64,Consumer Discretionary,4756,7669954,87303,88,Brokerage  -  Investment Banking,2019
+Crown Castle International Corp,5842,Real Estate,4900,12620843,123187,102,R.E.I.T.,2019
+TD Ameritrade Holding Corp,5838,Consumer Discretionary,9226,9772730,83718,116.7,Not found,2019
+KLA-Tencor Corp,5806.424,Information Technology,10600,20512367,85968,239,Not found,2019
+Ameren Corp,5794,Utilities,9323,9718998,147127,66,Utility  - General),2019
+Olin Corp,5758,Industrials,8000,7154041,107139,66.77,Chemical  - Basic),2019
+Post Holdings Inc,5698.7,Consumer Discretionary,10200,11319810,67082,169,Food Processing,2019
+Arconic Inc,5675,Consumer Staples,13400,51837578,55497,934,Not found,2019
+Celanese Corp,5655,Materials,7658,8001982,82366,97.2,Chemical  - Specialty),2019
+Yum! Brands Inc,5652,Consumer Discretionary,38000,16369090,11584,1413,Restaurant - Dining,2019
+Fastenal Co,5647.3,Industrials,20365,1759943,45842,38,Not found,2019
+Analog Devices Inc,5603.056,Information Technology,15900,11948434,62277,192,Semiconductor,2019
+McCormick & Co Inc-MD,5601.3,Information Technology,13000,12769184,31603,404,Not found,2019
+Carnival Corp,5595,Consumer Discretionary,11000,11149514,15429,723,Hotel - Gaming,2019
+Franklin Resources Inc,5566.5,Financials,11800,10431335,63941,163,Investments  -  Asset Management,2019
+Capri Holdings Ltd,5551,Financials,17797,14354013,25700,558,Not found,2019
+Herbalife Nutrition Ltd,5541.8,Health Care,9900,2455922,36137,68,Household Products,2019
+Electronic Arts Inc,5537,Communication Services,9800,18320071,91661,200,Entertainment,2019
+MDU Resources Group Inc,5532.75,Health Care,12994,6144355,63768,96,Utility  - General),2019
+Roper Technologies Inc,5527.1,Industrials,18400,18834053,88988,212,Diversified,2019
+RPM International Inc,5506.994,Consumer Discretionary,14621,8397565,57028,147,Chemical  - Specialty),2019
+Cerner Corp,5505.788,Health Care,23000,12538797,69830,179.6,Heathcare Information and Technology,2019
+Hasbro Inc,5465.443,Consumer Discretionary,6822,17960878,75729,237,Recreation,2019
+NetApp Inc,5412,Information Technology,10800,13164969,198620,67,Computers - Peripherals,2019
+Moody's Corp,5371,Financials,11490,13751632,87393,157,Financial Svcs.  - Non - bank  -  Insurance),2019
+Agilent Technologies Inc,5339,Health Care,16400,12520566,70014,179,Heathcare Information and Technology,2019
+ADT Inc,5314.787,Information Technology,20500,9343259,58615,159,Business  -  Consumer Services,2019
+Microchip Technology Inc,5274.2,Information Technology,18000,12864939,41125,313,Semiconductor,2019
+ON Semiconductor Corp,5255,Communication Services,31000,8894933,16069,554,Semiconductor,2019
+Huntington Bancshares Inc-OH,5238,Financials,15477,7488685,61717,121.3,Not found,2019
+Sonoco Products Co,5237.443,Industrials,23000,5402685,53523,101,Not found,2019
+Telephone & Data Systems Inc,5225,Health Care,2900,6885780,54661,126,Not found,2019
+Expedia Group Inc,5199,Consumer Discretionary,19100,11262552,69854,161,Retail  - Online),2019
+RenaissanceRe Holdings Ltd,5172.316,Financials,604,10768159,208241,51.7,Not found,2019
+MGM Resorts International,5162.082,Consumer Discretionary,52000,13146352,38954,337,Hotel - Gaming,2019
+Robert Half International Inc,5109,Industrials,13000,7433592,19806,375,Business  -  Consumer Services,2019
+TransDigm Group Inc,5103,Industrials,14200,13135200,44072,298,Aerospace - Defense,2019
+International Flavors & Fragrances Inc,5084.239,Materials,13700,7629084,38981,196,Chemical  - Specialty),2019
+Michaels Cos Inc ,5072.037,Consumer Discretionary,12000,10472847,11440,915,Not found,2019
+Resideo Technologies Inc,5071,Industrials,14700,6353165,25569,248,Building Materials,2019
+Perrigo Co PLC,5063.3,Health Care,11200,10525298,82616,127,Not found,2019
+Watsco Inc,5054.928,Health Care,5800,11204097,52908,212,Retail  - Distributors),2019
+Devon Energy Corp,4989,Energy,1800,13795899,164100,84,Oil - Gas  - Production and Exploration),2019
+Chemours Co ,4969,Communication Services,6500,7695644,95254,81,Not found,2019
+Tapestry Inc,4961.4,Consumer Discretionary,9200,12362240,25450,486,Apparel,2019
+OneMain Holdings Inc,4933,Communication Services,8300,9483399,39567,240,Financial Svcs.  - Non - bank  -  Insurance),2019
+Silgan Holdings Inc,4921.943,Materials,12000,13264941,36067,368,Packaging  -  Container,2019
+Evergy Inc,4913.4,Utilities,5133,5793975,153717,38,Power,2019
+Gardner Denver Holdings Inc,4910.2,Consumer Discretionary,15900,5535511,61496,90,Not found,2018
+Sealed Air Corp,4903.2,Materials,16500,8989757,55804,161,Packaging  -  Container,2019
+Church & Dwight Co Inc,4895.8,Consumer Staples,5100,8985122,65894,136.4,Not found,2019
+CME Group Inc,4883.6,Financials,4370,11867214,145478,82,Financial Svcs.  - Non - bank  -  Insurance),2019
+Xylem Inc-NY,4876,Industrials,16700,8300000,50000,166,Not found,2019
+Vulcan Materials Co,4856.826,Materials,8767,9574528,85562,112,Not found,2019
+Axis Capital Holdings Ltd,4841.954,Materials,1567,9278330,144000,64,Not found,2019
+Western Union Co ,4835,Information Technology,11000,10099500,31966,316,Not found,2019
+Hanover Insurance Group Inc ,4827.3,Consumer Discretionary,4300,4994450,97544,51,Not found,2019
+International Game Technology PLC,4785.806,Materials,12000,66000000,69984,943,Not found,2019
+Torchmark Corp,4737.921,Consumer Discretionary,3261,8349130,98507,85,Not found,2017
+Martin Marietta Materials Inc,4729.9,Materials,8700,12198358,67956,180,Construction Supplies,2019
+Coty Inc,4717.8,Consumer Staples,18260,16748651,43242,387,Household Products,2019
+NiSource Inc,4681.7,Utilities,7301,6628690,110318,60,Utility  - General),2019
+Knight-Swift Transportation Holdings Inc,4673.863,Information Technology,22700,4645780,46648,100,Trucking,2019
+SS&C Technologies Holdings Inc,4667.9,Industrials,24600,21620325,133054,162,Software  - System  -  Application),2019
+Hess Corp,4667,Health Care,1775,13493661,190250,71,Oil - Gas  - Production and Exploration),2019
+Encompass Health Corp,4644.4,Industrials,31837,7270287,39032,186,Hospitals - Healthcare Facilities,2019
+FMC Corp,4642.1,Industrials,6400,11536552,51332,225,Chemical  - Specialty),2019
+Fortive Corp,4634.4,Industrials,25000,14141477,56212,251.6,Machinery,2019
+Simon Property Group Inc,4607.503,Real Estate,3300,10439378,62457,166,R.E.I.T.,2019
+Welltower Inc,4605.967,Real Estate,423,13142124,90811,145,R.E.I.T.,2019
+Monster Beverage Corp,4598.638,Consumer Staples,2655,13982434,55169,253,Beverage  - Soft),2019
+Skechers U.S.A. Inc,4597.414,Real Estate,5900,13697047,47634,288,Shoe,2019
+Mattel Inc,4583.7,Information Technology,24000,15514997,5526,2808,Recreation,2019
+Schneider National Inc,4552.8,Energy,15225,3742725,51201,73,Trucking,2019
+AMETEK Inc,4540.029,Industrials,16500,10176064,86304,118,Electrical Equipment,2019
+Broadridge Financial Solutions Inc,4529,Information Technology,12000,7399052,69912,105.8,Information Services,2019
+Alliance Data Systems Corp,4521.4,Industrials,8000,7599100,60219,126,Information Services,2019
+ServiceNow Inc,4519.484,Information Technology,13096,21561715,223554,96,Software  - System  -  Application),2019
+First Republic Bank-CA,4506.906,Financials,4812,12884327,145400,89,Not found,2019
+Concho Resources Inc,4494,Consumer Staples,1453,12980443,157850,82.23,Oil - Gas  - Production and Exploration),2019
+Under Armour Inc,4474.667,Consumer Discretionary,16600,5954169,12126,491,Apparel,2019
+Noble Energy Inc,4470,Utilities,2282,13038313,142118,92,Not found,2018
+Zebra Technologies Corp,4448,Information Technology,8800,10150109,66632,152.33,Electronics  - General),2019
+Juniper Networks Inc,4445.1,Information Technology,9950,11129890,129616,86,Telecom. Equipment,2019
+Prologis Inc,4438.735,Real Estate,1712,30383438,117751,258,R.E.I.T.,2019
+Tiffany & Co,4424,Health Care,14100,10940139,33642,325,Retail  - Special Lines),2018
+Flowers Foods Inc,4387.991,Information Technology,9700,3822322,75995,50,Food Processing,2019
+Edwards Lifesciences Corp,4386.3,Health Care,14900,11520973,64517,179,Healthcare Products,2019
+Intuitive Surgical Inc,4358.4,Health Care,8081,6470374,157267,41,Healthcare Products,2019
+TreeHouse Foods Inc,4349.7,Industrials,10900,7237021,55710,130,Food Processing,2019
+Brunswick Corp-DE,4347.5,Consumer Staples,14382,5840775,49314,118,Not found,2019
+Covetrus Inc,4339,Consumer Staples,5500,3690212,30284,122,Healthcare Support Services,2018
+Workday Inc,4317.996,Financials,12200,9827005,187783,52,Software  - System  -  Application),2019
+Hilton Worldwide Holdings Inc,4307,Consumer Discretionary,141000,21387511,43695,489,Hotel - Gaming,2019
+IHS Markit Ltd,4287.8,Industrials,16000,13070056,90999,144,Not found,2017
+Leggett & Platt Inc,4280.2,Consumer Discretionary,20400,10204342,36441,280,Furn - Home Furnishings,2019
+Apache Corp,4276,Energy,3163,14287300,157761,91,Oil - Gas  - Production and Exploration),2019
+Carlisle Cos Inc,4245.2,Health Care,12000,9578941,64629,148,Not found,2019
+Keysight Technologies Inc,4221,Information Technology,13900,11124216,84714,131,Electronics  - General),2019
+Antero Resources Corp,4215.472,Information Technology,522,5852902,78547,75,Oil - Gas  - Production and Exploration),2019
+Garmin Ltd,4186.573,Consumer Discretionary,16000,3233412,35188,92,Not found,2019
+Hubbell Inc,4186,Information Technology,19100,5638825,42893,131,Electrical Equipment,2019
+Amdocs Ltd,4169.039,Industrials,25875,0,102116,0,Not found,2019
+Conduent Inc,4163,Consumer Staples,67000,7066017,31308,226,Information Services,2018
+Iron Mountain Inc,4147.27,Health Care,24000,10888949,39267,278,R.E.I.T.,2019
+Landstar System Inc,4136.38,Consumer Staples,1320,2645790,42125,62.8,Trucking,2019
+Scotts Miracle-Gro Co ,4131.6,Energy,5932,7922384,53177,149,Not found,2019
+Equifax Inc,4127.5,Industrials,11400,14281552,72230,197.7,Business  -  Consumer Services,2019
+CF Industries Holdings Inc,4124,Materials,3000,8758243,119957,73,Chemical  - Specialty),2019
+Domino's Pizza Inc,4117.411,Consumer Discretionary,14400,5495804,17919,307,Restaurant - Dining,2019
+Gartner Inc,4099.403,Information Technology,15600,11960245,110383,108,Computer Services,2019
+Bemis Co Inc,4089.9,Health Care,15694,6643003,42015,158,Not found,2017
+SVB Financial Group,4081.758,Financials,4461,10677545,132157,81,Banks  - Regional),2019
+American National Insurance Co,4070.143,Financials,4640,7850440,67023,117,Not found,2019
+Harley-Davidson Inc,4054.377,Consumer Discretionary,5200,11123478,187157,59,Auto  -  Truck,2019
+Paychex Inc,4040.5,Information Technology,15800,7930520,56018,142,Information Services,2019
+United States Cellular Corp,4037,Industrials,5300,8843995,55425,159.6,Telecom  - Wireless),2019
+Total System Services Inc,4028.211,Consumer Discretionary,12820,7057482,62146,114,Not found,2017
+Old Dominion Freight Line Inc,4015.129,Industrials,19779,7344950,81583,90,Trucking,2019
+Urban Outfitters Inc,3983.789,Industrials,9600,1039129,12420.51,83.66,Retail  - Special Lines),2019
+Lululemon Athletica Inc,3979.296,Consumer Discretionary,19000,19779260,22549,877,Not found,2019
+AMERCO,3978.868,Industrials,30000,1016699,17280,59,Trucking,2019
+Spectrum Brands Holdings Inc,3964.2,Industrials,12100,19688132,11371,1731,Household Products,2019
+Snap-on Inc,3942.2,Industrials,12300,7560073,60721,125,Machinery,2019
+Pool Corp,3936.623,Financials,4500,3290220,50095,66,Retail  - Distributors),2019
+Worldpay Inc,3925.4,Financials,8186,11176630,85481,131,Not found,2017
+Digital Realty Trust Inc,3903.609,Real Estate,1153,12337700,157229.85,78,R.E.I.T.,2019
+Lions Gate Entertainment Corp,3890,Materials,1443,6615219,117628,56.2,Entertainment,2019
+Ventas Inc,3795.357,Real Estate,448,11348335,101004,112,R.E.I.T.,2019
+Lamb Weston Holdings Inc,3792.4,Consumer Staples,7700,6837282,55629,123,Food Processing,2019
+Autodesk Inc,3790.4,Information Technology,10100,9021758,117829,76.6,Software  - System  -  Application),2019
+Mercury General Corp,3784.511,Health Care,4300,1706295,61343,28,Insurance  - Prop - Cas.),2019
+PerkinElmer Inc,3782.745,Health Care,13000,16481787,46161,357,Heathcare Information and Technology,2019
+American Water Works Co Inc,3777,Utilities,7000,5918455,85855,69,Not found,2019
+Hologic Inc,3776.4,Health Care,5814,12374753,91403,135,Healthcare Products,2019
+Axalta Coating Systems Ltd,3737.6,Materials,13000,9975228,64702,154,Chemical  - Specialty),2019
+Navient Corp,3734,Financials,5560,7793321,46126,168,Financial Svcs.  - Non - bank  -  Insurance),2019
+Flowserve Corp,3728.134,Information Technology,16000,8709622,64075,136,Machinery,2019
+Twitter Inc,3716.349,Communication Services,5500,1.4,213155,0.001,Software  - Entertainment),2019
+Genpact Ltd,3709.377,Consumer Discretionary,96500,7617106,31657,241,Not found,2019
+Synopsys Inc,3685.281,Information Technology,15036,9628307,89083,108,Software  - System  -  Application),2019
+Tempur Sealy International Inc,3676.9,Health Care,9000,14277857,48205,296,Furn - Home Furnishings,2019
+Domtar Corp,3652,Consumer Discretionary,10000,6836746,81678,84,Paper - Forest Products,2019
+Lennox International Inc,3634.1,Consumer Discretionary,10300,13231690,70513,188,Building Materials,2019
+Las Vegas Sands Corp,3612,Consumer Discretionary,46000,24680118,42228,584,Hotel - Gaming,2019
+Pinnacle West Capital Corp,3586.982,Utilities,6000,11882550,132212,90,Power,2019
+Alaska Air Group Inc,3566,Industrials,16072,5533320,64528,85.8,Air Transport,2019
+EQT Corp,3557.449,Energy,624,1,115690,0.0001,Oil - Gas  - Production and Exploration),2019
+Timken Co ,3513.2,Health Care,17430,11879251,51873,229,Not found,2019
+Service Corp International-US,3511.509,Utilities,16503,12510895,33280,376,Not found,2019
+Caesars Entertainment Corp,3474,Information Technology,15500,4791280,37103,129,Not found,2019
+WABCO Holdings Inc,3421.4,Financials,13911,7488503,51176,146.3,Not found,2017
+Alliant Energy Corp,3416,Utilities,3375,7765384,138044,56,Power,2019
+Palo Alto Networks Inc,3408.4,Materials,8014,23885839,219722,109,Software  - System  -  Application),2019
+Spirit AeroSystems Holdings Inc,3404.8,Industrials,14500,11072149,70486,157,Aerospace - Defense,2019
+First Horizon National Corp,3390,Financials,6649,5551044,89476,62,Not found,2019
+Toro Co ,3378.81,Consumer Discretionary,10385,5267433,48319,109,Not found,2019
+Brown-Forman Corp,3363,Consumer Staples,4800,3695893,58714,63,Beverage  - Alcoholic),2019
+Red Hat Inc,3362.069,Real Estate,13360,15442344,118925,130,Not found,2019
+Skyworks Solutions Inc,3355.7,Information Technology,10000,13660593,21852,625,Semiconductor,2019
+DENTSPLY SIRONA Inc,3342,Health Care,15200,11366243,50861,223,Healthcare Products,2019
+Zillow Group Inc,3339.817,Information Technology,5504,4502366,121573,37,Software  - Entertainment),2019
+Acuity Brands Inc,3326.3,Communication Services,11500,14874164,15169,981,Electrical Equipment,2019
+GoDaddy Inc,3316.7,Financials,6621,14310581,59369,241,Software  - Internet),2019
+Elanco Animal Health Inc,3273.3,Health Care,6080,15801769,81265,194,Drugs  - Pharmaceutical),2019
+Virtu Financial Inc,3239.331,Health Care,1012,4598172,177848,26,Brokerage  -  Investment Banking,2019
+Qorvo Inc,3239.141,Information Technology,7900,7984739,44708,179,Semiconductor,2019
+Illumina Inc,3239,Health Care,7800,1521949,104555,15,Heathcare Information and Technology,2019
+Citrix Systems Inc,3236.7,Information Technology,8400,14513856,181769,80,Software  - System  -  Application),2019
+Akamai Technologies Inc,3198.149,Information Technology,8368,10937601,117276,93,Software  - Internet),2019
+MSC Industrial Direct Co Inc,3192.399,Information Technology,6315,3871786,54425,71,Not found,2019
+PRA Health Sciences Inc,3183.365,Utilities,18100,7160216,66630,107,Heathcare Information and Technology,2019
+Varian Medical Systems Inc,3168.2,Health Care,10000,9446296,109548,86,Healthcare Products,2019
+Xilinx Inc,3162.666,Information Technology,4891,6589807,148150,44,Semiconductor,2019
+Transocean Ltd,3152,Industrials,6600,9936952,129485,77,Not found,2019
+CIT Group Inc,3150.4,Information Technology,4131,8339413,93434,89,Banks  - Regional),2019
+Trimble Inc,3147.7,Information Technology,11402,9680494,70075,138,Electronics  - General),2019
+E*TRADE Financial Corp,3145,Information Technology,4122,5966882,98271,61,Not found,2018
+Clean Harbors Inc,3144.097,Information Technology,13500,4113899,65894,62,Environmental  -  Waste Services,2019
+Albemarle Corp,3128.909,Industrials,5900,8521584,77782,110,Chemical  - Specialty),2019
+Marathon Oil Corp,3122,Energy,1672,14050851,144720,97,Oil - Gas  - Production and Exploration),2019
+Teradyne Inc,3121.469,Information Technology,5500,8007913,97185,82,Semiconductor Equip,2019
+Catalent Inc,3094.3,Health Care,13900,8514987,50845,167.5,Drugs  - Pharmaceutical),2019
+Comerica Inc,3094,Financials,7681,14632651,85981,170,Banks  - Regional),2019
+Take-Two Interactive Software Inc,3088.97,Communication Services,4488,109540,67714,1.62,Entertainment,2019
+Teledyne Technologies Inc,3086.2,Industrials,10670,3818788,65046,59,Aerospace - Defense,2019
+Mettler-Toledo International Inc,3085.177,Health Care,16500,8755320,39445,222,Heathcare Information and Technology,2019
+Terex Corp,3076.4,Information Technology,8200,8332602,56699,147,Construction Supplies,2019
+Colfax Corp,3070.769,Information Technology,15400,8430026,23146,364,Machinery,2019
+Diamondback Energy Inc,3056,Energy,712,16049655,137832,116,Oil - Gas  - Production and Exploration),2019
+IAC-InterActiveCorp,3047.681,Industrials,9269,15508980,53981,287,Software  - Entertainment),2019
+Sensata Technologies Holding PLC,3045.578,Utilities,19000,5795871,10790,537,Electrical Equipment,2019
+Garrett Motion Inc,3034,Consumer Discretionary,6300,5276980,27146,198,Not found,2019
+STERIS PLC,3030.895,Health Care,13000,5992286,59832,100,Not found,2019
+Carter's Inc,3024.334,Industrials,18000,7627912,10890,700,Apparel,2019
+Pentair PLC,3017.8,Industrials,9500,6413860,59187,108,Not found,2019
+ResMed Inc,2957.013,Health Care,7770,9635100,60918,158,Healthcare Products,2019
+JetBlue Airways Corp,2957,Industrials,16495,3955524,59647,66.3,Air Transport,2019
+Zions Bancorp NA,2942,Financials,9726,4341075,65048.25,67,Not found,2019
+Crane Co,2936.9,Consumer Staples,11000,7190812,68405,105,Machinery,2019
+AptarGroup Inc,2929.34,Industrials,13000,7918040,40502,195,Packaging  -  Container,2019
+Charles River Laboratories International Inc,2923.933,Materials,18400,17722105,49069,361,Heathcare Information and Technology,2019
+Legg Mason Inc,2922.125,Consumer Discretionary,3059,9952270,165165,60,Not found,2018
+Public Storage,2915.068,Real Estate,5400,4289200,26001,165,R.E.I.T.,2019
+Regal Beloit Corp,2907,Real Estate,19560,6730794,13433,501,Electrical Equipment,2019
+Nasdaq Inc,2903,Financials,4830,13869051,120822,115,Financial Svcs.  - Non - bank  -  Insurance),2019
+Valmont Industries Inc,2895.355,Energy,10844,4872938,46015,106,Engineering - Construction,2019
+AO Smith Corp,2895.3,Health Care,13500,3808438,21337,178,Not found,2019
+Graham Holdings Co,2889.121,Information Technology,16661,1470860,40131,37,Not found,2019
+Hill-Rom Holdings Inc,2881,Information Technology,10000,7326160,68973,106,Healthcare Products,2019
+Atmos Energy Corp,2821.137,Utilities,4694,10395993,84516,123,Power,2019
+AMC Networks Inc,2814.956,Consumer Discretionary,2114,20196317,57587,354,Broadcasting,2019
+Gates Industrial Corp PLC,2793,Information Technology,14300,10486690,28679,366,Not found,2019
+Verisk Analytics Inc,2784.6,Industrials,8960,9050882,77055,117,Business  -  Consumer Services,2019
+Boston Properties Inc,2765.686,Real Estate,760,11917600,115266,103,R.E.I.T.,2019
+Energizer Holdings Inc,2744.8,Industrials,5900,6814918,35464,192,Household Products,2019
+Allegion PLC,2719.9,Industrials,11500,8552444,44199,193,Not found,2019
+TransUnion,2716.6,Industrials,8200,8417153,81423,103,Business  -  Consumer Services,2019
+First Solar Inc,2711.332,Financials,5100,8524240,83313,102,Semiconductor,2019
+IDEXX Laboratories Inc,2706.655,Health Care,9300,7637774,55106,139,Healthcare Products,2019
+Marvell Technology Group Ltd,2699.161,Materials,5633,7166309,162933,44,Not found,2019
+Cadence Design Systems Inc,2682.891,Information Technology,8800,19146556,100773,190,Software  - System  -  Application),2019
+Stericycle Inc,2675.5,Financials,15000,3856557,50916,76,Environmental  -  Waste Services,2019
+Incyte Corp,2666.702,Health Care,1773,15151238,254237,60,Drugs  - Biotechnology),2019
+EPAM Systems Inc,2659.478,Energy,41200,4325619,28721,151,Computer Services,2019
+Lincoln Electric Holdings Inc,2655.4,Health Care,10700,6981969,45062,155,Machinery,2019
+Lazard Ltd,2646.769,Consumer Discretionary,3100,10509587,195170,54,Not found,2019
+H&R Block Inc,2639.72,Industrials,3500,8504020,16182,526,Business  -  Consumer Services,2019
+Kansas City Southern,2632.6,Industrials,6522,6380412,48623,131,Transportation  - Railroads),2019
+Cabot Corp,2614,Industrials,4500,6679379,68660,97,Chemical  - Basic),2019
+Brown & Brown Inc,2613.375,Information Technology,11136,5178025,71366,73,Insurance  - General),2019
+Popular Inc,2603.863,Consumer Discretionary,8522,5135399,38614,133,Banks  - Regional),2019
+Fortinet Inc,2594.4,Information Technology,8238,9629923,122329,79,Software  - System  -  Application),2019
+Continental Resources Inc-OK,2586.47,Consumer Staples,1201,12746088,127231,100,Not found,2019
+Nu Skin Enterprises Inc,2581.934,Utilities,5000,4570379,3818,1197,Household Products,2019
+Donaldson Co Inc,2581.8,Consumer Discretionary,12400,6270388,34680,181,Not found,2019
+Hawaiian Electric Industries Inc,2579.775,Consumer Discretionary,3841,4902901,151680,32,Power,2019
+Zayo Group Holdings Inc,2578,Consumer Discretionary,3781,11246476,82000,137,Not found,2018
+Equity Residential,2571.705,Real Estate,2600,6588161,59542,111,R.E.I.T.,2019
+Kontoor Brands Inc,2548.839,Consumer Discretionary,15000,0,0,0,Apparel,2019
+Visteon Corp,2548,Information Technology,10000,0,0,0,Auto Parts,2019
+Bio-Rad Laboratories Inc,2545.626,Health Care,8000,7261053,69055,105,Heathcare Information and Technology,2019
+Teleflex Inc,2537.156,Health Care,14000,6782758,46589,146,Healthcare Products,2019
+Erie Indemnity Co,2536.489,Real Estate,5849,4249710,90924,47,Not found,2019
+Middleby Corp ,2513.257,Real Estate,9778,7198183,39153,175,Not found,2019
+Columbia Sportswear Co,2501.554,Consumer Staples,7275,2671227,27562,97,Not found,2019
+Symantec Corp,2490,Financials,3600,2921038,115899,25.2,Not found,2019
+Euronet Worldwide Inc,2482.7,Consumer Discretionary,7700,8415773,24230,347,Information Services,2019
+Interactive Brokers Group Inc,2479,Information Technology,1643,8365000,88028,95,Brokerage  -  Investment Banking,2019
+ITT Inc,2477.8,Real Estate,9700,7068573,53778,131,Machinery,2019
+Align Technology Inc,2471.941,Health Care,18070,18269139,13756,1328,Healthcare Products,2019
+WPX Energy Inc,2433,Financials,590,11334302,155484,73,Oil - Gas  - Production and Exploration),2017
+Cooper Cos Inc ,2430.9,Consumer Staples,12000,7724746,39775,194,Not found,2019
+Floor & Decor Holdings Inc,2425.788,Information Technology,8790,2422843,23877,101,Retail  - Building Supply),2019
+Curtiss-Wright Corp,2391.336,Industrials,8200,9185016,57569,160,Aerospace - Defense,2019
+Match Group Inc,2391.269,Information Technology,1880,3361203,102949,33,Software  - Entertainment),2019
+FleetCor Technologies Inc,2388.855,Information Technology,8400,11504313,38414,299,Information Services,2019
+Waters Corp,2365.365,Industrials,7412,1084859,74654,15,Heathcare Information and Technology,2019
+Jazz Pharmaceuticals PLC,2363.567,Industrials,1940,14713637,214881,68,Not found,2019
+Splunk Inc,2358.926,Industrials,5800,13505795,261231,52,Software  - System  -  Application),2019
+SLM Corp,2353.109,Real Estate,1900,6062247,72550,84,Financial Svcs.  - Non - bank  -  Insurance),2019
+Valvoline Inc,2353,Energy,8800,4601614,31075,148,Chemical  - Basic),2019
+IDEX Corp,2351.646,Information Technology,7439,9119596,66703,137,Machinery,2019
+F5 Networks Inc,2350.822,Information Technology,6110,9473457,176749,54,Telecom. Equipment,2019
+Genesee & Wyoming Inc,2348.55,Consumer Discretionary,8000,0,0,0,Not found,2017
+MKS Instruments Inc,2330,Real Estate,5800,9669644,79505,122,Semiconductor Equip,2019
+Ashland Global Holdings Inc,2326,Financials,4500,7372385,62083,119,Chemical  - Specialty),2019
+Arista Networks Inc,2317.512,Information Technology,2613,1384171,151647,9,Telecom. Equipment,2019
+Synovus Financial Corp,2311.008,Information Technology,5264,5222995,65896,79,Banks  - Regional),2019
+People's United Financial Inc,2307.7,Financials,6110,5800085,68190,85,Banks  - Regional),2019
+AvalonBay Communities Inc,2301.261,Real Estate,3122,10921362,70917,154,R.E.I.T.,2019
+Evercore Inc,2291.628,Consumer Discretionary,1900,7312898,187500,39,Brokerage  -  Investment Banking,2019
+TCF Financial Corp,2281.725,Consumer Discretionary,7254,0,0,0,Banks  - Regional),2019
+Royal Caribbean Cruises Ltd,2208.805,Consumer Discretionary,8200,14358919,17303,830,Not found,2019
+Copart Inc,2205.583,Industrials,7600,156315,35360,4.4,Business  -  Consumer Services,2019
+Cypress Semiconductor Corp,2205.314,Health Care,5871,10571858,54343,195,Not found,2018
+Maxim Integrated Products Inc,2191.395,Information Technology,7115,9143785,32372,282,Semiconductor,2019
+KAR Auction Services Inc,2187.7,Industrials,10000,5529428,33017,167,Business  -  Consumer Services,2019
+Seattle Genetics Inc,2175.536,Consumer Discretionary,2092,14521495,222352,65,Not found,2019
+Kirby Corp,2171.408,Energy,5400,4684626,83595,56,Shipbuilding  -  Marine,2019
+Rollins Inc,2161.22,Industrials,15616,4780854,50134,95.4,Environmental  -  Waste Services,2019
+Wyndham Destinations Inc,2160,Financials,15500,7951962,49083,162,Hotel - Gaming,2018
+West Pharmaceutical Services Inc,2146.9,Health Care,9200,6479661,49229,133,Healthcare Products,2019
+Nabors Industries Ltd,2134.043,Financials,10000,14742873,53768,274,Not found,2018
+BWX Technologies Inc,2123.516,Consumer Staples,6700,5041508,88538,57,Aerospace - Defense,2019
+OGE Energy Corp,2122.3,Energy,2360,6447313,110779,58,Power,2019
+Nordson Corp,2121.1,Utilities,7555,3437271,57335,60,Machinery,2019
+BOK Financial Corp,2112.949,Industrials,4915,3818371,70319,54,Banks  - Regional),2019
+Range Resources Corp,2103.615,Consumer Discretionary,533,8384520,140000,60,Oil - Gas  - Production and Exploration),2019
+Wynn Resorts Ltd,2095.861,Consumer Discretionary,27500,13851298,45706,303,Not found,2019
+Acadia Healthcare Co Inc,2089.929,Health Care,28600,7719813,26881,287,Not found,2019
+SBA Communications Corp,2083.138,Real Estate,1483,10156251,92370,109,R.E.I.T.,2019
+Allison Transmission Holdings Inc,2081,Utilities,3300,3093412,85826,36,Construction Supplies,2019
+Chemed Corp,2079.583,Communication Services,16641,10019850,44423,226,Healthcare Support Services,2019
+Hyatt Hotels Corp,2066,Industrials,115000,14702221,35358,416,Hotel - Gaming,2019
+BGC Partners Inc,2063.717,Consumer Discretionary,5200,11750000,111150,106,Brokerage  -  Investment Banking,2019
+Hain Celestial Group Inc ,2053.903,Industrials,4287,11641363,30295,384,Not found,2019
+Affiliated Managers Group Inc,2027.5,Health Care,4000,24197628,160697,151,Investments  -  Asset Management,2019
+Air Lease Corp,2015.439,Financials,120,7895939,185375,43,Retail  - Distributors),2019
+NewMarket Corp,2010.931,Consumer Discretionary,2105,3183198,146806,22,Chemical  - Specialty),2019
+Tribune Media Co,2009.734,Industrials,5800,7410800,53341,139,Not found,2017
+Signature Bank-New York NY,2006.894,Materials,1472,7830542,103787,75.5,Not found,2019
+Trinity Industries Inc,1999.4,Information Technology,6375,10241919,14756,694,Construction Supplies,2019
+nVent Electric PLC,1998.6,Materials,8800,5999443,49796,120,Not found,2019
+Bruker Corp,1987.5,Consumer Staples,7230,4909641,76488,64,Heathcare Information and Technology,2019
+Zynga Inc,1974.8,Health Care,2245,11679821,98588,118,Entertainment,2019
+Murphy Oil Corp,1967.341,Financials,822,18804373,136024,138,Oil - Gas  - Production and Exploration),2019
+Vail Resorts Inc,1963.704,Industrials,7100,3624696,14884,244,Recreation,2019
+ServiceMaster Global Holdings Inc,1961,Utilities,10000,5267718,48126,109,Not found,2018
+First Citizens BancShares Inc-NC,1960.776,Financials,6451,4024342,64543,62,Not found,2019
+CDK Global Inc,1960.1,Real Estate,9000,14114436,77182,183,Software  - System  -  Application),2019
+Arcosa Inc,1935.6,Consumer Staples,6275,0,0,0,Engineering - Construction,2019
+DexCom Inc,1926.7,Health Care,5500,10279373,94523,109,Healthcare Products,2019
+FLIR Systems Inc,1923.689,Information Technology,4179,5492416,76714,72,Electronics  - General),2019
+Parsley Energy Inc,1903.33,Industrials,496,6584555,171503,38,Oil - Gas  - Production and Exploration),2017
+Apergy Corp,1899.996,Energy,3000,4055014,69120,59,Not found,2019
+Wintrust Financial Corp,1897.209,Financials,5057,5140088,56323,91,Banks  - Regional),2019
+EchoStar Corp,1887.907,Consumer Discretionary,2420,2547199,104923,24,Telecom. Equipment,2019
+Alexandria Real Estate Equities Inc,1885.637,Real Estate,470,11041490,155000,71,R.E.I.T.,2019
+QIAGEN NV,1870.346,Consumer Discretionary,5600,0,0,0,Not found,2019
+Live Nation Entertainment Inc,1861.178,Communication Services,10500,14563122,18333,794,Entertainment,2019
+BioMarin Pharmaceutical Inc,1860.455,Health Care,3059,18405856,190917,96,Drugs  - Biotechnology),2019
+Element Solutions Inc,1853.7,Communication Services,4400,4620138,50500,106,Chemical  - Specialty),2017
+Teradata Corp,1836,Health Care,8535,4941051,76892,64,Software  - System  -  Application),2019
+John Wiley & Sons Inc,1831.483,Consumer Staples,6900,5499029,57541,96,Publishing  -  Newspapers,2019
+East West Bancorp Inc,1830.589,Information Technology,3000,7413241,78992,94,Banks  - Regional),2019
+Invitation Homes Inc,1822.828,Financials,1140,6291215,57644,109,R.E.I.T.,2019
+GrubHub Inc,1819.982,Industrials,2714,7835652,85700,91,Retail  - Online),2019
+HEICO Corp,1787.009,Real Estate,5200,10204504,60046,170,Aerospace - Defense,2019
+Helmerich & Payne Inc,1773.927,Real Estate,4138,7731049,87987,87.9,Oil - Gas  - Production and Exploration),2019
+New York Community Bancorp Inc,1769.073,Communication Services,2948,7640224,82420,93,Financial Svcs.  - Non - bank  -  Insurance),2019
+Twilio Inc,1761.776,Financials,4629,12292577,191956,64,Software  - Internet),2019
+MEDNAX Inc,1733.951,Health Care,3600,8066275,98094,82,Healthcare Support Services,2019
+Eaton Vance Corp,1730.365,Industrials,1983,13370078,149073,90,Investments  -  Asset Management,2019
+WR Grace & Co,1729.8,Financials,4000,5529934,170381,32,Not found,2019
+Wendy's Co ,1709.002,Real Estate,13300,6688988,19657,340,Not found,2019
+Jack Henry & Associates Inc,1697.067,Information Technology,6402,4851479,69325,70,Information Services,2019
+MSCI Inc,1695.39,Financials,3633,9255960,55857,165,Financial Svcs.  - Non - bank  -  Insurance),2019
+Gentex Corp,1688.189405,Consumer Discretionary,5303,3059702,48462,63,Auto Parts,2019
+Pure Storage Inc,1684.179,Consumer Discretionary,3400,8383230,223393,38,Computers - Peripherals,2019
+SEI Investments Co,1684.058,Consumer Discretionary,3963,2275583,90320,25.2,Not found,2019
+ANSYS Inc,1681.297,Information Technology,4800,19591414,100100,196,Software  - System  -  Application),2019
+Mid-America Apartment Communities Inc,1677.984,Information Technology,2476,5735898,46088,124,R.E.I.T.,2019
+Cimarex Energy Co,1677.842,Health Care,747,9002555,124105,73,Oil - Gas  - Production and Exploration),2019
+Credit Acceptance Corp,1669.3,Consumer Staples,2119,1039000,68355,15,Financial Svcs.  - Non - bank  -  Insurance),2019
+CoStar Group Inc,1659.019,Materials,4752,19324540,89925,215,Business  -  Consumer Services,2019
+Realty Income Corp,1651.625,Industrials,208,7538883,99644,76,R.E.I.T.,2019
+Graco Inc,1650.115,Information Technology,3700,8520558,64849,131,Machinery,2019
+HCP Inc,1644.875,Health Care,217,9907966,145000,68,Not found,2018
+CoreLogic Inc-United States,1642.375,Industrials,5100,6566418,68504,95.85,Not found,2019
+Senior Housing Properties Trust,1632.026,Utilities,3000,0,0,0,Not found,2019
+Host Hotels & Resorts Inc,1620,Real Estate,68,9434465,197781,48,R.E.I.T.,2019
+Atlassian Corp PLC,1614.173,Communication Services,4907,9098603,71543,127,Not found,2018
+Lamar Advertising Co,1568.856,Information Technology,3300,4966110,59550,83.4,Not found,2019
+WEX Inc,1559.869,Materials,5000,6482394,63763,102,Information Services,2019
+National Fuel Gas Co,1546.291,Financials,2162,4032786,84849,48,Not found,2019
+Brookfield Property REIT Inc,1529.523,Information Technology,14000,11332589,80869,140,R.E.I.T.,2018
+Vornado Realty Trust,1527.951,Real Estate,2899,11466885,65442,175.1,R.E.I.T.,2019
+Bright Horizons Family Solutions Inc,1515.093,Health Care,33800,1895577,24695,77,Education,2019
+Equitrans Midstream Corp,1510.825,Real Estate,771,5013222,125578,40,Oil - Gas Distribution,2019
+Hexcel Corp,1502.4,Information Technology,4647,8822920,60383,146,Aerospace - Defense,2019
+Essex Property Trust Inc,1495.748,Real Estate,1799,6419864,74338,86,R.E.I.T.,2019
+FactSet Research Systems Inc,1494.111,Communication Services,10484,2884084,17358,166,Financial Svcs.  - Non - bank  -  Insurance),2019
+Exact Sciences Corp,1491.391,Utilities,4800,18729996,113869,164,Drugs  - Biotechnology),2019
+Cullen-Frost Bankers Inc,1486.489,Industrials,4685,4763232,56246,84.7,Banks  - Regional),2019
+United Therapeutics Corp,1483.3,Information Technology,950,45651970,196979,232,Drugs  - Biotechnology),2019
+Nuance Communications Inc,1478.899,Utilities,7100,12582183,50397,250,Software  - System  -  Application),2019
+frontdoor Inc,1474,Materials,1600,5529075,44750,124,Business  -  Consumer Services,2019
+CNX Resources Corp,1463.519,Utilities,451,2755901,83139,33,Oil - Gas  - Production and Exploration),2019
+PTC Inc,1458.415,Financials,6243,10984505,85126,129,Software  - System  -  Application),2019
+Eagle Materials Inc,1450.814,Information Technology,2400,5537014,79862,69,Construction Supplies,2019
+Littelfuse Inc,1445.695,Materials,12200,3920145,15671,250,Electronics  - General),2019
+Cabot Oil & Gas Corp,1440.438,Energy,503,13830926,74070,187,Oil - Gas  - Production and Exploration),2019
+Associated Banc-Corp,1426.896,Financials,4459,5140297,53222,97,Banks  - Regional),2019
+FNB Corp-PA,1424.862,Materials,3768,6409567,54714,117,Not found,2019
+Umpqua Holdings Corp,1424.636,Consumer Discretionary,3943,3604846,61072,59,Banks  - Regional),2019
+Sun Communities Inc,1398.347,Health Care,4872,7969265,29280,272,R.E.I.T.,2019
+Commerce Bancshares Inc-MO,1389.547,Financials,4766,3692831,58414,63,Not found,2019
+Morningstar Inc,1389.5,Financials,7979,3960682,83455,47,Financial Svcs.  - Non - bank  -  Insurance),2019
+Versum Materials Inc,1372.3,Communication Services,2300,4809960,82544,58,Not found,2019
+Integra LifeSciences Holdings Corp,1371.868,Industrials,3700,7859423,75619,104,Healthcare Products,2019
+Dunkin' Brands Group Inc,1370.227,Consumer Staples,1114,5404590,128265,42.1,Retail  - Grocery and Food),2017
+Extra Space Storage Inc,1356.212,Real Estate,4013,6284975,38658,163,R.E.I.T.,2019
+Pinnacle Financial Partners Inc,1338.882,Energy,2508,4923891,70266,70,Banks  - Regional),2019
+Sabre Corp,1334.1,Financials,7531,8810560,76584,115,Information Services,2019
+Western Alliance Bancorp,1332.6,Health Care,1915,5261283,101103,52,Banks  - Regional),2019
+Cable One Inc,1325.229,Industrials,2716,2704303,49978,54,Cable TV,2019
+Starwood Property Trust Inc,1320.738,Consumer Discretionary,282,0,0,0,R.E.I.T.,2019
+Nutanix Inc,1307.682,Materials,5340,6943333,179305,38.7,Software  - System  -  Application),2019
+Wyndham Hotels & Resorts Inc,1300,Financials,9000,6732826,22391,301,Hotel - Gaming,2019
+Premier Inc,1299.592,Utilities,2500,7680983,120578,64,Healthcare Support Services,2019
+Fair Isaac Corp,1294.562,Communication Services,4003,11345257,93278,122,Software  - System  -  Application),2019
+Webster Financial Corp,1287.326,Health Care,3298,3582866,65227,55,Banks  - Regional),2019
+National Instruments Corp,1286.671,Financials,7000,8487974,49581,171,Electronics  - General),2019
+Ubiquiti Networks Inc,1284.5,Financials,714,3698,59800,0,Not found,2019
+Norwegian Cruise Line Holdings Ltd,1279.908,Consumer Discretionary,36000,17808364,16925,1052,Hotel - Gaming,2019
+Prosperity Bancshares Inc,1275.444,Real Estate,3756,3720949,36631,102,Banks  - Regional),2019
+ICU Medical Inc,1271.004,Information Technology,7900,2825277,31552,90,Healthcare Products,2019
+Hospitality Properties Trust,1265.254,Consumer Staples,600,0,0,0,Not found,2017
+VeriSign Inc,1265.052,Information Technology,909,9024073,180475,50,Software  - Internet),2019
+LogMeIn Inc,1260.385,Financials,3974,9957554,108209,92,Not found,2018
+Cboe Global Markets Inc,1254.3,Financials,1010,8212785,166086,49,Financial Svcs.  - Non - bank  -  Insurance),2019
+PacWest Bancorp,1249.551,Materials,1835,7061107,85821,82,Banks  - Regional),2019
+Medical Properties Trust Inc,1249.238,Health Care,86,17253436,175927,98,R.E.I.T.,2019
+Texas Capital Bancshares Inc,1242.428,Consumer Discretionary,1641,4908814,93586,52.5,Banks  - Regional),2019
+UDR Inc,1241.165,Real Estate,1263,6307734,66909,94,R.E.I.T.,2019
+Black Knight Inc,1238.5,Health Care,5700,10143427,100039,101,Information Services,2019
+Outfront Media Inc,1236.3,Industrials,2062,6993709,72331,97,R.E.I.T.,2019
+Coherent Inc,1228.999,Information Technology,4875,4887445,69018,71,Electronics  - General),2019
+VICI Properties Inc,1225.574,Health Care,147,5555658,19595,284,R.E.I.T.,2019
+GrafTech International Ltd,1224.361,Information Technology,1285,2361058,35981,66,Electrical Equipment,2019
+WP Carey Inc,1209.319,Financials,188,6918604,141718,49,Not found,2019
+BankUnited Inc,1200.83,Financials,1493,5320229,90073,59.1,Banks  - Regional),2019
+IPG Photonics Corp,1200.724,Information Technology,6060,1251984,31205,40.1,Electronics  - General),2019
+Bank OZK,1185.389,Financials,2652,5135609,41167,125,Banks  - Regional),2019
+RingCentral Inc,1183.657,Health Care,3140,9820094,127834,77,Software  - System  -  Application),2019
+American Homes 4 Rent,1182.836,Financials,1447,1476575,53556,27.57,R.E.I.T.,2019
+White Mountains Insurance Group Ltd,1180.7,Consumer Discretionary,1262,6858274,42523,161,Not found,2019
+Dolby Laboratories Inc,1161.792,Communication Services,2289,7360030,130998,56,Electronics  - General),2019
+VEREIT Inc,1161.366,Real Estate,160,6821118,113700,60,R.E.I.T.,2019
+RealPage Inc,1158.484,Industrials,7000,9579997,51324,187,Software  - System  -  Application),2019
+Tableau Software Inc,1155.352,Financials,4181,3509719,199864,18,Not found,2017
+Welbilt Inc,1153.4,Utilities,4400,3706252,47561,78,Machinery,2018
+Gaming and Leisure Properties Inc,1153.165,Materials,560,11433673,30137,379,R.E.I.T.,2019
+Sterling Bancorp-DE,1149.583,Health Care,1639,7157396,69466,111,Not found,2019
+Liberty Media Corp-Liberty Formula One,1145,Consumer Discretionary,84,19812263,88786,223,Not found,2018
+Masimo Corp,1143.744,Industrials,1600,14996101,117628,127,Healthcare Products,2019
+SM Energy Co,1126.582,Energy,503,7849218,177380,44,Utility  - General),2017
+Patterson-UTI Energy Inc,1124.249,Industrials,3000,8845356,87685,101,Oil - Gas  - Production and Exploration),2019
+Tyler Technologies Inc,1116.663,Information Technology,5536,4191130,87564,47.86,Software  - System  -  Application),2019
+Assured Guaranty Ltd,1115,Financials,441,12153470,255268,47.6,Not found,2019
+Sage Therapeutics Inc,1114.2,Financials,298,9902083,369650,27,Drugs  - Biotechnology),2019
+Veeva Systems Inc,1104.081,Health Care,3501,322917,102907,3.1,Heathcare Information and Technology,2019
+Equity LifeStyle Properties Inc,1091.448,Real Estate,4000,3455317,25681,135,R.E.I.T.,2019
+Kimco Realty Corp,1057.893,Real Estate,484,6948567,102500,68,R.E.I.T.,2019
+Uniti Group Inc,1057.611,Health Care,899,5425302,75448,72,R.E.I.T.,2017
+Camden Property Trust,1054.637,Information Technology,1700,4053465,54107,75,R.E.I.T.,2019
+Brixmor Property Group Inc,1053.748,Health Care,480,6220427,106908,58.18,R.E.I.T.,2019
+SL Green Realty Corp,1052.744,Real Estate,794,20990016,71887,292,R.E.I.T.,2019
+Proofpoint Inc,1050.01,Real Estate,3658,8413694,157971,53,Software  - System  -  Application),2019
+Neurocrine Biosciences Inc,1045.9,Communication Services,845,9450826,257209,37,Drugs  - Biotechnology),2019
+Extended Stay America Inc,1042.316,Health Care,4200,4101720,24483.08,168,Hotel - Gaming,2019
+Alkermes PLC,1038.756,Health Care,2245,14659541,177189,83,Not found,2019
+CyrusOne Inc,1033.5,Health Care,441,7108928,115693,61,R.E.I.T.,2019
+Zendesk Inc,1029.564,Information Technology,4130,4409144,123560,36,Software  - System  -  Application),2019
+Colony Capital Inc,1025.51,Consumer Staples,400,15956955,175481,91,R.E.I.T.,2019
+SolarWinds Corp,1019.241,Industrials,3251,1411200,118530,12,Software  - System  -  Application),2019
+Pegasystems Inc,1017.517,Information Technology,5776,5933824,128252,46,Software  - System  -  Application),2019
+QEP Resources Inc,1016.3,Consumer Discretionary,257,5959741,211619,28,Oil - Gas  - Production and Exploration),2019
+Regency Centers Corp,1016.175,Real Estate,450,5619541,101379,53,R.E.I.T.,2019
+Cantel Medical Corp,1016.048,Consumer Staples,3669,7842443,61747,127,Healthcare Products,2019
+Duke Realty Corp,993.198,Real Estate,400,6693904,122714,55,R.E.I.T.,2019
+Exelixis Inc,987.538,Utilities,773,2132555,241154,9,Drugs  - Biotechnology),2019
+DocuSign Inc,973.971,Communication Services,3909,8733680,128976,68,Software  - System  -  Application),2019
+FireEye Inc,940.584,Financials,3400,7728166,156004,50,Software  - System  -  Application),2019
+Armstrong World Industries Inc,936.9,Information Technology,2500,5030560,72220,71,Building Materials,2019
+Apartment Investment & Management Co,925.718,Energy,950,7305455,77292,94.5,Not found,2019
+Extraction Oil & Gas Inc,912.425,Real Estate,323,3134245,153049,36,Oil - Gas  - Production and Exploration),2019
+Insulet Corp,904.4,Industrials,1900,5883985,113721,52,Healthcare Products,2019
+Kilroy Realty Corp,898.397,Information Technology,252,12137534,150436,81,R.E.I.T.,2019
+GCI Liberty Inc,894.733,Information Technology,2051,3857811,72830,53,Not found,2017
+Hilton Grand Vacations Inc,894,Information Technology,9110,5905405,39273,150,Hotel - Gaming,2019
+Omega Healthcare Investors Inc,892.381,Industrials,68,7287348,194570,37.5,R.E.I.T.,2019
+Douglas Emmett Inc,891.523,Consumer Discretionary,713,9434604,45727,206,R.E.I.T.,2019
+American Campus Communities Inc,870.584,Industrials,2988,5802845,26519,219,R.E.I.T.,2019
+Rayonier Inc,859.154,Financials,826,4683002,106120,44,R.E.I.T.,2019
+Park Hotels & Resorts Inc,852,Materials,182,6824939,28120,243,R.E.I.T.,2019
+Macquarie Infrastructure Corp,847,Financials,1763,2921211,49827,58.6,Air Transport,2019
+Monolithic Power Systems Inc,844.452,Information Technology,2000,9356946,36848,254,Semiconductor,2019
+Grand Canyon Education Inc,844.096,Industrials,4625,1929086,60255,32,Education,2019
+Ceridian HCM Holding Inc,842.5,Utilities,5974,5022043,134817,37,Software  - System  -  Application),2019
+Paycom Software Inc,841.434,Information Technology,4218,21138558,64408,328,Software  - System  -  Application),2019
+ABIOMED Inc,840.883,Health Care,1536,19243230,115794,166,Healthcare Products,2019
+Federal Realty Investment Trust,835.494,Real Estate,307,7630858,111105,69,R.E.I.T.,2019
+Cognex Corp,811.02,Consumer Staples,2055,3848831,72959,53,Electronics  - General),2019
+Hudson Pacific Properties Inc,804.965,Information Technology,375,9327742,123063,76,R.E.I.T.,2019
+Moderna Inc,803.395,Real Estate,700,8948207,78742,113,Drugs  - Biotechnology),2019
+Kosmos Energy Ltd,801.32,Information Technology,252,5195573,288547,18,Oil - Gas  - Production and Exploration),2019
+Macerich Co ,786.026,Financials,670,6943149,94711,73,Not found,2019
+First Hawaiian Inc,780.139,Financials,2103,6011668,54729,110,Banks  - Regional),2019
+2U Inc,774.533,Communication Services,3749,6612508,59272,112,Software  - System  -  Application),2019
+Choice Hotels International Inc,774.072,Consumer Discretionary,1498,6821434,86605,79,Hotel - Gaming,2019
+Guidewire Software Inc,742.307,Industrials,2690,4559179,161858,28,Software  - System  -  Application),2019
+Healthcare Trust of America Inc,738.965,Health Care,333,6418812,69548,92,R.E.I.T.,2019
+Bio-Techne Corp,738.691,Health Care,2300,11011138,64371,171,Heathcare Information and Technology,2019
+Highwoods Properties Inc,736.9,Information Technology,359,2103705,68222,31,R.E.I.T.,2019
+Whiting Petroleum Corp,732.362,Consumer Discretionary,505,6185713,117385,53,Oil - Gas  - Production and Exploration),2017
+Bank of Hawaii Corp,730.833,Financials,2022,5307172,58365,91,Banks  - Regional),2019
+Ionis Pharmaceuticals Inc,729,Financials,817,9598830,270956,35,Drugs  - Biotechnology),2019
+Chimera Investment Corp,728.062,Energy,41,10665440,358000,29.8,R.E.I.T.,2019
+Paramount Group Inc,714.237,Materials,323,9356506,88741,105.44,R.E.I.T.,2019
+Liberty Property Trust,704.889,Consumer Discretionary,271,4797350,96152,49.9,Not found,2017
+Howard Hughes Corp ,699.489,Real Estate,600,2061711,47395,43,Not found,2019
+STORE Capital Corp,694.268,Health Care,97,7426429,136380,54.5,R.E.I.T.,2019
+MarketAxess Holdings Inc,689.125,Financials,606,3844232,140455,27,Financial Svcs.  - Non - bank  -  Insurance),2019
+Cinemark Holdings Inc,686.31,Financials,12705,6308779,20313,310,Entertainment,2019
+CubeSmart,679.177,Industrials,3011,5357599,27935,192,R.E.I.T.,2019
+Taubman Centers Inc,661.054,Consumer Discretionary,420,1357347,85185,16,Not found,2018
+National Retail Properties Inc,660.681,Financials,70,6307897,98819,63,R.E.I.T.,2019
+Life Storage Inc,616.771,Consumer Discretionary,2078,3519327,31357,112,R.E.I.T.,2019
+Corporate Office Properties Trust,609.365,Information Technology,406,4319124,104974,41.1,R.E.I.T.,2019
+Empire State Realty Trust Inc,609.228,Industrials,831,11145499,62157,179,R.E.I.T.,2019
+CoreSite Realty Corp,606.824,Industrials,481,5385071,84096,64,R.E.I.T.,2019
+TripAdvisor Inc,604,Information Technology,2596,1260637,93750,13,Software  - Entertainment),2019
+Madison Square Garden Co ,603.319,Financials,450,54116491,18650,2902,Not found,2018
+JBG SMITH Properties,602.723,Industrials,1050,4893799,95058,51.48,R.E.I.T.,2019
+Apple Hospitality REIT Inc,601.879,Information Technology,66,4588609,145807,31.5,R.E.I.T.,2019
+Aspen Technology Inc,598.717,Financials,1710,7478887,93493,78.4,Software  - System  -  Application),2019
+RPC Inc,598.302,Consumer Discretionary,2700,0,0,0,Oilfield Svcs - Equip.,2019
+Manhattan Associates Inc,586.372,Financials,3400,9186524,90920,101,Software  - System  -  Application),2019
+Okta Inc,586.067,Energy,2248,0,0,0,Software  - Internet),2019
+New Residential Investment Corp,579.331,Communication Services,5471,0,0,0,R.E.I.T.,2019
+Penumbra Inc,560.412,Industrials,3300,726690,71088,10,Healthcare Products,2019
+Brandywine Realty Trust,534.852,Health Care,341,5335186,84491,63.15,R.E.I.T.,2019
+Centennial Resource Development Inc-DE,533.805,Health Care,151,2513336,142221,18,Not found,2019
+TFS Financial Corp,508.549,Industrials,997,4749066,64639,73.47,Financial Svcs.  - Non - bank  -  Insurance),2019
+AGNC Investment Corp,501,Health Care,50,16130400,240598,67,R.E.I.T.,2019
+Royal Gold Inc,498.819,Consumer Discretionary,23,3874988,446083,8.7,Precious Metals,2019
+Alnylam Pharmaceuticals Inc,492.853,Financials,1453,7317856,225811,32,Drugs  - Biotechnology),2019
+Spirit Realty Capital Inc,483.617,Industrials,82,9719499,87754,110.8,R.E.I.T.,2019
+Switch Inc,462.31,Financials,789,0,0,0,Software  - Internet),2019
+SITE Centers Corp,460.333,Real Estate,323,6657317,84580,79,R.E.I.T.,2019
+Weingarten Realty Investors,433.917,Utilities,243,6360288,96414,66,R.E.I.T.,2019
+Retail Properties of America Inc,430.043,Health Care,214,5763972,101995,57,R.E.I.T.,2019
+Universal Display Corp,428.867,Health Care,349,12733442,126469,101,Semiconductor,2019
+Elastic NV,427.62,Health Care,1936,0,0,0,Not found,2019
+EPR Properties,414.661,Energy,53,4159755,206575,20,R.E.I.T.,2019
+Pluralsight Inc,391.865,Energy,1766,0,0,0,Software  - System  -  Application),2019
+Sarepta Therapeutics Inc,380.833,Information Technology,743,1387072,290714,4.8,Drugs  - Biotechnology),2019
+Annaly Capital Management Inc,367.696,Financials,180,0,0,0,R.E.I.T.,2019
+MFA Financial Inc,359.384,Health Care,65,5351445,206500,25.9,R.E.I.T.,2019
+Six Flags Entertainment Corp,356.575,Real Estate,1950,5867497,9448,621,Recreation,2019
+Columbia Property Trust Inc,300.566,Consumer Staples,160,4994621,162046,31,R.E.I.T.,2019
+Bluebird Bio Inc,250.734,Financials,1213,13153566,233104,56,Drugs  - Biotechnology),2019
+Retail Value Inc,239.095,Health Care,4,0,0,0,R.E.I.T.,2019
+Agios Pharmaceuticals Inc,203.196,Health Care,562,16669213,267104,62,Drugs  - Biotechnology),2019
+Nektar Therapeutics,152.915,Financials,718,9939250,152663,65,Drugs  - Pharmaceutical),2019
+Equity Commonwealth,66.278,Real Estate,28,6027946,310061,19,R.E.I.T.,2019
+Liberty Broadband Corp,50.706,Consumer Discretionary,1971,12553984,147122,85,Cable TV,2019
+Two Harbors Investment Corp,-1186.516,Communication Services,150,0,0,0,R.E.I.T.,2019

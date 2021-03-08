@@ -1,0 +1,964 @@
+﻿company,value,sector
+Walmart Inc,559151,Consumer Staples
+Amazon.com Inc,386064,Consumer Discretionary
+Berkshire Hathaway Inc,286256,Financials
+Apple Inc,274515,Information Technology
+CVS Health Corp,268706,Health Care
+UnitedHealth Group Inc,257141,Health Care
+McKesson Corp,231051,Health Care
+Alphabet Inc,182527,Information Technology
+Exxon Mobil Corp,178574,Energy
+AT&T Inc,171760,Communication Services
+Costco Wholesale Corp,166761,Consumer Staples
+Cigna Corp,160401,Health Care
+Cardinal Health Inc,152922,Health Care
+Microsoft Corp,143015,Information Technology
+Walgreens Boots Alliance Inc,139537,Consumer Staples
+Home Depot Inc,132110,Consumer Discretionary
+JPMorgan Chase & Co,129503,Financials
+Verizon Communications Inc,128292,Communication Services
+Ford Motor Co,127144,Consumer Discretionary
+General Motors Co,122485,Consumer Discretionary
+Kroger Co ,122286,Consumer Staples
+Anthem Inc,121867,Health Care
+Centene Corp,111115,Materials
+Comcast Corp,103564,Communication Services
+Chevron Corp,94471,Energy
+Dell Technologies Inc,94224,Information Technology
+Bank of America Corp,93753,Financials
+Lowe's Cos Inc,89597,Consumer Discretionary
+Citigroup Inc,88839,Financials
+Facebook Inc,85965,Communication Services
+United Parcel Service Inc,84628,Industrials
+Johnson & Johnson,82584,Health Care
+Wells Fargo & Co,80303,Financials
+General Electric Co,79619,Industrials
+Target Corp,78112,Consumer Discretionary
+Intel Corp,77867,Information Technology
+Humana Inc,77155,Health Care
+International Business Machines Corp,73621,Information Technology
+Procter & Gamble Co,70950,Consumer Staples
+PepsiCo Inc,70372,Consumer Staples
+Marathon Petroleum Corp,69779,Energy
+FedEx Corp,69217,Industrials
+T-Mobile US Inc,68397,Communication Services
+MetLife Inc,67842,Financials
+Lockheed Martin Corp,65398,Industrials
+Walt Disney Co ,65388,Consumer Staples
+Valero Energy Corp,64912,Energy
+Archer-Daniels-Midland Co,64355,Consumer Staples
+Phillips 66,64129,Energy
+Boeing Co ,58158,Industrials
+Prudential Financial Inc,57033,Financials
+HP Inc,56639,Information Technology
+United Technologies Corp,56587,Information Technology
+Goldman Sachs Group Inc,53498,Financials
+Sysco Corp,52893.31,Consumer Staples
+Morgan Stanley,52047,Financials
+HCA Healthcare Inc,51533,Health Care
+Cisco Systems Inc,49301,Information Technology
+Charter Communications Inc,48097,Communication Services
+Merck & Co Inc,47994,Health Care
+Best Buy Co Inc,47262,Consumer Discretionary
+AbbVie Inc,45804,Health Care
+Allstate Corp ,44791,Financials
+Accenture PLC,44327.039,Information Technology
+American International Group Inc,43736,Financials
+Tyson Foods Inc,43185,Consumer Staples
+Progressive Corp,42638.1,Financials
+Bristol-Myers Squibb Co,42518,Health Care
+Pfizer Inc,41908,Health Care
+Caterpillar Inc,41748,Industrials
+Bunge Ltd,41404,Consumer Staples
+Oracle Corp,39068,Information Technology
+Dow Inc,38542,Materials
+American Express Co,38185,Financials
+General Dynamics Corp,37925,Industrials
+NIKE Inc,37403,Consumer Discretionary
+Northrop Grumman Corp,36799,Industrials
+Chubb Ltd,35994,Financials
+Deere & Co,35540,Industrials
+Abbott Laboratories,34608,Health Care
+Sprint Corp,33600,Industrials
+Exelon Corp,33039,Utilities
+Coca-Cola Co ,33014,Utilities
+Honeywell International Inc,32637,Industrials
+Thermo Fisher Scientific Inc,32218,Health Care
+3M,32184,Industrials
+TJX Cos Inc ,32136.962,Consumer Discretionary
+Travelers Cos Inc ,31981,Industrials
+Capital One Financial Corp,31643,Financials
+Tesla Inc,31536,Consumer Discretionary
+Raytheon Co,29176,Financials
+Medtronic PLC,28913,Health Care
+Philip Morris International Inc,28694,Consumer Staples
+Arrow Electronics Inc,28673.363,Information Technology
+Dollar General Corp,27753.973,Consumer Discretionary
+LyondellBasell Industries NV,27753,Materials
+Jabil Inc,27266.438,Financials
+Linde PLC,27243,Materials
+Hewlett Packard Enterprise Co,26982,Information Technology
+Mondelez International Inc,26581,Consumer Staples
+Kraft Heinz Co ,26185,Consumer Staples
+Amgen Inc,25424,Health Care
+CBS Corp,25285,Real Estate
+US Bancorp,25241,Industrials
+Netflix Inc,24996.056,Communication Services
+Gilead Sciences Inc,24689,Health Care
+Eli Lilly & Co,24539.8,Communication Services
+BB&T Corp,24427,Health Care
+Broadcom Inc,23888,Information Technology
+Duke Energy Corp,23868,Utilities
+CBRE Group Inc,23826.195,Real Estate
+Dollar Tree Inc,23610.8,Consumer Discretionary
+Schlumberger Ltd,23601,Energy
+QUALCOMM Inc,23531,Information Technology
+Starbucks Corp,23518,Consumer Discretionary
+US Foods Holding Corp,22885,Industrials
+Lennar Corp,22488.854,Consumer Discretionary
+Johnson Controls International plc,22317,Industrials
+Danaher Corp,22284,Health Care
+Aflac Inc,22147,Financials
+Visa Inc,21846,Information Technology
+PayPal Holdings Inc,21454,Information Technology
+Micron Technology Inc,21435,Information Technology
+salesforce.com Inc,21252,Information Technology
+Altria Group Inc,20841,Consumer Staples
+CenturyLink Inc,20712,Utilities
+Baker Hughes a GE Co,20705,Materials
+International Paper Co,20580,Materials
+Hartford Financial Services Group Inc ,20523,Consumer Discretionary
+Penske Automotive Group Inc,20443.9,Information Technology
+WellCare Health Plans Inc,20414.1,Utilities
+DuPont de Nemours Inc,20397,Materials
+AutoNation Inc,20390,Information Technology
+Southern Co ,20375,Industrials
+CarMax Inc,20319.987,Consumer Discretionary
+DR Horton Inc,20311.1,Materials
+Nucor Corp,20139.658,Materials
+Kohl's Corp,19974,Information Technology
+Cummins Inc,19811,Industrials
+DXC Technology Co,19577,Information Technology
+Union Pacific Corp,19533,Industrials
+Whirlpool Corp,19456,Consumer Discretionary
+Molina Healthcare Inc,19423,Consumer Discretionary
+McDonald's Corp,19207.8,Consumer Discretionary
+Kimberly-Clark Corp,19140,Consumer Staples
+AmerisourceBergen Corp,18989.3926,Health Care
+ConocoPhillips,18784,Energy
+PACCAR Inc,18728.5,Industrials
+Mylan NV,18526.417,Financials
+PG&E Corp,18469,Health Care
+CDW Corp-DE,18467.5,Information Technology
+Sherwin-Williams Co ,18361.7,Materials
+PNC Financial Services Group Inc ,18262,Financials
+Harris Corp,18194,Consumer Discretionary
+Macy's Inc,18097,Financials
+ManpowerGroup Inc,18001,Financials
+NextEra Energy Inc,17997,Utilities
+Eaton Corp PLC,17858,Materials
+Occidental Petroleum Corp,17809,Energy
+Avnet Inc,17634.333,Materials
+General Mills Inc,17626.6,Consumer Staples
+Westrock Co,17578.8,Materials
+Lincoln National Corp,17439,Financials
+American Airlines Group Inc,17337,Industrials
+Marsh & McLennan Cos Inc,17224,Financials
+Applied Materials Inc,17202,Industrials
+Becton Dickinson and Co,17117,Health Care
+Delta Air Lines Inc,17095,Industrials
+Lear Corp,17045.5,Consumer Discretionary
+Bank of New York Mellon Corp ,16940,Financials
+Emerson Electric Co,16785,Communication Services
+Western Digital Corp,16736,Information Technology
+NVIDIA Corp,16675,Materials
+Cognizant Technology Solutions Corp,16652,Information Technology
+Jones Lang LaSalle Inc,16589.9,Industrials
+Genuine Parts Co,16537.433,Consumer Discretionary
+Synchrony Financial,16472,Financials
+Colgate-Palmolive Co,16471,Consumer Staples
+Gap Inc ,16383,Consumer Discretionary
+XPO Logistics Inc,16252,Information Technology
+CH Robinson Worldwide Inc,16207.106,Materials
+BlackRock Inc,16205,Financials
+Allergan PLC,16088.9,Industrials
+Ross Stores Inc,16039.073,Consumer Discretionary
+Fluor Corp,15668.477,Industrials
+Nordstrom Inc,15524,Utilities
+DISH Network Corp,15493.435,Communication Services
+United Continental Holdings Inc,15355,Industrials
+Mastercard Inc,15301,Information Technology
+Celgene Corp,15281,Materials
+Waste Management Inc,15218,Industrials
+PBF Energy Inc,15115.9,Information Technology
+American Electric Power Co Inc,14918.5,Utilities
+Fiserv Inc,14852,Information Technology
+Athene Holding Ltd,14764,Communication Services
+Principal Financial Group Inc,14741.7,Financials
+Reinsurance Group of America Inc,14596,Financials
+Automatic Data Processing Inc,14589.8,Information Technology
+Stanley Black & Decker Inc,14534.6,Industrials
+Texas Instruments Inc,14461,Information Technology
+Halliburton Co,14445,Energy
+Stryker Corp,14351,Health Care
+Estee Lauder Cos Inc ,14294,Consumer Staples
+Corteva Inc,14217,Materials
+Freeport-McMoRan Inc,14198,Materials
+Qurate Retail Inc,14177,Health Care
+Dominion Energy Inc,14172,Utilities
+Wayfair Inc,14145.156,Health Care
+Laboratory Corp of America Holdings,13978.5,Industrials
+PPG Industries Inc,13834,Materials
+Kellogg Co,13770,Consumer Staples
+Parker-Hannifin Corp,13695.52,Industrials
+Edison International,13578,Utilities
+Jacobs Engineering Group Inc,13566.975,Industrials
+Biogen Inc,13444.6,Health Care
+AECOM,13239.976,Information Technology
+Omnicom Group Inc,13171.1,Communication Services
+Unum Group,13162.1,Financials
+Aptiv PLC,13066,Consumer Discretionary
+TechnipFMC PLC,13050.6,Information Technology
+Discover Financial Services,12953,Financials
+Adobe Inc,12868,Information Technology
+Viacom Inc,12838,Consumer Discretionary
+Anadarko Petroleum Corp,12837,Information Technology
+Aramark,12829.559,Consumer Discretionary
+Adient PLC,12670,Communication Services
+AutoZone Inc,12631.967,Consumer Discretionary
+Loews Corp,12583,Financials
+Illinois Tool Works Inc,12574,Industrials
+Fidelity National Information Services Inc,12552,Information Technology
+AXA Equitable Holdings Inc,12415,Materials
+WESCO International Inc,12325.995,Real Estate
+Goodyear Tire & Rubber Co ,12321,Financials
+Fox Corp,12303,Industrials
+Leidos Holdings Inc,12297,Information Technology
+Consolidated Edison Inc,12246,Utilities
+DTE Energy Co,12177,Utilities
+TE Connectivity Ltd,12172,Information Technology
+Charles Schwab Corp ,12109,Materials
+Pilgrim's Pride Corp,12091.901,Energy
+State Street Corp,12078,Financials
+Ameriprise Financial Inc,11958,Financials
+L Brands Inc,11846.891,Consumer Discretionary
+WW Grainger Inc,11797,Financials
+Ecolab Inc,11790.2,Materials
+Ball Corp,11781,Materials
+VMware Inc,11767,Information Technology
+Berry Global Group Inc,11709,Financials
+Kinder Morgan Inc-DE,11700,Energy
+Baxter International Inc,11673,Health Care
+Textron Inc,11651,Industrials
+LKQ Corp,11628.83,Communication Services
+Keurig Dr Pepper Inc,11618,Consumer Staples
+O'Reilly Automotive Inc,11604.493,Consumer Discretionary
+Crown Holdings Inc,11575,Real Estate
+Universal Health Services Inc,11558.897,Health Care
+DaVita Inc,11550.604,Health Care
+Xcel Energy Inc,11526,Utilities
+Newmont Goldcorp Corp,11497,Materials
+Vistra Energy Corp,11443,Information Technology
+Sempra Energy,11370,Utilities
+IQVIA Holdings Inc,11359,Health Care
+Corning Inc,11303,Information Technology
+Quanta Services Inc,11202.672,Industrials
+HollyFrontier Corp,11183.643,Energy
+Aon PLC,11066,Financials
+Conagra Brands Inc,11054.4,Consumer Staples
+PulteGroup Inc,11036.082,Consumer Discretionary
+EOG Resources Inc,11004.841,Energy
+Ally Financial Inc,10882,Financials
+CNA Financial Corp,10808,Utilities
+FirstEnergy Corp,10790,Utilities
+Fidelity National Financial Inc,10778,Industrials
+Discovery Inc,10671,Communication Services
+Tractor Supply Co,10620.352,Consumer Discretionary
+CSX Corp,10583,Industrials
+Marriott International Inc-MD,10571,Consumer Discretionary
+Seagate Technology PLC,10509,Information Technology
+VF Corp,10488.556,Health Care
+SunTrust Banks Inc,10431,Health Care
+eBay Inc,10271,Consumer Discretionary
+L3 Technologies Inc,10244,Consumer Discretionary
+BorgWarner Inc,10165,Consumer Discretionary
+Republic Services Inc,10153.6,Industrials
+Henry Schein Inc,10119.141,Health Care
+Expeditors International of Washington Inc,10116.481,Industrials
+Entergy Corp,10113.636,Utilities
+Advance Auto Parts Inc,10106.321,Consumer Discretionary
+Assurant Inc,10094.8,Financials
+Lam Research Corp,10044.736,Information Technology
+Boston Scientific Corp,9913,Health Care
+PVH Corp,9909,Consumer Discretionary
+Norfolk Southern Corp,9789,Industrials
+Advanced Micro Devices Inc,9763,Information Technology
+United States Steel Corp,9741,Industrials
+Markel Corp,9735.066,Energy
+AES Corp-VA,9660,Utilities
+Molson Coors Brewing Co,9654,Consumer Staples
+JB Hunt Transport Services Inc,9636.573,Industrials
+Hormel Foods Corp,9608.462,Consumer Staples
+Public Service Enterprise Group Inc,9603,Utilities
+Steel Dynamics Inc,9601.482,Financials
+Everest Re Group Ltd,9598.114,Financials
+Mohawk Industries Inc,9552.197,Consumer Discretionary
+First Data Corp,9498,Financials
+Square Inc,9497.578,Industrials
+Quest Diagnostics Inc,9437,Health Care
+Newell Brands Inc,9385,Consumer Discretionary
+Huntington Ingalls Industries Inc,9361,Industrials
+Cheniere Energy Inc,9358,Communication Services
+Willis Towers Watson PLC,9352,Financials
+Alcoa Corp,9286,Consumer Staples
+Casey's General Stores Inc,9175.296,Industrials
+AGCO Corp,9149.7,Financials
+NRG Energy Inc,9093,Utilities
+Interpublic Group of Cos Inc ,9061,Communication Services
+Southwest Airlines Co,9048,Industrials
+News Corp,9008,Communication Services
+Eversource Energy,8904.43,Utilities
+Alleghany Corp,8896.719,Health Care
+Air Products & Chemicals Inc,8856.3,Materials
+Reliance Steel & Aluminum Co,8811.9,Financials
+Dick's Sporting Goods Inc,8750.743,Energy
+Campbell Soup Co,8691,Consumer Staples
+Mosaic Co ,8681.7,Financials
+Chesapeake Energy Corp,8634,Communication Services
+NXP Semiconductors NV,8612,Consumer Discretionary
+Amphenol Corp,8598.9,Information Technology
+ONEOK Inc,8542.242,Energy
+United Rentals Inc,8530,Industrials
+Arch Capital Group Ltd,8525.275,Consumer Discretionary
+Brighthouse Financial Inc,8503,Health Care
+Regeneron Pharmaceuticals Inc,8497.1,Health Care
+Eastman Chemical Co,8473,Materials
+CommScope Holding Co Inc,8435.9,Financials
+Ryder System Inc,8420.091,Consumer Discretionary
+Fifth Third Bancorp,8402,Financials
+Constellation Brands Inc,8343.5,Consumer Staples
+Univar Inc,8265,Health Care
+Yum China Holdings Inc,8263,Industrials
+Targa Resources Corp,8260.3,Consumer Discretionary
+Intercontinental Exchange Inc,8244,Financials
+Raymond James Financial Inc,8168,Financials
+Thor Industries Inc,8167.933,Health Care
+Hershey Co ,8149.719,Health Care
+Santander Consumer USA Holdings Inc,8108.462,Information Technology
+WR Berkley Corp,8098.925,Financials
+Activision Blizzard Inc,8086,Communication Services
+American Tower Corp,8041.5,Real Estate
+Liberty Media Corp-Liberty SiriusXM,8040,Consumer Discretionary
+Sirius XM Holdings Inc,8040,Real Estate
+Southern Copper Corp,7984.9,Utilities
+American Financial Group Inc-OH,7909,Financials
+Darden Restaurants Inc,7806.9,Consumer Discretionary
+JM Smucker Co ,7801,Consumer Staples
+Williams Cos Inc ,7719,Energy
+Intuit Inc,7679,Information Technology
+Citizens Financial Group Inc,7676,Financials
+Voya Financial Inc,7649,Real Estate
+PPL Corp,7607,Utilities
+Wabtec Corp,7556.1,Financials
+Foot Locker Inc,7548,Materials
+NVR Inc,7536.923,Consumer Discretionary
+Cincinnati Financial Corp,7536,Financials
+Weyerhaeuser Co,7532,Real Estate
+Westlake Chemical Corp,7504,Industrials
+Booz Allen Hamilton Holding Corp,7463.841,Consumer Discretionary
+S&P Global Inc,7442,Financials
+Global Payments Inc,7423.558,Information Technology
+CenterPoint Energy Inc,7418,Utilities
+Motorola Solutions Inc,7414,Information Technology
+Ulta Beauty Inc,7398.068,Consumer Discretionary
+KeyCorp,7337,Financials
+Burlington Stores Inc,7286.398,Consumer Staples
+WEC Energy Group Inc,7241.7,Utilities
+Masco Corp,7188,Industrials
+Old Republic International Corp,7165.9,Industrials
+Seaboard Corp,7126,Energy
+First American Financial Corp,7086.667,Financials
+Cintas Corp,7085.12,Financials
+Toll Brothers Inc,7077.659,Consumer Discretionary
+Pioneer Natural Resources Co,7068,Energy
+Owens Corning,7055,Industrials
+Polaris Industries Inc,7027.9,Financials
+Zimmer Biomet Holdings Inc,7024.5,Health Care
+Xerox Corp,7022,Information Technology
+Arthur J Gallagher & Co,7003.6,Information Technology
+Avery Dennison Corp,6971.5,Materials
+Oshkosh Corp,6856.8,Information Technology
+Booking Holdings Inc,6796,Consumer Discretionary
+Ardagh Group SA,6731,Consumer Staples
+Clorox Co ,6721,Information Technology
+Dover Corp,6683.76,Consumer Discretionary
+CMS Energy Corp,6680,Utilities
+Zoetis Inc,6675,Health Care
+Hanesbrands Inc,6664.35,Consumer Discretionary
+Packaging Corp of America,6658.2,Industrials
+Regions Financial Corp,6655,Financials
+Graphic Packaging Holding Co,6559.9,Industrials
+UGI Corp,6559,Real Estate
+Sprouts Farmers Market Inc,6468.759,Industrials
+Rockwell Automation Inc,6329.8,Industrials
+Avangrid Inc,6320,Real Estate
+Northern Trust Corp,6301.1,Financials
+Nielsen Holdings PLC,6290,Industrials
+M&T Bank Corp,6281.156,Financials
+Realogy Holdings Corp,6221,Industrials
+NCR Corp,6207,Financials
+T Rowe Price Group Inc,6206.7,Consumer Staples
+Vertex Pharmaceuticals Inc,6205.683,Health Care
+Ralph Lauren Corp,6159.8,Health Care
+HD Supply Holdings Inc,6146,Health Care
+Invesco Ltd,6145.6,Financials
+Owens-Illinois Inc,6091,Industrials
+Fortune Brands Home & Security Inc,6090.3,Industrials
+National Oilwell Varco Inc,6090,Financials
+Alexion Pharmaceuticals Inc,6069.9,Health Care
+Huntsman Corp,6018,Industrials
+Equinix Inc,5998.545,Real Estate
+Ingredion Inc,5987,Industrials
+Chipotle Mexican Grill Inc,5984.634,Consumer Discretionary
+Jefferies Financial Group Inc,5958.375,Industrials
+Williams-Sonoma Inc,5898.008,Energy
+LPL Financial Holdings Inc,5871.64,Consumer Discretionary
+Crown Castle International Corp,5842,Real Estate
+TD Ameritrade Holding Corp,5838,Consumer Discretionary
+KLA-Tencor Corp,5806.424,Information Technology
+Ameren Corp,5794,Utilities
+Olin Corp,5758,Industrials
+Post Holdings Inc,5698.7,Consumer Discretionary
+Arconic Inc,5675,Consumer Staples
+Celanese Corp,5655,Materials
+Yum! Brands Inc,5652,Consumer Discretionary
+Fastenal Co,5647.3,Industrials
+Analog Devices Inc,5603.056,Information Technology
+McCormick & Co Inc-MD,5601.3,Information Technology
+Carnival Corp,5595,Consumer Discretionary
+Franklin Resources Inc,5566.5,Financials
+Capri Holdings Ltd,5551,Financials
+Herbalife Nutrition Ltd,5541.8,Health Care
+Electronic Arts Inc,5537,Communication Services
+MDU Resources Group Inc,5532.75,Health Care
+Roper Technologies Inc,5527.1,Industrials
+RPM International Inc,5506.994,Consumer Discretionary
+Cerner Corp,5505.788,Health Care
+Hasbro Inc,5465.443,Consumer Discretionary
+NetApp Inc,5412,Information Technology
+Moody's Corp,5371,Financials
+Agilent Technologies Inc,5339,Health Care
+ADT Inc,5314.787,Information Technology
+Microchip Technology Inc,5274.2,Information Technology
+ON Semiconductor Corp,5255,Communication Services
+Huntington Bancshares Inc-OH,5238,Financials
+Sonoco Products Co,5237.443,Industrials
+Telephone & Data Systems Inc,5225,Health Care
+Expedia Group Inc,5199,Consumer Discretionary
+RenaissanceRe Holdings Ltd,5172.316,Financials
+MGM Resorts International,5162.082,Consumer Discretionary
+Robert Half International Inc,5109,Industrials
+TransDigm Group Inc,5103,Industrials
+International Flavors & Fragrances Inc,5084.239,Materials
+Michaels Cos Inc ,5072.037,Consumer Discretionary
+Resideo Technologies Inc,5071,Industrials
+Perrigo Co PLC,5063.3,Health Care
+Watsco Inc,5054.928,Health Care
+Devon Energy Corp,4989,Energy
+Chemours Co ,4969,Communication Services
+Tapestry Inc,4961.4,Consumer Discretionary
+OneMain Holdings Inc,4933,Communication Services
+Silgan Holdings Inc,4921.943,Materials
+Evergy Inc,4913.4,Utilities
+Gardner Denver Holdings Inc,4910.2,Consumer Discretionary
+Sealed Air Corp,4903.2,Materials
+Church & Dwight Co Inc,4895.8,Consumer Staples
+CME Group Inc,4883.6,Financials
+Xylem Inc-NY,4876,Industrials
+Vulcan Materials Co,4856.826,Materials
+Axis Capital Holdings Ltd,4841.954,Materials
+Western Union Co ,4835,Information Technology
+Hanover Insurance Group Inc ,4827.3,Consumer Discretionary
+International Game Technology PLC,4785.806,Materials
+Torchmark Corp,4737.921,Consumer Discretionary
+Martin Marietta Materials Inc,4729.9,Materials
+Coty Inc,4717.8,Consumer Staples
+NiSource Inc,4681.7,Utilities
+Knight-Swift Transportation Holdings Inc,4673.863,Information Technology
+SS&C Technologies Holdings Inc,4667.9,Industrials
+Hess Corp,4667,Health Care
+Encompass Health Corp,4644.4,Industrials
+FMC Corp,4642.1,Industrials
+Fortive Corp,4634.4,Industrials
+Simon Property Group Inc,4607.503,Real Estate
+Welltower Inc,4605.967,Real Estate
+Monster Beverage Corp,4598.638,Consumer Staples
+Skechers U.S.A. Inc,4597.414,Real Estate
+Mattel Inc,4583.7,Information Technology
+Schneider National Inc,4552.8,Energy
+AMETEK Inc,4540.029,Industrials
+Broadridge Financial Solutions Inc,4529,Information Technology
+Alliance Data Systems Corp,4521.4,Industrials
+ServiceNow Inc,4519.484,Information Technology
+First Republic Bank-CA,4506.906,Financials
+Concho Resources Inc,4494,Consumer Staples
+Under Armour Inc,4474.667,Consumer Discretionary
+Noble Energy Inc,4470,Utilities
+Zebra Technologies Corp,4448,Information Technology
+Juniper Networks Inc,4445.1,Information Technology
+Prologis Inc,4438.735,Real Estate
+Tiffany & Co,4424,Health Care
+Flowers Foods Inc,4387.991,Information Technology
+Edwards Lifesciences Corp,4386.3,Health Care
+Intuitive Surgical Inc,4358.4,Health Care
+TreeHouse Foods Inc,4349.7,Industrials
+Brunswick Corp-DE,4347.5,Consumer Staples
+Covetrus Inc,4339,Consumer Staples
+Workday Inc,4317.996,Financials
+Hilton Worldwide Holdings Inc,4307,Consumer Discretionary
+IHS Markit Ltd,4287.8,Industrials
+Leggett & Platt Inc,4280.2,Consumer Discretionary
+Apache Corp,4276,Energy
+Carlisle Cos Inc,4245.2,Health Care
+Keysight Technologies Inc,4221,Information Technology
+Antero Resources Corp,4215.472,Information Technology
+Garmin Ltd,4186.573,Consumer Discretionary
+Hubbell Inc,4186,Information Technology
+Amdocs Ltd,4169.039,Industrials
+Conduent Inc,4163,Consumer Staples
+Iron Mountain Inc,4147.27,Health Care
+Landstar System Inc,4136.38,Consumer Staples
+Scotts Miracle-Gro Co ,4131.6,Energy
+Equifax Inc,4127.5,Industrials
+CF Industries Holdings Inc,4124,Materials
+Domino's Pizza Inc,4117.411,Consumer Discretionary
+Gartner Inc,4099.403,Information Technology
+Bemis Co Inc,4089.9,Health Care
+SVB Financial Group,4081.758,Financials
+American National Insurance Co,4070.143,Financials
+Harley-Davidson Inc,4054.377,Consumer Discretionary
+Paychex Inc,4040.5,Information Technology
+United States Cellular Corp,4037,Industrials
+Total System Services Inc,4028.211,Consumer Discretionary
+Old Dominion Freight Line Inc,4015.129,Industrials
+Urban Outfitters Inc,3983.789,Industrials
+Lululemon Athletica Inc,3979.296,Consumer Discretionary
+AMERCO,3978.868,Industrials
+Spectrum Brands Holdings Inc,3964.2,Industrials
+Snap-on Inc,3942.2,Industrials
+Pool Corp,3936.623,Financials
+Worldpay Inc,3925.4,Financials
+Digital Realty Trust Inc,3903.609,Real Estate
+Lions Gate Entertainment Corp,3890,Materials
+Ventas Inc,3795.357,Real Estate
+Lamb Weston Holdings Inc,3792.4,Consumer Staples
+Autodesk Inc,3790.4,Information Technology
+Mercury General Corp,3784.511,Health Care
+PerkinElmer Inc,3782.745,Health Care
+American Water Works Co Inc,3777,Utilities
+Hologic Inc,3776.4,Health Care
+Axalta Coating Systems Ltd,3737.6,Materials
+Navient Corp,3734,Financials
+Flowserve Corp,3728.134,Information Technology
+Twitter Inc,3716.349,Communication Services
+Genpact Ltd,3709.377,Consumer Discretionary
+Synopsys Inc,3685.281,Information Technology
+Tempur Sealy International Inc,3676.9,Health Care
+Domtar Corp,3652,Consumer Discretionary
+Lennox International Inc,3634.1,Consumer Discretionary
+Las Vegas Sands Corp,3612,Consumer Discretionary
+Pinnacle West Capital Corp,3586.982,Utilities
+Alaska Air Group Inc,3566,Industrials
+EQT Corp,3557.449,Energy
+Timken Co ,3513.2,Health Care
+Service Corp International-US,3511.509,Utilities
+Caesars Entertainment Corp,3474,Information Technology
+WABCO Holdings Inc,3421.4,Financials
+Alliant Energy Corp,3416,Utilities
+Palo Alto Networks Inc,3408.4,Materials
+Spirit AeroSystems Holdings Inc,3404.8,Industrials
+First Horizon National Corp,3390,Financials
+Toro Co ,3378.81,Consumer Discretionary
+Brown-Forman Corp,3363,Consumer Staples
+Red Hat Inc,3362.069,Real Estate
+Skyworks Solutions Inc,3355.7,Information Technology
+DENTSPLY SIRONA Inc,3342,Health Care
+Zillow Group Inc,3339.817,Information Technology
+Acuity Brands Inc,3326.3,Communication Services
+GoDaddy Inc,3316.7,Financials
+Elanco Animal Health Inc,3273.3,Health Care
+Virtu Financial Inc,3239.331,Health Care
+Qorvo Inc,3239.141,Information Technology
+Illumina Inc,3239,Health Care
+Citrix Systems Inc,3236.7,Information Technology
+Akamai Technologies Inc,3198.149,Information Technology
+MSC Industrial Direct Co Inc,3192.399,Information Technology
+PRA Health Sciences Inc,3183.365,Utilities
+Varian Medical Systems Inc,3168.2,Health Care
+Xilinx Inc,3162.666,Information Technology
+Transocean Ltd,3152,Industrials
+CIT Group Inc,3150.4,Information Technology
+Trimble Inc,3147.7,Information Technology
+E*TRADE Financial Corp,3145,Information Technology
+Clean Harbors Inc,3144.097,Information Technology
+Albemarle Corp,3128.909,Industrials
+Marathon Oil Corp,3122,Energy
+Teradyne Inc,3121.469,Information Technology
+Catalent Inc,3094.3,Health Care
+Comerica Inc,3094,Financials
+Take-Two Interactive Software Inc,3088.97,Communication Services
+Teledyne Technologies Inc,3086.2,Industrials
+Mettler-Toledo International Inc,3085.177,Health Care
+Terex Corp,3076.4,Information Technology
+Colfax Corp,3070.769,Information Technology
+Diamondback Energy Inc,3056,Energy
+IAC-InterActiveCorp,3047.681,Industrials
+Sensata Technologies Holding PLC,3045.578,Utilities
+Garrett Motion Inc,3034,Consumer Discretionary
+STERIS PLC,3030.895,Health Care
+Carter's Inc,3024.334,Industrials
+Pentair PLC,3017.8,Industrials
+ResMed Inc,2957.013,Health Care
+JetBlue Airways Corp,2957,Industrials
+Zions Bancorp NA,2942,Financials
+Crane Co,2936.9,Consumer Staples
+AptarGroup Inc,2929.34,Industrials
+Charles River Laboratories International Inc,2923.933,Materials
+Legg Mason Inc,2922.125,Consumer Discretionary
+Public Storage,2915.068,Real Estate
+Regal Beloit Corp,2907,Real Estate
+Nasdaq Inc,2903,Financials
+Valmont Industries Inc,2895.355,Energy
+AO Smith Corp,2895.3,Health Care
+Graham Holdings Co,2889.121,Information Technology
+Hill-Rom Holdings Inc,2881,Information Technology
+Atmos Energy Corp,2821.137,Utilities
+AMC Networks Inc,2814.956,Consumer Discretionary
+Gates Industrial Corp PLC,2793,Information Technology
+Verisk Analytics Inc,2784.6,Industrials
+Boston Properties Inc,2765.686,Real Estate
+Energizer Holdings Inc,2744.8,Industrials
+Allegion PLC,2719.9,Industrials
+TransUnion,2716.6,Industrials
+First Solar Inc,2711.332,Financials
+IDEXX Laboratories Inc,2706.655,Health Care
+Marvell Technology Group Ltd,2699.161,Materials
+Cadence Design Systems Inc,2682.891,Information Technology
+Stericycle Inc,2675.5,Financials
+Incyte Corp,2666.702,Health Care
+EPAM Systems Inc,2659.478,Energy
+Lincoln Electric Holdings Inc,2655.4,Health Care
+Lazard Ltd,2646.769,Consumer Discretionary
+H&R Block Inc,2639.72,Industrials
+Kansas City Southern,2632.6,Industrials
+Cabot Corp,2614,Industrials
+Brown & Brown Inc,2613.375,Information Technology
+Popular Inc,2603.863,Consumer Discretionary
+Fortinet Inc,2594.4,Information Technology
+Continental Resources Inc-OK,2586.47,Consumer Staples
+Nu Skin Enterprises Inc,2581.934,Utilities
+Donaldson Co Inc,2581.8,Consumer Discretionary
+Hawaiian Electric Industries Inc,2579.775,Consumer Discretionary
+Zayo Group Holdings Inc,2578,Consumer Discretionary
+Equity Residential,2571.705,Real Estate
+Kontoor Brands Inc,2548.839,Consumer Discretionary
+Visteon Corp,2548,Information Technology
+Bio-Rad Laboratories Inc,2545.626,Health Care
+Teleflex Inc,2537.156,Health Care
+Erie Indemnity Co,2536.489,Real Estate
+Middleby Corp ,2513.257,Real Estate
+Columbia Sportswear Co,2501.554,Consumer Staples
+Symantec Corp,2490,Financials
+Euronet Worldwide Inc,2482.7,Consumer Discretionary
+Interactive Brokers Group Inc,2479,Information Technology
+ITT Inc,2477.8,Real Estate
+Align Technology Inc,2471.941,Health Care
+WPX Energy Inc,2433,Financials
+Cooper Cos Inc ,2430.9,Consumer Staples
+Floor & Decor Holdings Inc,2425.788,Information Technology
+Curtiss-Wright Corp,2391.336,Industrials
+Match Group Inc,2391.269,Information Technology
+FleetCor Technologies Inc,2388.855,Information Technology
+Waters Corp,2365.365,Industrials
+Jazz Pharmaceuticals PLC,2363.567,Industrials
+Splunk Inc,2358.926,Industrials
+SLM Corp,2353.109,Real Estate
+Valvoline Inc,2353,Energy
+IDEX Corp,2351.646,Information Technology
+F5 Networks Inc,2350.822,Information Technology
+Genesee & Wyoming Inc,2348.55,Consumer Discretionary
+MKS Instruments Inc,2330,Real Estate
+Ashland Global Holdings Inc,2326,Financials
+Arista Networks Inc,2317.512,Information Technology
+Synovus Financial Corp,2311.008,Information Technology
+People's United Financial Inc,2307.7,Financials
+AvalonBay Communities Inc,2301.261,Real Estate
+Evercore Inc,2291.628,Consumer Discretionary
+TCF Financial Corp,2281.725,Consumer Discretionary
+Royal Caribbean Cruises Ltd,2208.805,Consumer Discretionary
+Copart Inc,2205.583,Industrials
+Cypress Semiconductor Corp,2205.314,Health Care
+Maxim Integrated Products Inc,2191.395,Information Technology
+KAR Auction Services Inc,2187.7,Industrials
+Seattle Genetics Inc,2175.536,Consumer Discretionary
+Kirby Corp,2171.408,Energy
+Rollins Inc,2161.22,Industrials
+Wyndham Destinations Inc,2160,Financials
+West Pharmaceutical Services Inc,2146.9,Health Care
+Nabors Industries Ltd,2134.043,Financials
+BWX Technologies Inc,2123.516,Consumer Staples
+OGE Energy Corp,2122.3,Energy
+Nordson Corp,2121.1,Utilities
+BOK Financial Corp,2112.949,Industrials
+Range Resources Corp,2103.615,Consumer Discretionary
+Wynn Resorts Ltd,2095.861,Consumer Discretionary
+Acadia Healthcare Co Inc,2089.929,Health Care
+SBA Communications Corp,2083.138,Real Estate
+Allison Transmission Holdings Inc,2081,Utilities
+Chemed Corp,2079.583,Communication Services
+Hyatt Hotels Corp,2066,Industrials
+BGC Partners Inc,2063.717,Consumer Discretionary
+Hain Celestial Group Inc ,2053.903,Industrials
+Affiliated Managers Group Inc,2027.5,Health Care
+Air Lease Corp,2015.439,Financials
+NewMarket Corp,2010.931,Consumer Discretionary
+Tribune Media Co,2009.734,Industrials
+Signature Bank-New York NY,2006.894,Materials
+Trinity Industries Inc,1999.4,Information Technology
+nVent Electric PLC,1998.6,Materials
+Bruker Corp,1987.5,Consumer Staples
+Zynga Inc,1974.8,Health Care
+Murphy Oil Corp,1967.341,Financials
+Vail Resorts Inc,1963.704,Industrials
+ServiceMaster Global Holdings Inc,1961,Utilities
+First Citizens BancShares Inc-NC,1960.776,Financials
+CDK Global Inc,1960.1,Real Estate
+Arcosa Inc,1935.6,Consumer Staples
+DexCom Inc,1926.7,Health Care
+FLIR Systems Inc,1923.689,Information Technology
+Parsley Energy Inc,1903.33,Industrials
+Apergy Corp,1899.996,Energy
+Wintrust Financial Corp,1897.209,Financials
+EchoStar Corp,1887.907,Consumer Discretionary
+Alexandria Real Estate Equities Inc,1885.637,Real Estate
+QIAGEN NV,1870.346,Consumer Discretionary
+Live Nation Entertainment Inc,1861.178,Communication Services
+BioMarin Pharmaceutical Inc,1860.455,Health Care
+Element Solutions Inc,1853.7,Communication Services
+Teradata Corp,1836,Health Care
+John Wiley & Sons Inc,1831.483,Consumer Staples
+East West Bancorp Inc,1830.589,Information Technology
+Invitation Homes Inc,1822.828,Financials
+GrubHub Inc,1819.982,Industrials
+HEICO Corp,1787.009,Real Estate
+Helmerich & Payne Inc,1773.927,Real Estate
+New York Community Bancorp Inc,1769.073,Communication Services
+Twilio Inc,1761.776,Financials
+MEDNAX Inc,1733.951,Health Care
+Eaton Vance Corp,1730.365,Industrials
+WR Grace & Co,1729.8,Financials
+Wendy's Co ,1709.002,Real Estate
+Jack Henry & Associates Inc,1697.067,Information Technology
+MSCI Inc,1695.39,Financials
+Gentex Corp,1688.189405,Consumer Discretionary
+Pure Storage Inc,1684.179,Consumer Discretionary
+SEI Investments Co,1684.058,Consumer Discretionary
+ANSYS Inc,1681.297,Information Technology
+Mid-America Apartment Communities Inc,1677.984,Information Technology
+Cimarex Energy Co,1677.842,Health Care
+Credit Acceptance Corp,1669.3,Consumer Staples
+CoStar Group Inc,1659.019,Materials
+Realty Income Corp,1651.625,Industrials
+Graco Inc,1650.115,Information Technology
+HCP Inc,1644.875,Health Care
+CoreLogic Inc-United States,1642.375,Industrials
+Senior Housing Properties Trust,1632.026,Utilities
+Host Hotels & Resorts Inc,1620,Real Estate
+Atlassian Corp PLC,1614.173,Communication Services
+Lamar Advertising Co,1568.856,Information Technology
+WEX Inc,1559.869,Materials
+National Fuel Gas Co,1546.291,Financials
+Brookfield Property REIT Inc,1529.523,Information Technology
+Vornado Realty Trust,1527.951,Real Estate
+Bright Horizons Family Solutions Inc,1515.093,Health Care
+Equitrans Midstream Corp,1510.825,Real Estate
+Hexcel Corp,1502.4,Information Technology
+Essex Property Trust Inc,1495.748,Real Estate
+FactSet Research Systems Inc,1494.111,Communication Services
+Exact Sciences Corp,1491.391,Utilities
+Cullen-Frost Bankers Inc,1486.489,Industrials
+United Therapeutics Corp,1483.3,Information Technology
+Nuance Communications Inc,1478.899,Utilities
+frontdoor Inc,1474,Materials
+CNX Resources Corp,1463.519,Utilities
+PTC Inc,1458.415,Financials
+Eagle Materials Inc,1450.814,Information Technology
+Littelfuse Inc,1445.695,Materials
+Cabot Oil & Gas Corp,1440.438,Energy
+Associated Banc-Corp,1426.896,Financials
+FNB Corp-PA,1424.862,Materials
+Umpqua Holdings Corp,1424.636,Consumer Discretionary
+Sun Communities Inc,1398.347,Health Care
+Commerce Bancshares Inc-MO,1389.547,Financials
+Morningstar Inc,1389.5,Financials
+Versum Materials Inc,1372.3,Communication Services
+Integra LifeSciences Holdings Corp,1371.868,Industrials
+Dunkin' Brands Group Inc,1370.227,Consumer Staples
+Extra Space Storage Inc,1356.212,Real Estate
+Pinnacle Financial Partners Inc,1338.882,Energy
+Sabre Corp,1334.1,Financials
+Western Alliance Bancorp,1332.6,Health Care
+Cable One Inc,1325.229,Industrials
+Starwood Property Trust Inc,1320.738,Consumer Discretionary
+Nutanix Inc,1307.682,Materials
+Wyndham Hotels & Resorts Inc,1300,Financials
+Premier Inc,1299.592,Utilities
+Fair Isaac Corp,1294.562,Communication Services
+Webster Financial Corp,1287.326,Health Care
+National Instruments Corp,1286.671,Financials
+Ubiquiti Networks Inc,1284.5,Financials
+Norwegian Cruise Line Holdings Ltd,1279.908,Consumer Discretionary
+Prosperity Bancshares Inc,1275.444,Real Estate
+ICU Medical Inc,1271.004,Information Technology
+Hospitality Properties Trust,1265.254,Consumer Staples
+VeriSign Inc,1265.052,Information Technology
+LogMeIn Inc,1260.385,Financials
+Cboe Global Markets Inc,1254.3,Financials
+PacWest Bancorp,1249.551,Materials
+Medical Properties Trust Inc,1249.238,Health Care
+Texas Capital Bancshares Inc,1242.428,Consumer Discretionary
+UDR Inc,1241.165,Real Estate
+Black Knight Inc,1238.5,Health Care
+Outfront Media Inc,1236.3,Industrials
+Coherent Inc,1228.999,Information Technology
+VICI Properties Inc,1225.574,Health Care
+GrafTech International Ltd,1224.361,Information Technology
+WP Carey Inc,1209.319,Financials
+BankUnited Inc,1200.83,Financials
+IPG Photonics Corp,1200.724,Information Technology
+Bank OZK,1185.389,Financials
+RingCentral Inc,1183.657,Health Care
+American Homes 4 Rent,1182.836,Financials
+White Mountains Insurance Group Ltd,1180.7,Consumer Discretionary
+Dolby Laboratories Inc,1161.792,Communication Services
+VEREIT Inc,1161.366,Real Estate
+RealPage Inc,1158.484,Industrials
+Tableau Software Inc,1155.352,Financials
+Welbilt Inc,1153.4,Utilities
+Gaming and Leisure Properties Inc,1153.165,Materials
+Sterling Bancorp-DE,1149.583,Health Care
+Liberty Media Corp-Liberty Formula One,1145,Consumer Discretionary
+Masimo Corp,1143.744,Industrials
+SM Energy Co,1126.582,Energy
+Patterson-UTI Energy Inc,1124.249,Industrials
+Tyler Technologies Inc,1116.663,Information Technology
+Assured Guaranty Ltd,1115,Financials
+Sage Therapeutics Inc,1114.2,Financials
+Veeva Systems Inc,1104.081,Health Care
+Equity LifeStyle Properties Inc,1091.448,Real Estate
+Kimco Realty Corp,1057.893,Real Estate
+Uniti Group Inc,1057.611,Health Care
+Camden Property Trust,1054.637,Information Technology
+Brixmor Property Group Inc,1053.748,Health Care
+SL Green Realty Corp,1052.744,Real Estate
+Proofpoint Inc,1050.01,Real Estate
+Neurocrine Biosciences Inc,1045.9,Communication Services
+Extended Stay America Inc,1042.316,Health Care
+Alkermes PLC,1038.756,Health Care
+CyrusOne Inc,1033.5,Health Care
+Zendesk Inc,1029.564,Information Technology
+Colony Capital Inc,1025.51,Consumer Staples
+SolarWinds Corp,1019.241,Industrials
+Pegasystems Inc,1017.517,Information Technology
+QEP Resources Inc,1016.3,Consumer Discretionary
+Regency Centers Corp,1016.175,Real Estate
+Cantel Medical Corp,1016.048,Consumer Staples
+Duke Realty Corp,993.198,Real Estate
+Exelixis Inc,987.538,Utilities
+DocuSign Inc,973.971,Communication Services
+FireEye Inc,940.584,Financials
+Armstrong World Industries Inc,936.9,Information Technology
+Apartment Investment & Management Co,925.718,Energy
+Extraction Oil & Gas Inc,912.425,Real Estate
+Insulet Corp,904.4,Industrials
+Kilroy Realty Corp,898.397,Information Technology
+GCI Liberty Inc,894.733,Information Technology
+Hilton Grand Vacations Inc,894,Information Technology
+Omega Healthcare Investors Inc,892.381,Industrials
+Douglas Emmett Inc,891.523,Consumer Discretionary
+American Campus Communities Inc,870.584,Industrials
+Rayonier Inc,859.154,Financials
+Park Hotels & Resorts Inc,852,Materials
+Macquarie Infrastructure Corp,847,Financials
+Monolithic Power Systems Inc,844.452,Information Technology
+Grand Canyon Education Inc,844.096,Industrials
+Ceridian HCM Holding Inc,842.5,Utilities
+Paycom Software Inc,841.434,Information Technology
+ABIOMED Inc,840.883,Health Care
+Federal Realty Investment Trust,835.494,Real Estate
+Cognex Corp,811.02,Consumer Staples
+Hudson Pacific Properties Inc,804.965,Information Technology
+Moderna Inc,803.395,Real Estate
+Kosmos Energy Ltd,801.32,Information Technology
+Macerich Co ,786.026,Financials
+First Hawaiian Inc,780.139,Financials
+2U Inc,774.533,Communication Services
+Choice Hotels International Inc,774.072,Consumer Discretionary
+Guidewire Software Inc,742.307,Industrials
+Healthcare Trust of America Inc,738.965,Health Care
+Bio-Techne Corp,738.691,Health Care
+Highwoods Properties Inc,736.9,Information Technology
+Whiting Petroleum Corp,732.362,Consumer Discretionary
+Bank of Hawaii Corp,730.833,Financials
+Ionis Pharmaceuticals Inc,729,Financials
+Chimera Investment Corp,728.062,Energy
+Paramount Group Inc,714.237,Materials
+Liberty Property Trust,704.889,Consumer Discretionary
+Howard Hughes Corp ,699.489,Real Estate
+STORE Capital Corp,694.268,Health Care
+MarketAxess Holdings Inc,689.125,Financials
+Cinemark Holdings Inc,686.31,Financials
+CubeSmart,679.177,Industrials
+Taubman Centers Inc,661.054,Consumer Discretionary
+National Retail Properties Inc,660.681,Financials
+Life Storage Inc,616.771,Consumer Discretionary
+Corporate Office Properties Trust,609.365,Information Technology
+Empire State Realty Trust Inc,609.228,Industrials
+CoreSite Realty Corp,606.824,Industrials
+TripAdvisor Inc,604,Information Technology
+Madison Square Garden Co ,603.319,Financials
+JBG SMITH Properties,602.723,Industrials
+Apple Hospitality REIT Inc,601.879,Information Technology
+Aspen Technology Inc,598.717,Financials
+RPC Inc,598.302,Consumer Discretionary
+Manhattan Associates Inc,586.372,Financials
+Okta Inc,586.067,Energy
+New Residential Investment Corp,579.331,Communication Services
+Penumbra Inc,560.412,Industrials
+Brandywine Realty Trust,534.852,Health Care
+Centennial Resource Development Inc-DE,533.805,Health Care
+TFS Financial Corp,508.549,Industrials
+AGNC Investment Corp,501,Health Care
+Royal Gold Inc,498.819,Consumer Discretionary
+Alnylam Pharmaceuticals Inc,492.853,Financials
+Spirit Realty Capital Inc,483.617,Industrials
+Switch Inc,462.31,Financials
+SITE Centers Corp,460.333,Real Estate
+Weingarten Realty Investors,433.917,Utilities
+Retail Properties of America Inc,430.043,Health Care
+Universal Display Corp,428.867,Health Care
+Elastic NV,427.62,Health Care
+EPR Properties,414.661,Energy
+Pluralsight Inc,391.865,Energy
+Sarepta Therapeutics Inc,380.833,Information Technology
+Annaly Capital Management Inc,367.696,Financials
+MFA Financial Inc,359.384,Health Care
+Six Flags Entertainment Corp,356.575,Real Estate
+Columbia Property Trust Inc,300.566,Consumer Staples
+Bluebird Bio Inc,250.734,Financials
+Retail Value Inc,239.095,Health Care
+Agios Pharmaceuticals Inc,203.196,Health Care
+Nektar Therapeutics,152.915,Financials
+Equity Commonwealth,66.278,Real Estate
+Liberty Broadband Corp,50.706,Consumer Discretionary
+Two Harbors Investment Corp,-1186.516,Communication Services
