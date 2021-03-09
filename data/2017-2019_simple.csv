@@ -1,4 +1,4 @@
-﻿company,value,sector,industry,employees,ceo_comp,employee_comp,cpr,market_cap,
+﻿company,revenue,sector,industry,employees,ceo_comp,employee_comp,cpr,market_cap,
 Walmart Inc,559151,Consumer Staples,Retail  - General,2200000,23618233,21952,1076,3.73692E+11,
 Amazon.com Inc,386064,Consumer Discretionary,Retail  - Online,1298000,1681840,28848,58,1.57141E+12,
 Berkshire Hathaway Inc,286256,Financials,Diversified,360174,374773,65740,5.7,5.84964E+11,

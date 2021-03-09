@@ -66,7 +66,7 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
       .html('<h1>' + d.company + '</h1>'
         + '<p class="sector-industry">' + d.sector + ' | ' 
           + '<span class="industry">' + d.industry + '</span>'+ '</p>'
-        + '<p class="details">' + d.value + " in revenue" + '</p>'
+        + '<p class="details">' + d.revenue + " in revenue" + '</p>'
         + '<p class="details">' + d.employees + " employees" + '</p>'
         + '<p class="details">' + d.market_cap + " in market cap" + '</p>'
         )
@@ -85,7 +85,7 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
     .enter()
     .append("circle")
       .attr("class", "node")
-      .attr("r", function(d){ return size(d.value)})
+      .attr("r", function(d){ return size(d.revenue)})
       .attr("cx", width / 2)
       .attr("cy", height / 2)
       .style("fill", function(d){ return color(d.sector)})
@@ -100,11 +100,31 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
            .on("drag", dragged)
            .on("end", dragended));
 
+  // Add CPR data point
+  // var point = svg.append("node")
+  //   .selectAll("circle")
+  //   .data(data)
+  //   .enter()
+  //   .append("circle")
+  //     .attr("class", "point")
+  //     .attr("r", function(d){ return size(d.cpr)})
+  //     .attr("cx", width / 2)
+  //     .attr("cy", height / 2)
+  //     .style("fill", "black")
+      // .on("mouseover", mouseover)
+      // .on("mousemove", mousemove)
+      // .on("mouseleave", mouseleave)
+      // .call(d3.drag() // call specific function when circle is dragged
+      //      .on("start", dragstarted)
+      //      .on("drag", dragged)
+      //      .on("end", dragended));
+
+
   // Features of the forces applied to the nodes:
   var simulation = d3.forceSimulation()
       .force("center", d3.forceCenter().x(width / 2).y(height / 2)) // Attraction to the center of the svg area
       .force("charge", d3.forceManyBody().strength(.1)) // Nodes are attracted one each other of value is > 0
-      .force("collide", d3.forceCollide().strength(.2).radius(function(d){ return (size(d.value)+3) }).iterations(1)) // Force that avoids circle overlapping
+      .force("collide", d3.forceCollide().strength(.2).radius(function(d){ return (size(d.revenue)+3) }).iterations(1)) // Force that avoids circle overlapping
 
   // Apply these forces to the nodes and update their positions.
   // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
