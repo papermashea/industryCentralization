@@ -30,3 +30,4 @@ Finally, I scraped and cleaned up CEO compensation, employee compensation, numbe
 - [Fortune 500 archive](https://github.com/cmusam/fortune500)
 - [NYU Stern S&P industries](http://people.stern.nyu.edu/adamodar/New_Home_Page/databreakdown.html)
 - [Salary.com](https://www.salary.com/)
+- [Taxes from the Center for Public Integrity](https://publicintegrity.org/inequality-poverty-opportunity/taxes/trumps-tax-cuts/you-paid-taxes-these-corporations-didnt/)

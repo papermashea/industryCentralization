@@ -8,53 +8,37 @@ var svg = d3.select("#vis-container")
     .attr("width", width)
     .attr("height", height)
 
-// Data
+// Test data
 // data = d3.csv("./data/2017_simple.csv", function(data) {
-data = d3.csv("./data/2017-2019_simple.csv", function(data) {  
 // data = d3.csv("./data/2017-2019_sectors_cpr_simple.csv", function(data) {
-//   return {
-//     company: d.company,
-//     value: +d.value,
-//     sector: d.sector,
-//     ceo_comp: +d.ceo_comp,
-//     industry: d.industry,
-//     cpr: +d.cpr,  
-//     employees: +d.employees,
-//     fy: +d.fy
-//     };
-// },  function(error, rows) {
-    console.log(data)
+// data = d3.csv("./data/2017-2019_sectors_v3.csv", function(data) {
+let data = d3.csv("./data/2017-2019_sectors_simple.csv", function(data) {
+
+
+// Current data
+// data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
+  // console.log(data)
 
   // Color palette for 11 sectors
   var color = d3.scaleOrdinal()
     .domain(["Communication Services", "Consumer Discretionary", "Consumer Staples", "Energy", "Financials", "Health Care", "Information Technology",  "Industrials", "Materials", "Real Estate", "Utilities"])
-    .range(["lightsteelblue", "cadetblue", "orchid", "thistle", "darkseagreen", "lightcoral", "cornflowerblue", "gold", "darkorange", "sandybrown", "firebrick"]);
+    .range(d3.schemeCategory20c);
 
-// Communication Services - lightsteelblue
-// Consumer Discretionary - cadetblue
-// Consumer Staples - orchid
-// Energy - thistle
-// Financials - darkseagreen
-// Health Care - lightcoral
-// Information Technology - cornflowerblue 
-// Industrials - gold
-// Materials - darkorange
-// Real Estate - sandybrown
-// Utilities - firebrick
-
-  // Size scale for revenue
+  // Size scale for countries
   var size = d3.scaleLinear()
     .domain([0, 600000])
-    .range([5,80])  // circle will be between 10 and 100 px wide
+    .range([5,100])  // circle will be between 7 and 55 px wide
 
   // create a tooltip
   var Tooltip = d3.select("#vis-container")
-    .data(data)
-    .enter()
     .append("div")
-      .attr("class", "tooltip")
-      .style("color", function(d){ return color(d.sector)})
-      .style("opacity", 0)
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "2px")
+    .style("border-radius", "5px")
+    .style("padding", "5px")
 
   // Three function that change the tooltip when user hover / move / leave a cell
   var mouseover = function(d) {
@@ -63,19 +47,16 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
   }
   var mousemove = function(d) {
     Tooltip
-      .html('<h1>' + d.company + '</h1>'
+      .html('<h1>' + d.company + '</h1>' +  "<br>"
         + '<p class="sector-industry">' + d.sector + ' | ' 
-          + '<span class="industry">' + d.industry + '</span>'+ '</p>'
-        + '<p class="details">' + d.value + " in revenue" + '</p>'
-        + '<p class="details">' + d.employees + " employees" + '</p>'
-        + '<p class="details">' + d.market_cap + " in market cap" + '</p>'
-        )
+        + '<span class="industry">' + d.industry + '</span>'+ '</p>' +  "<br>"
+        + d.value + " in revenue")
       .style("left", (d3.mouse(this)[0]+20) + "px")
       .style("top", (d3.mouse(this)[1]) + "px")
   }
   var mouseleave = function(d) {
     Tooltip
-        .style("opacity", 0)
+      .style("opacity", 0)
   }
 
   // Initialize the circle: all located at the center of the svg area
@@ -92,7 +73,7 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
       .style("fill-opacity", 0.8)
       .attr("stroke", "black")
       .style("stroke-width", 0)
-      .on("mouseover", mouseover)
+      .on("mouseover", mouseover) // What to do when hovered
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave)
       .call(d3.drag() // call specific function when circle is dragged
@@ -132,4 +113,4 @@ data = d3.csv("./data/2017-2019_simple.csv", function(data) {
     d.fy = null;
   }
 
-});
+})
