@@ -1,964 +1,964 @@
-﻿company,revenue,sector,industry,employees,ceo_comp,employee_comp,cpr,market_cap,
-Walmart Inc,559151,Consumer Staples,Retail  - General,2200000,23618233,21952,1076,3.73692E+11,
-Amazon.com Inc,386064,Consumer Discretionary,Retail  - Online,1298000,1681840,28848,58,1.57141E+12,
-Berkshire Hathaway Inc,286256,Financials,Diversified,360174,374773,65740,5.7,5.84964E+11,
-Apple Inc,274515,Information Technology,Computers - Peripherals,147000,11555466,57596,201,2.10884E+12,
-CVS Health Corp,268706,Health Care,Healthcare Support Services,300000,36466470,46140,790,90378581500,
-UnitedHealth Group Inc,257141,Health Care,Healthcare Support Services,325000,18907522,54322,348,3.19876E+11,
-McKesson Corp,231051,Health Care,Healthcare Support Services,80000,17400207,38026,458,27515274316,
-Alphabet Inc,182527,Information Technology,Software  - Entertainment,135301,280621552,258708,1085,1.37869E+12,
-Exxon Mobil Corp,178574,Energy,Oil - Gas  - Integrated,72000,23529292,173712,135,2.42362E+11,
-AT&T Inc,171760,Communication Services,Telecom. Services,230760,32032925,98630,325,2.01187E+11,
-Costco Wholesale Corp,166761,Consumer Staples,Retail  - General,156000,8016200,47312,169,1.47805E+11,
-Cigna Corp,160401,Health Care,Healthcare Support Services,73700,19303032,62946,306.7,75203479826,
-Cardinal Health Inc,152922,Health Care,Healthcare Support Services,48000,15584454,57261,272,15449850332,
-Microsoft Corp,143015,Information Technology,Software  - System  -  Application,163000,42910215,172512,249,1.78192E+12,
-Walgreens Boots Alliance Inc,139537,Consumer Staples,Retail  - Special Lines,331000,19156202,34074,562,41370313484,
-Home Depot Inc,132110,Consumer Discretionary,Not found,500000,11366662,23389,486,2.80024E+11,
-JPMorgan Chase & Co,129503,Financials,Bank  - Money Center,255351,31619266,80431,393,4.57573E+11,
-Verizon Communications Inc,128292,Communication Services,Telecom. Services,132200,18111823,172971,105,2.30164E+11,
-Ford Motor Co,127144,Consumer Discretionary,Not found,186000,17355505,110706,157,47545405453,
-General Motors Co,122485,Consumer Discretionary,Not found,155000,21630867,106715,203,75330922230,
-Kroger Co ,122286,Consumer Staples,Not found,435000,12037872,24912,483,25006444186,
-Anthem Inc,121867,Health Care,Healthcare Support Services,83400,15473139,62686,247,77025288247,
-Centene Corp,111115,Materials,Healthcare Support Services,71300,26448425,68987,383,34662945005,
-Comcast Corp,103564,Communication Services,Cable TV,168000,36384957,78869,461,2.46623E+11,
-Chevron Corp,94471,Energy,Oil - Gas  - Integrated,48200,33070662,140063,236,1.99168E+11,
-Dell Technologies Inc,94224,Information Technology,Computers - Peripherals,165000,3623801,88459,41,62001324017,
-Bank of America Corp,93753,Financials,Bank  - Money Center,212505,26049804,94256,276,3.08032E+11,
-Lowe's Cos Inc,89597,Consumer Discretionary,Not found,300000,14302791,22921,650,1.1927E+11,
-Citigroup Inc,88839,Financials,Bank  - Money Center,210000,25521414,52988,482,1.43733E+11,
-Facebook Inc,85965,Communication Services,Software  - Entertainment,58604,23415973,247883,94,7.43954E+11,
-United Parcel Service Inc,84628,Industrials,Transportation,543000,18040841,74395,243,1.3779E+11,
-Johnson & Johnson,82584,Health Care,Drugs  - Pharmaceutical,134500,25380258,76000,334,4.22429E+11,
-Wells Fargo & Co,80303,Financials,Not found,268531,36288490,65931,550,1.53644E+11,
-General Electric Co,79619,Industrials,Not found,174000,24553788,50471,486,1.15737E+11,
-Target Corp,78112,Consumer Discretionary,Retail  - General,368000,17204069,22439,767,93073695986,
-Intel Corp,77867,Information Technology,Semiconductor,110600,66935100,96300,695,2.53755E+11,
-Humana Inc,77155,Health Care,Healthcare Support Services,48700,16726455,73669,227,49573184086,
-International Business Machines Corp,73621,Information Technology,Computer Services,352600,20160865,56896,354,1.08634E+11,
-Procter & Gamble Co,70950,Consumer Staples,Not found,99000,20498812,66326,309,3.07342E+11,
-PepsiCo Inc,70372,Consumer Staples,Beverage  - Soft,291000,16870817,45896,368,1.81363E+11,
-Marathon Petroleum Corp,69779,Energy,Oilfield Svcs - Equip.,60910,24129164,27507,877,36477903900,
-FedEx Corp,69217,Industrials,Transportation,183000,15973884,52718,303,69135711805,
-T-Mobile US Inc,68397,Communication Services,Telecom  - Wireless,75000,27762231,62195,446,1.53213E+11,
-MetLife Inc,67842,Financials,Insurance  - Life,46500,14709539,77359,190,52506781810,
-Lockheed Martin Corp,65398,Industrials,Aerospace - Defense,114000,30900000,154883,200,94078339370,
-Walt Disney Co ,65388,Consumer Staples,Not found,203000,47525560,52184,911,3.53559E+11,
-Valero Energy Corp,64912,Energy,Oilfield Svcs - Equip.,9964,28175952,272417,103,31888333643,
-Archer-Daniels-Midland Co,64355,Consumer Staples,Not found,39088,18174409,63981,285,31958037455,
-Phillips 66,64129,Energy,Oil - Gas Distribution,14300,31927081,188738,169,37317854614,
-Boeing Co ,58158,Industrials,Not found,141000,14250195,158869,90,1.30999E+11,
-Prudential Financial Inc,57033,Financials,Insurance  - Life,41671,15144335,111499,136,35344910000,
-HP Inc,56639,Information Technology,Computers - Peripherals,53000,19317972,75013,258,37771932065,
-United Technologies Corp,56587,Information Technology,Not found,181000,21538847,76417,282,1.29E+11,
-Goldman Sachs Group Inc,53498,Financials,Not found,40500,24657737,138854,178,1.17849E+11,
-Sysco Corp,52893.31,Consumer Staples,Food Wholesalers,57000,10742679,70801,152,41649616426,
-Morgan Stanley,52047,Financials,Brokerage  -  Investment Banking,68000,31642395,127414,248,1.47837E+11,
-HCA Healthcare Inc,51533,Health Care,Hospitals - Healthcare Facilities,210000,26788251,56012,478,59924056075,
-Cisco Systems Inc,49301,Information Technology,Telecom. Equipment,77500,25829833,142593,181,1.93379E+11,
-Charter Communications Inc,48097,Communication Services,Cable TV,96100,8743601,57625,151.7,1.39856E+11,
-Merck & Co Inc,47994,Health Care,Not found,74000,27648475,95621,289,1.84991E+11,
-Best Buy Co Inc,47262,Consumer Discretionary,Not found,125000,17382486,28500,610,26383890970,
-AbbVie Inc,45804,Health Care,Drugs  - Biotechnology,47000,21668015,155885,139,1.9121E+11,
-Allstate Corp ,44791,Financials,Not found,41860,19615696,61860,317,33028347105,
-Accenture PLC,44327.039,Information Technology,Not found,506000,15031875,50512,298,1.7086E+11,
-American International Group Inc,43736,Financials,Insurance  - General,45000,19369637,67403,288,39711187520,
-Tyson Foods Inc,43185,Consumer Staples,Food Processing,139000,10398160,36681,283,25027953414,
-Progressive Corp,42638.1,Financials,Not found,41571,14041272,66285,212,51465459000,
-Bristol-Myers Squibb Co,42518,Health Care,Not found,30250,18767253,123365,152,1.38573E+11,
-Pfizer Inc,41908,Health Care,Drugs  - Pharmaceutical,88000,17928963,98972,181,1.88886E+11,
-Caterpillar Inc,41748,Industrials,Construction Supplies,97300,34519129,65132,530,1.20807E+11,
-Bunge Ltd,41404,Consumer Staples,Not found,23000,16734730,39133,428,10889263004,
-Oracle Corp,39068,Information Technology,Software  - System  -  Application,135000,2481646,83813,30,1.93541E+11,
-Dow Inc,38542,Materials,Chemical  - Basic,35700,15878639,109556,145,45764249538,
-American Express Co,38185,Financials,Not found,63700,23796002,64803,367,1.11405E+11,
-General Dynamics Corp,37925,Industrials,Aerospace - Defense,100700,18313204,116510,157,47585777590,
-NIKE Inc,37403,Consumer Discretionary,Shoe,75400,13968022,25386,550,2.16578E+11,
-Northrop Grumman Corp,36799,Industrials,Aerospace - Defense,97000,20307994,114667,177,49213599773,
-Chubb Ltd,35994,Financials,Not found,33000,20475070,66372,308.5,74741836645,
-Deere & Co,35540,Industrials,Not found,69634,21697885,80267,270,1.1129E+11,
-Abbott Laboratories,34608,Health Care,Healthcare Products,109000,27802817,84434,329,2.15223E+11,
-Sprint Corp,33600,Industrials,Not found,28500,6395042,70941,90,21602062450,
-Exelon Corp,33039,Utilities,Power,32713,15400000,126000,122,38665014966,
-Coca-Cola Co ,33014,Utilities,Not found,80300,18701149,11285,1657,2.15552E+11,
-Honeywell International Inc,32637,Industrials,Diversified,113000,20525104,69513,295,1.4399E+11,
-Thermo Fisher Scientific Inc,32218,Health Care,Heathcare Information and Technology,80000,19023145,80915,235,1.79369E+11,
-3M,32184,Industrials,Diversified,94987,18321566,57494,319,1.0231E+11,
-TJX Cos Inc ,32136.962,Consumer Discretionary,Not found,286000,18822770,11791,1596,80922541936,
-Travelers Cos Inc ,31981,Industrials,Not found,30600,16791247,111170,151,37630381766,
-Capital One Financial Corp,31643,Financials,Financial Svcs.  - Non - bank  -  Insurance,52000,7705792,68780,112,56766253431,
-Tesla Inc,31536,Consumer Discretionary,Auto  -  Truck,70757,23760,58455,0.41,6.74028E+11,
-Raytheon Co,29176,Financials,Not found,70000,23721407,141123,168,61084368650,
-Medtronic PLC,28913,Health Care,Not found,90000,17796325,74206,240,1.595E+11,
-Philip Morris International Inc,28694,Consumer Staples,Tobacco,71000,22125060,53756,396,1.33629E+11,
-Arrow Electronics Inc,28673.363,Information Technology,Computer Services,19600,11671842,60819,192,7663990126,
-Dollar General Corp,27753.973,Consumer Discretionary,Retail  - General,143000,10602517,13773,770,46697172112,
-LyondellBasell Industries NV,27753,Materials,Not found,19200,15943313,86466,184,35411368497,
-Jabil Inc,27266.438,Financials,Electronics  - General,240000,11412435,7109,1605,6682831956,
-Linde PLC,27243,Materials,Not found,80820,22475878,43216,520,1.30558E+11,
-Hewlett Packard Enterprise Co,26982,Information Technology,Not found,59400,13714497,67196,204,19396350682,
-Mondelez International Inc,26581,Consumer Staples,Food Processing,79000,18115449,32280,561,76084732439,
-Kraft Heinz Co ,26185,Consumer Staples,Not found,38000,44158287,42689,1034,45129069186,
-Amgen Inc,25424,Health Care,Drugs  - Biotechnology,24300,19612793,130904,150,1.31362E+11,
-CBS Corp,25285,Real Estate,Not found,23990,36572367,104791,349,9863952855,
-US Bancorp,25241,Industrials,Not found,70000,18801847,69775,269,76999498075,
-Netflix Inc,24996.056,Communication Services,Entertainment,9400,38577129,202931,190,2.41506E+11,
-Gilead Sciences Inc,24689,Health Care,Drugs  - Biotechnology,13600,29361393,173264,169,78499374455,
-Eli Lilly & Co,24539.8,Communication Services,Not found,35000,21283242,96290,221,1.96861E+11,
-BB&T Corp,24427,Health Care,Not found,54982,11509407,101421,113,36174397916,
-Broadcom Inc,23888,Information Technology,Semiconductor,21000,2366888,354119,7,1.9594E+11,
-Duke Energy Corp,23868,Utilities,Power,28793,15029386,123608,122,67072180000,
-CBRE Group Inc,23826.195,Real Estate,Real Estate  - Operations  -  Services,100000,13435428,61122,220,25908101678,
-Dollar Tree Inc,23610.8,Consumer Discretionary,Retail  - General,56900,9398842,11250,835,23434546025,
-Schlumberger Ltd,23601,Energy,Not found,86000,22247160,71021,313,40298117998,
-QUALCOMM Inc,23531,Information Technology,Semiconductor,41000,23065052,90259,256,1.56291E+11,
-Starbucks Corp,23518,Consumer Discretionary,Restaurant - Dining,349000,19241950,11489,1675,1.27902E+11,
-US Foods Holding Corp,22885,Industrials,Food Wholesalers,26000,7711847,82441,94,8226340288,
-Lennar Corp,22488.854,Consumer Discretionary,Homebuilding,9495,18279581,102830,178,25952142563,
-Johnson Controls International plc,22317,Industrials,Not found,97000,15476638,41987,369,40897043592,
-Danaher Corp,22284,Health Care,Healthcare Products,69000,18193200,74672,244,1.5922E+11,
-Aflac Inc,22147,Financials,Insurance  - Life,6239,14108852,56371,250,33616821392,
-Visa Inc,21846,Information Technology,Information Services,19500,24265771,142494,170,4.77976E+11,
-PayPal Holdings Inc,21454,Information Technology,Information Services,26500,25825473,70405,367,3.14297E+11,
-Micron Technology Inc,21435,Information Technology,Semiconductor,40000,16944751,60796,279,1.05245E+11,
-salesforce.com Inc,21252,Information Technology,Software  - System  -  Application,56606,28391846,151955,187,1.9947E+11,
-Altria Group Inc,20841,Consumer Staples,Tobacco,8294,15439987,142246,109,83352937534,
-CenturyLink Inc,20712,Utilities,Not found,39000,17235108,71279,243,14347414956,
-Baker Hughes a GE Co,20705,Materials,Not found,55000,14922621,79242,188,22826606348,
-International Paper Co,20580,Materials,Not found,49300,15924647,88810,179,20147252246,
-Hartford Financial Services Group Inc ,20523,Consumer Discretionary,Not found,18500,14560748,96867,150,18662247243,
-Penske Automotive Group Inc,20443.9,Information Technology,Retail  - Automotive,23000,6893752,44527,155,5654693092,
-WellCare Health Plans Inc,20414.1,Utilities,Not found,12000,12697176,81647,155.5,16673537856,
-DuPont de Nemours Inc,20397,Materials,Chemical  - Specialty,34000,11660634,86294,135,38957644614,
-AutoNation Inc,20390,Information Technology,Retail  - Automotive,21600,8510005,49568,172,6364816862,
-Southern Co ,20375,Industrials,Not found,27700,27865185,167872,166,61338343443,
-CarMax Inc,20319.987,Consumer Discretionary,Retail  - Automotive,27050,8951547,38554,232,19839809509,
-DR Horton Inc,20311.1,Materials,Not found,9716,14377638,86531,166,28525125272,
-Nucor Corp,20139.658,Materials,Steel,26400,19099582,87573,218,18347703018,
-Kohl's Corp,19974,Information Technology,Retail  - General,37000,12340445,11069.63,1115,9039788329,
-Cummins Inc,19811,Industrials,Construction Supplies,57825,25116751,73480,341.8,38289088107,
-DXC Technology Co,19577,Information Technology,Not found,138000,17256539,41602,415,6695822016,
-Union Pacific Corp,19533,Industrials,Transportation  - Railroads,41967,15018400,79446,189,1.40517E+11,
-Whirlpool Corp,19456,Consumer Discretionary,Furn - Home Furnishings,78000,14011663,20765,675,12384923591,
-Molina Healthcare Inc,19423,Consumer Discretionary,Healthcare Support Services,10500,18025074,62227,290,12990840000,
-McDonald's Corp,19207.8,Consumer Discretionary,Restaurant - Dining,200000,18012549,9291,1939,1.55333E+11,
-Kimberly-Clark Corp,19140,Consumer Staples,Household Products,46000,12028120,47328,254,43726769899,
-AmerisourceBergen Corp,18989.3926,Health Care,Healthcare Support Services,22000,11323960,54472,208,21094968758,
-ConocoPhillips,18784,Energy,Oil - Gas  - Production and Exploration,9700,30381543,186334,163,72613781367,
-PACCAR Inc,18728.5,Industrials,Construction Supplies,26000,7430608,79282,94,32140227005,
-Mylan NV,18526.417,Financials,Not found,35000,18526417,43367,427,10240069197,
-PG&E Corp,18469,Health Care,Power,24000,19372233,206693,94,21861292277,
-CDW Corp-DE,18467.5,Information Technology,Not found,10000,6191797,93452,66,22486669742,
-Sherwin-Williams Co ,18361.7,Materials,Not found,61031,14854731,42590,349,62701595889,
-PNC Financial Services Group Inc ,18262,Financials,Not found,49549,16555752,76131,217,72761916427,
-Harris Corp,18194,Consumer Discretionary,Not found,50000,15745630,58426,269,22381256864,
-Macy's Inc,18097,Financials,Retail  - General,123000,12733691,21885,582,4998694335,
-ManpowerGroup Inc,18001,Financials,Business  -  Consumer Services,25000,12545932,5625,2230,5364198449,
-NextEra Energy Inc,17997,Utilities,Power,13900,21877597,129735,168,1.47755E+11,
-Eaton Corp PLC,17858,Materials,Not found,92000,19980672,57712,346,53520564000,
-Occidental Petroleum Corp,17809,Energy,Oil - Gas  - Integrated,14400,16017683,185259,86,26172029802,
-Avnet Inc,17634.333,Materials,Computer Services,14600,8438078,52638,160,3876771336,
-General Mills Inc,17626.6,Consumer Staples,Food Processing,35000,9855417,57177,172,33879701895,
-Westrock Co,17578.8,Materials,Not found,49300,11659257,58183,200,11971571359,
-Lincoln National Corp,17439,Financials,Insurance  - Life,10966,15412217,79460,194,11279468592,
-American Airlines Group Inc,17337,Industrials,Air Transport,102700,11571714,61143,189,14040883810,
-Marsh & McLennan Cos Inc,17224,Financials,Not found,76000,20331697,67826,300,59437500175,
-Applied Materials Inc,17202,Industrials,Semiconductor Equip,24000,14072395,104500,135,1.10927E+11,
-Becton Dickinson and Co,17117,Health Care,Not found,72000,16014633,42219,379,70463703417,
-Delta Air Lines Inc,17095,Industrials,Air Transport,74000,17325379,118198,147,31601022851,
-Lear Corp,17045.5,Consumer Discretionary,Auto Parts,174600,13718257,10172,1349,10064455644,
-Bank of New York Mellon Corp ,16940,Financials,Not found,48500,13437888,63202,213,38198618579,
-Emerson Electric Co,16785,Communication Services,Electrical Equipment,83500,20310575,47415,428,53120626862,
-Western Digital Corp,16736,Information Technology,Computers - Peripherals,63800,12866469,10063,1279,22038996888,
-NVIDIA Corp,16675,Materials,Semiconductor,13532,13642838,155035,88,3.36778E+11,
-Cognizant Technology Solutions Corp,16652,Information Technology,Computer Services,289500,16503792,32084,514,39345047231,
-Jones Lang LaSalle Inc,16589.9,Industrials,Real Estate  - Operations  -  Services,90800,9298663,106000,87,9125316876,
-Genuine Parts Co,16537.433,Consumer Discretionary,Not found,50000,8169948,39321,208,15508990889,
-Synchrony Financial,16472,Financials,Financial Svcs.  - Non - bank  -  Insurance,16500,12181183,45407,268,23168430022,
-Colgate-Palmolive Co,16471,Consumer Staples,Not found,34200,11149290,24055,463,64567134169,
-Gap Inc ,16383,Consumer Discretionary,Not found,129000,20793939,5831,3566,9687353638,
-XPO Logistics Inc,16252,Information Technology,Transportation,102000,7858337,33162,237,12051884831,
-CH Robinson Worldwide Inc,16207.106,Materials,Not found,14888,5065928,59086,86,12327079715,
-BlackRock Inc,16205,Financials,Investments  -  Asset Management,16500,24308254,133644,182,1.09172E+11,
-Allergan PLC,16088.9,Industrials,Not found,17400,9770528,92255,106,40375360639,
-Ross Stores Inc,16039.073,Consumer Discretionary,Retail  - Special Lines,92500,12248994,10027,1222,42597340689,
-Fluor Corp,15668.477,Industrials,Engineering - Construction,50182,6682051,67856,98,2433729092,
-Nordstrom Inc,15524,Utilities,Retail  - General,75000,4451746,34454,129,6007742036,
-DISH Network Corp,15493.435,Communication Services,Cable TV,13500,1007020,54685,18,17189978801,
-United Continental Holdings Inc,15355,Industrials,Not found,74400,12643005,74750,169,17382253232,
-Mastercard Inc,15301,Information Technology,Information Services,21000,23249977,138142,168,3.59061E+11,
-Celgene Corp,15281,Materials,Not found,8852,16223923,263237,62,77035975315,
-Waste Management Inc,15218,Industrials,Environmental  -  Waste Services,48250,11298101,76048,149,47545465237,
-PBF Energy Inc,15115.9,Information Technology,Oilfield Svcs - Equip.,3442,10149441,160703,63,1756003950,
-American Electric Power Co Inc,14918.5,Utilities,Not found,16787,14492436,132611,109,38332877735,
-Fiserv Inc,14852,Information Technology,Information Services,44000,27633556,65254,423,78454002986,
-Athene Holding Ltd,14764,Communication Services,Not found,1350,4254581,85259,50,9005855556,
-Principal Financial Group Inc,14741.7,Financials,Insurance  - Life,17400,14748051,116561,127,15882473172,
-Reinsurance Group of America Inc,14596,Financials,Reinsurance,3188,8116274,113479,72,8610136870,
-Automatic Data Processing Inc,14589.8,Information Technology,Information Services,58000,19000187,63225,301,75655551494,
-Stanley Black & Decker Inc,14534.6,Industrials,Machinery,53100,18707111,43316,432,29041187222,
-Texas Instruments Inc,14461,Information Technology,Semiconductor,30000,18655972,82034,227,1.60186E+11,
-Halliburton Co,14445,Energy,Not found,40000,12770467,87289,146,20154191337,
-Stryker Corp,14351,Health Care,Healthcare Products,43000,14974829,70771,212,92188040837,
-Estee Lauder Cos Inc ,14294,Consumer Staples,Not found,48000,21435428,30733,697,1.06365E+11,
-Corteva Inc,14217,Materials,Chemical  - Specialty,21000,11357053,80757,141,34496451200,
-Freeport-McMoRan Inc,14198,Materials,Metals  -  Mining,24500,15742249,75874,207,50813458739,
-Qurate Retail Inc,14177,Health Care,Retail  - Online,25314,4697971,30221,155,5054236422,
-Dominion Energy Inc,14172,Utilities,Utility  - General,17300,17257035,145136,119,56322861467,
-Wayfair Inc,14145.156,Health Care,Retail  - Online,16122,83237,41412,2,31796282593,
-Laboratory Corp of America Holdings,13978.5,Industrials,Not found,72400,13138362,41834,314,23779264000,
-PPG Industries Inc,13834,Materials,Chemical  - Specialty,46900,15117938,40598,372,32750266535,
-Kellogg Co,13770,Consumer Staples,Not found,31000,9694223,38895,249,19722110833,
-Parker-Hannifin Corp,13695.52,Industrials,Machinery,50520,17472500,57282,305,38400355776,
-Edison International,13578,Utilities,Power,12937,11806662,190935,62,20743005208,
-Jacobs Engineering Group Inc,13566.975,Industrials,Engineering - Construction,55000,14627254,79733,183,10413691568,
-Biogen Inc,13444.6,Health Care,Drugs  - Biotechnology,9100,18159858,159721,114,41407898400,
-AECOM,13239.976,Information Technology,Engineering - Construction,54000,15910241,80021,199,8630785750,
-Omnicom Group Inc,13171.1,Communication Services,Advertising,64100,19818780,44059,450,15218718524,
-Unum Group,13162.1,Financials,Insurance  - Life,10700,9727186,65568,148,5555751433,
-Aptiv PLC,13066,Consumer Discretionary,Not found,151000,15164533,7302,2077,41273378416,
-TechnipFMC PLC,13050.6,Information Technology,Not found,37000,15351206,63294,243,3746047167,
-Discover Financial Services,12953,Financials,Financial Svcs.  - Non - bank  -  Insurance,17600,9250436,47096,196,29795100792,
-Adobe Inc,12868,Information Technology,Software  - System  -  Application,22516,39145631,147115,266,2.23381E+11,
-Viacom Inc,12838,Consumer Discretionary,Not found,10700,24350958,39110,623,9863952855,
-Anadarko Petroleum Corp,12837,Information Technology,Not found,4700,16959896,160251,106,35283887303,
-Aramark,12829.559,Consumer Discretionary,Restaurant - Dining,170750,16960517,16510,1027,9916541687,
-Adient PLC,12670,Communication Services,Not found,83000,14738869,18861,782,3573755637,
-AutoZone Inc,12631.967,Consumer Discretionary,Retail  - Automotive,96690,8617562,27581,312,26728749269,
-Loews Corp,12583,Financials,Insurance  - Prop - Cas.,12200,9312872,72145,129,13242838811,
-Illinois Tool Works Inc,12574,Industrials,Machinery,43000,15455289,51892,298,65311591744,
-Fidelity National Information Services Inc,12552,Information Technology,Information Services,62000,27658117,59235,467,87113292041,
-AXA Equitable Holdings Inc,12415,Materials,Not found,7900,11254123,108566,104,13175226963,
-WESCO International Inc,12325.995,Real Estate,Retail  - Distributors,18000,6642192,57269,116,4274658282,
-Goodyear Tire & Rubber Co ,12321,Financials,Not found,63000,16970655,53623,316,3994094784,
-Fox Corp,12303,Industrials,Broadcasting,9000,29154460,81307,359,20040691728,
-Leidos Holdings Inc,12297,Information Technology,Computer Services,39000,10671271,103657,103,13206144662,
-Consolidated Edison Inc,12246,Utilities,Utility  - General,14071,15345285,215556,71,22904417746,
-DTE Energy Co,12177,Utilities,Not found,10600,8776433,153976,57,22923897884,
-TE Connectivity Ltd,12172,Information Technology,Not found,82000,9291836,20846,446,44137252230,
-Charles Schwab Corp ,12109,Materials,Not found,32000,16101141,105565,153,1.19792E+11,
-Pilgrim's Pride Corp,12091.901,Energy,Food Processing,56400,4492122,22600,199,5637314144,
-State Street Corp,12078,Financials,Investments  -  Asset Management,39439,8699401,56610,154,26700584496,
-Ameriprise Financial Inc,11958,Financials,Investments  -  Asset Management,12300,24516930,106428,230,26589165841,
-L Brands Inc,11846.891,Consumer Discretionary,Retail  - Special Lines,25500,4553310,14186,321,15562955185,
-WW Grainger Inc,11797,Financials,Not found,23100,7675215,66072,116,20136891915,
-Ecolab Inc,11790.2,Materials,Chemical  - Specialty,50200,19803193,54234,365,60517294185,
-Ball Corp,11781,Materials,Packaging  -  Container,21500,11855919,93903,126,28395284827,
-VMware Inc,11767,Information Technology,Software  - System  -  Application,31000,23569191,131144,180,59436342000,
-Berry Global Group Inc,11709,Financials,Packaging  -  Container,47000,5590944,50162,111,7617221695,
-Kinder Morgan Inc-DE,11700,Energy,Not found,10524,7270,111546,0,34170553820,
-Baxter International Inc,11673,Health Care,Healthcare Products,50000,13913821,43131,323,39307185031,
-Textron Inc,11651,Industrials,Aerospace - Defense,33000,18942936,99196,191,11726062168,
-LKQ Corp,11628.83,Communication Services,Retail  - Distributors,44000,6429072,29945,215,12262921909,
-Keurig Dr Pepper Inc,11618,Consumer Staples,Beverage  - Soft,27000,9204921,49645,185,42907579123,
-O'Reilly Automotive Inc,11604.493,Consumer Discretionary,Retail  - Automotive,77857,3080482,23175,133,31578257650,
-Crown Holdings Inc,11575,Real Estate,Packaging  -  Container,33000,14010690,33390,420,13365423577,
-Universal Health Services Inc,11558.897,Health Care,Hospitals - Healthcare Facilities,78800,24473240,38931,629,10867311957,
-DaVita Inc,11550.604,Health Care,Healthcare Support Services,67000,17629901,61536,286,11390728000,
-Xcel Energy Inc,11526,Utilities,Power,11367,16898798,113022,150,32092258842,
-Newmont Goldcorp Corp,11497,Materials,Not found,12400,9098908,83522,109,44105316830,
-Vistra Energy Corp,11443,Information Technology,Not found,5475,9692170,117549,82,8636749394,
-Sempra Energy,11370,Utilities,Utility  - General,19000,19829297,145951,136,34408730704,
-IQVIA Holdings Inc,11359,Health Care,Heathcare Information and Technology,70000,22139776,118891,186,37268298712,
-Corning Inc,11303,Information Technology,Electronics  - General,50110,14283654,49121,291,30173807001,
-Quanta Services Inc,11202.672,Industrials,Engineering - Construction,40300,10247932,92493,111,12030908376,
-HollyFrontier Corp,11183.643,Energy,Oilfield Svcs - Equip.,4074,5222831,129232,40,6152274063,
-Aon PLC,11066,Financials,Not found,50000,16181591,69784,232,51804651477,
-Conagra Brands Inc,11054.4,Consumer Staples,Food Processing,16500,14392748,45590,316,16753373156,
-PulteGroup Inc,11036.082,Consumer Discretionary,Homebuilding,5249,9216065,96842,95,12249747637,
-EOG Resources Inc,11004.841,Energy,Oil - Gas  - Production and Exploration,2900,12751421,175681,73,37914119231,
-Ally Financial Inc,10882,Financials,Financial Svcs.  - Non - bank  -  Insurance,9500,10659777,123305,86,16134856887,
-CNA Financial Corp,10808,Utilities,Insurance  - Prop - Cas.,5800,13054480,114082,114,11756684242,
-FirstEnergy Corp,10790,Utilities,Power,12153,14684659,149550,98,18363386117,
-Fidelity National Financial Inc,10778,Industrials,Insurance  - Prop - Cas.,25063,9646148,57381,168,11585430897,
-Discovery Inc,10671,Communication Services,Broadcasting,9800,45843912,79343,578,33392950002,
-Tractor Supply Co,10620.352,Consumer Discretionary,Not found,20000,8655358,28524,303,18743204696,
-CSX Corp,10583,Industrials,Transportation  - Railroads,19282,15537181,107632,144,70790969585,
-Marriott International Inc-MD,10571,Consumer Discretionary,Not found,174000,13435887,38878,346,48480450576,
-Seagate Technology PLC,10509,Information Technology,Not found,42000,10344579,9570,1081,17703817864,
-VF Corp,10488.556,Health Care,Not found,48000,17842521,10099,1767,31865910878,
-SunTrust Banks Inc,10431,Health Care,Not found,22899,8815914,67311,131,31140520361,
-eBay Inc,10271,Consumer Discretionary,Retail  - Online,12700,17647255,130636,135,38907888957,
-L3 Technologies Inc,10244,Consumer Discretionary,Not found,31000,19712866,78820,250,19494138335,
-BorgWarner Inc,10165,Consumer Discretionary,Auto Parts,50000,13947029,44389,314,10787020257,
-Republic Services Inc,10153.6,Industrials,Environmental  -  Waste Services,35000,12617294,63899,197,28751871900,
-Henry Schein Inc,10119.141,Health Care,Healthcare Support Services,19000,14438094,71272,203,9121975683,
-Expeditors International of Washington Inc,10116.481,Industrials,Transportation,17908,6424455,45108,142,15781978785,
-Entergy Corp,10113.636,Utilities,Power,13635,14264249,129663,110,17934940353,
-Advance Auto Parts Inc,10106.321,Consumer Discretionary,Retail  - Automotive,40000,7691513,19463,395,10654925936,
-Assurant Inc,10094.8,Financials,Insurance  - General,14250,10155682,43368,234.2,7317209060,
-Lam Research Corp,10044.736,Information Technology,Semiconductor Equip,11300,13745109,95689,144,82946844192,
-Boston Scientific Corp,9913,Health Care,Healthcare Products,38000,15764140,65630,240,54886827832,
-PVH Corp,9909,Consumer Discretionary,Apparel,21500,17065604,18089,943,7235872443,
-Norfolk Southern Corp,9789,Industrials,Transportation  - Railroads,20156,16655786,108348,154,64421362163,
-Advanced Micro Devices Inc,9763,Information Technology,Semiconductor,12600,58534288,96874,604,1.0325E+11,
-United States Steel Corp,9741,Industrials,Steel,23350,13318357,72170,185,4750740576,
-Markel Corp,9735.066,Energy,Insurance  - Prop - Cas.,18900,4853777,39303,123.5,15458959794,
-AES Corp-VA,9660,Utilities,Not found,8000,10827886,61975,175,18034503800,
-Molson Coors Brewing Co,9654,Consumer Staples,Not found,17000,5234327,72272,72,9944048441,
-JB Hunt Transport Services Inc,9636.573,Industrials,Not found,30309,6588249,65663,100,15753217044,
-Hormel Foods Corp,9608.462,Consumer Staples,Food Processing,19100,8324267,45086,185,25111591622,
-Public Service Enterprise Group Inc,9603,Utilities,Utility  - General,12992,13074227,142188,92,27831756520,
-Steel Dynamics Inc,9601.482,Financials,Steel,8385,10615111,127630,83,9058381361,
-Everest Re Group Ltd,9598.114,Financials,Not found,1603,7626619,144915,52.63,9808874880,
-Mohawk Industries Inc,9552.197,Consumer Discretionary,Furn - Home Furnishings,42000,3126417,42999,73,12668834262,
-First Data Corp,9498,Financials,Not found,19000,102210395,50406,2028,23451549178,
-Square Inc,9497.578,Industrials,Information Services,5477,2.75,164369,0.0001,1.09117E+11,
-Quest Diagnostics Inc,9437,Health Care,Healthcare Support Services,49000,10131566,53492,189,15686272608,
-Newell Brands Inc,9385,Consumer Discretionary,Household Products,31000,8624805,31704,272,10075758000,
-Huntington Ingalls Industries Inc,9361,Industrials,Aerospace - Defense,42000,8641992,73108,118,7257016800,
-Cheniere Energy Inc,9358,Communication Services,Oil - Gas Distribution,1519,16789520,182655,91.9,17265330689,
-Willis Towers Watson PLC,9352,Financials,Not found,46000,18691731,70319,266,28719157843,
-Alcoa Corp,9286,Consumer Staples,Metals  -  Mining,12900,12963461,100290,129,4833226892,
-Casey's General Stores Inc,9175.296,Industrials,Retail  - Grocery and Food,17282,3528588,15655,225,7530090741,
-AGCO Corp,9149.7,Financials,Farming - Agriculture,20961,15287732,48463,315,9902731694,
-NRG Energy Inc,9093,Utilities,Power,4577,9146053,114883,80,10249948403,
-Interpublic Group of Cos Inc ,9061,Communication Services,Not found,50200,16590172,71835,231,10560024421,
-Southwest Airlines Co,9048,Industrials,Air Transport,56537,8771124,101302,86.6,35015360659,
-News Corp,9008,Communication Services,Publishing  -  Newspapers,23500,14747659,64666,228,14091064851,
-Eversource Energy,8904.43,Utilities,Power,9299,19806088,133899,148,27824433050,
-Alleghany Corp,8896.719,Health Care,Reinsurance,9017,13993062,30363,461,9250406277,
-Air Products & Chemicals Inc,8856.3,Materials,Not found,19275,17031957,61035,279,57921438726,
-Reliance Steel & Aluminum Co,8811.9,Financials,Steel,12800,13770002,58100,237,8684203699,
-Dick's Sporting Goods Inc,8750.743,Energy,Retail  - Special Lines,15300,9083405,10091,900,6624926029,
-Campbell Soup Co,8691,Consumer Staples,Not found,14500,8491078,60357,141,13859733018,
-Mosaic Co ,8681.7,Financials,Not found,12617,9767104,37234,262,11706402401,
-Chesapeake Energy Corp,8634,Communication Services,Oil - Gas  - Production and Exploration,2300,15392109,128199,120,4357839146,
-NXP Semiconductors NV,8612,Consumer Discretionary,Not found,29400,20558002,50294,409,51243746733,
-Amphenol Corp,8598.9,Information Technology,Electronics  - General,80000,7380975,14441,511,38246958693,
-ONEOK Inc,8542.242,Energy,Oil - Gas Distribution,2886,10945741,136080,80,20914228965,
-United Rentals Inc,8530,Industrials,Retail  - Distributors,18250,6215830,73881,84,21960853781,
-Arch Capital Group Ltd,8525.275,Consumer Discretionary,Not found,4500,8915516,112111,80,14500462250,
-Brighthouse Financial Inc,8503,Health Care,Insurance  - Life,1400,8490118,150678,56,3610498214,
-Regeneron Pharmaceuticals Inc,8497.1,Health Care,Drugs  - Biotechnology,9123,21455117,139055,154,49132831519,
-Eastman Chemical Co,8473,Materials,Not found,14500,14556133,81638,178,15234189689,
-CommScope Holding Co Inc,8435.9,Financials,Not found,30000,13992038,12769,1096,2989394219,
-Ryder System Inc,8420.091,Consumer Discretionary,Trucking,39000,6604851,48274,137,3704085350,
-Fifth Third Bancorp,8402,Financials,Banks  - Regional,19872,8999237,68103,132,25272168897,
-Constellation Brands Inc,8343.5,Consumer Staples,Beverage  - Alcoholic,9000,10312778,53851,192,42445603984,
-Univar Inc,8265,Health Care,Not found,9457,6479497,64418,101,3404701674,
-Yum China Holdings Inc,8263,Industrials,Not found,450000,12170001,4161,2925,25358951627,
-Targa Resources Corp,8260.3,Consumer Discretionary,Oil - Gas Distribution,2372,12460549,114112,109,7355807094,
-Intercontinental Exchange Inc,8244,Financials,Financial Svcs.  - Non - bank  -  Insurance,8890,14408908,146693,98,62680841279,
-Raymond James Financial Inc,8168,Financials,Brokerage  -  Investment Banking,14800,13090394,94864,138,16532223798,
-Thor Industries Inc,8167.933,Health Care,Auto  -  Truck,22250,9048728,50233,180,6753574077,
-Hershey Co ,8149.719,Health Care,Not found,15200,16787188,38099,441,30471979720,
-Santander Consumer USA Holdings Inc,8108.462,Information Technology,Financial Svcs.  - Non - bank  -  Insurance,5175,3588991,54633,65.7,7824462013,
-WR Berkley Corp,8098.925,Financials,Not found,7495,11017931,105106,105,12537710449,
-Activision Blizzard Inc,8086,Communication Services,Entertainment,9500,30122896,94308,319,75708957460,
-American Tower Corp,8041.5,Real Estate,R.E.I.T.,5618,18095288,62745,288,96644727359,
-Liberty Media Corp-Liberty SiriusXM,8040,Consumer Discretionary,Not found,4555,0,0,0,24819173787,
-Sirius XM Holdings Inc,8040,Real Estate,Cable TV,5726,18778831,137390,137,15237521868,
-Southern Copper Corp,7984.9,Utilities,Metals  -  Mining,13777,1639870,33321,49,56658539885,
-American Financial Group Inc-OH,7909,Financials,Not found,6500,10464587,73634,142,9630927742,
-Darden Restaurants Inc,7806.9,Consumer Discretionary,Restaurant - Dining,177895,10710578,18175,589,18024385496,
-JM Smucker Co ,7801,Consumer Staples,Not found,7300,8056890,71045,113,12349203518,
-Williams Cos Inc ,7719,Energy,Not found,4739,15590338,177403,88,28742556459,
-Intuit Inc,7679,Information Technology,Software  - System  -  Application,10600,17933345,157232,114,1.09618E+11,
-Citizens Financial Group Inc,7676,Financials,Banks  - Regional,17584,9898442,66497,149,18840716490,
-Voya Financial Inc,7649,Real Estate,Financial Svcs.  - Non - bank  -  Insurance,6000,12554291,127400,99,7666920000,
-PPL Corp,7607,Utilities,Power,12318,14142567,147463,96,20731829804,
-Wabtec Corp,7556.1,Financials,Construction Supplies,27000,7484027,42045,178,14114310839,
-Foot Locker Inc,7548,Materials,Retail  - Special Lines,15589,13411422,8241,1627,5386695381,
-NVR Inc,7536.923,Consumer Discretionary,Homebuilding,6100,3987000,78448,51,17043794406,
-Cincinnati Financial Corp,7536,Financials,Insurance  - Prop - Cas.,5266,5528654,96112,57.5,16294290276,
-Weyerhaeuser Co,7532,Real Estate,Not found,9372,9957168,63464,157,26149446960,
-Westlake Chemical Corp,7504,Industrials,Chemical  - Basic,9430,10880451,86219,126.2,11259629202,
-Booz Allen Hamilton Holding Corp,7463.841,Consumer Discretionary,Computer Services,27200,7448529,106954,70,10891180985,
-S&P Global Inc,7442,Financials,Financial Svcs.  - Non - bank  -  Insurance,23000,12152512,27860,436,80750036000,
-Global Payments Inc,7423.558,Information Technology,Information Services,24000,20502096,56040,367,59069347438,
-CenterPoint Energy Inc,7418,Utilities,Utility  - General,9500,7724121,102957,75,10784691590,
-Motorola Solutions Inc,7414,Information Technology,Telecom. Equipment,18000,23619990,93750,252,30440305466,
-Ulta Beauty Inc,7398.068,Consumer Discretionary,Retail  - Special Lines,18000,14257713,25666,556,18708935239,
-KeyCorp,7337,Financials,Banks  - Regional,16826,9663988,63748,152,19899463222,
-Burlington Stores Inc,7286.398,Consumer Staples,Retail  - Special Lines,47000,9428212,12120,778,17519195401,
-WEC Energy Group Inc,7241.7,Utilities,Utility  - General,7273,9262101,127703,73,26240998634,
-Masco Corp,7188,Industrials,Building Materials,18000,8659363,40070,216,13921686721,
-Old Republic International Corp,7165.9,Industrials,Insurance  - Prop - Cas.,9000,1646775,82043,20.1,6019769300,
-Seaboard Corp,7126,Energy,Food Processing,13100,8806646,37682,234,3837419296,
-First American Financial Corp,7086.667,Financials,Insurance  - Prop - Cas.,19597,10367225,55016,188,5935167729,
-Cintas Corp,7085.12,Financials,Business  -  Consumer Services,40000,8621245,52302,165,35615660453,
-Toll Brothers Inc,7077.659,Consumer Discretionary,Homebuilding,4500,10744205,70089,153,6676552985,
-Pioneer Natural Resources Co,7068,Energy,Not found,2323,13562263,171525,79,32180790445,
-Owens Corning,7055,Industrials,Building Materials,19000,6351566,55090,115,8585076657,
-Polaris Industries Inc,7027.9,Financials,Not found,5000,10158452,49387,205.7,7692371601,
-Zimmer Biomet Holdings Inc,7024.5,Health Care,Healthcare Products,20000,11176720,69683,160,34350200591,
-Xerox Corp,7022,Information Technology,Not found,27000,0,0,0,5225459109,
-Arthur J Gallagher & Co,7003.6,Information Technology,Not found,32401,8960616,56067,160,23461914000,
-Avery Dennison Corp,6971.5,Materials,Packaging  -  Container,32000,8495032,12278,692,15013528195,
-Oshkosh Corp,6856.8,Information Technology,Construction Supplies,14400,10258166,62619,164,7501767254,
-Booking Holdings Inc,6796,Consumer Discretionary,Retail  - Online,20300,14768526,50418,293,94682372218,
-Ardagh Group SA,6731,Consumer Staples,Not found,16340,0,0,0,6187820186,
-Clorox Co ,6721,Information Technology,Not found,8800,9362715,68441,137,22838663526,
-Dover Corp,6683.76,Consumer Discretionary,Machinery,23000,9149075,45141,203,18154391836,
-CMS Energy Corp,6680,Utilities,Utility  - General,8837,8986702,122783,73,15842764100,
-Zoetis Inc,6675,Health Care,Drugs  - Pharmaceutical,11300,21145419,76949,275,74867213730,
-Hanesbrands Inc,6664.35,Consumer Discretionary,Apparel,61000,3956325,7076,559,6362201248,
-Packaging Corp of America,6658.2,Industrials,Not found,15200,10338117,71268,125.5,12817929686,
-Regions Financial Corp,6655,Financials,Banks  - Regional,19406,13128415,60621,217,20409519810,
-Graphic Packaging Holding Co,6559.9,Industrials,Not found,18775,9154192,60795,151,4377806741,
-UGI Corp,6559,Real Estate,Power,6500,8592760,64610,133,8183653506,
-Sprouts Farmers Market Inc,6468.759,Industrials,Retail  - Grocery and Food,28000,6780744,21181,320,2594975570,
-Rockwell Automation Inc,6329.8,Industrials,Electrical Equipment,23500,11710165,57907,202,28981854260,
-Avangrid Inc,6320,Real Estate,Power,6597,2258449,221567,10,14279918523,
-Northern Trust Corp,6301.1,Financials,Investments  -  Asset Management,19800,9459768,76636,123,20479386796,
-Nielsen Holdings PLC,6290,Industrials,Business  -  Consumer Services,43000,12936400,32646,396,8232783819,
-M&T Bank Corp,6281.156,Financials,Banks  - Regional,17373,5704703,66768,85,19887217123,
-Realogy Holdings Corp,6221,Industrials,Real Estate  - Operations  -  Services,9235,0,0,0,1763867397,
-NCR Corp,6207,Financials,Computers - Peripherals,36000,12780572,54281,235,4654978000,
-T Rowe Price Group Inc,6206.7,Consumer Staples,Not found,7678,14588346,109916,133,37827652142,
-Vertex Pharmaceuticals Inc,6205.683,Health Care,Drugs  - Biotechnology,3400,18800000,227653,83,55296104788,
-Ralph Lauren Corp,6159.8,Health Care,Apparel,13700,13851684,22787,608,8853902939,
-HD Supply Holdings Inc,6146,Health Care,Not found,11500,7467171,51288,146,7224561038,
-Invesco Ltd,6145.6,Financials,Investments  -  Asset Management,8512,11518949,125282,92,10921329113,
-Owens-Illinois Inc,6091,Industrials,Not found,25000,0,0,0,1914476626,
-Fortune Brands Home & Security Inc,6090.3,Industrials,Building Materials,27500,10693887,57125,187,11991858338,
-National Oilwell Varco Inc,6090,Financials,Not found,35479,9253961,51374,180,6067741791,
-Alexion Pharmaceuticals Inc,6069.9,Health Care,Drugs  - Biotechnology,3387,18947984,237151,80,33662037830,
-Huntsman Corp,6018,Industrials,Chemical  - Diversified,9000,16468951,71711,230,6119816696,
-Equinix Inc,5998.545,Real Estate,R.E.I.T.,10013,16575596,133688,124,57982645354,
-Ingredion Inc,5987,Industrials,Farming - Agriculture,12000,8474335,47754,177,6122493013,
-Chipotle Mexican Grill Inc,5984.634,Consumer Discretionary,Restaurant - Dining,88000,16068144,14155,1136,40953836185,
-Jefferies Financial Group Inc,5958.375,Industrials,Diversified,3922,9231958,170000,54,7504637298,
-Williams-Sonoma Inc,5898.008,Energy,Retail  - Building Supply,11600,27254166,11137,2447,10411334113,
-LPL Financial Holdings Inc,5871.64,Consumer Discretionary,Brokerage  -  Investment Banking,4756,7669954,87303,88,10776733390,
-Crown Castle International Corp,5842,Real Estate,R.E.I.T.,4900,12620843,123187,102,67366599257,
-TD Ameritrade Holding Corp,5838,Consumer Discretionary,Not found,9226,9772730,83718,116.7,27820147092,
-KLA-Tencor Corp,5806.424,Information Technology,Not found,10600,20512367,85968,239,48986494539,
-Ameren Corp,5794,Utilities,Utility  - General,9323,9718998,147127,66,17734044997,
-Olin Corp,5758,Industrials,Chemical  - Basic,8000,7154041,107139,66.77,5072532677,
-Post Holdings Inc,5698.7,Consumer Discretionary,Food Processing,10200,11319810,67082,169,6221764290,
-Arconic Inc,5675,Consumer Staples,Not found,13400,51837578,55497,934,2537532420,
-Celanese Corp,5655,Materials,Chemical  - Specialty,7658,8001982,82366,97.2,16338204382,
-Yum! Brands Inc,5652,Consumer Discretionary,Restaurant - Dining,38000,16369090,11584,1413,31358780657,
-Fastenal Co,5647.3,Industrials,Not found,20365,1759943,45842,38,27568379472,
-Analog Devices Inc,5603.056,Information Technology,Semiconductor,15900,11948434,62277,192,57488400753,
-McCormick & Co Inc-MD,5601.3,Information Technology,Not found,13000,12769184,31603,404,22488683416,
-Carnival Corp,5595,Consumer Discretionary,Hotel - Gaming,11000,11149514,15429,723,29453160224,
-Franklin Resources Inc,5566.5,Financials,Investments  -  Asset Management,11800,10431335,63941,163,13676225529,
-Capri Holdings Ltd,5551,Financials,Not found,17797,14354013,25700,558,7231995147,
-Herbalife Nutrition Ltd,5541.8,Health Care,Household Products,9900,2455922,36137,68,5372288315,
-Electronic Arts Inc,5537,Communication Services,Entertainment,9800,18320071,91661,200,38969012268,
-MDU Resources Group Inc,5532.75,Health Care,Utility  - General,12994,6144355,63768,96,5744963236,
-Roper Technologies Inc,5527.1,Industrials,Diversified,18400,18834053,88988,212,40022912900,
-RPM International Inc,5506.994,Consumer Discretionary,Chemical  - Specialty,14621,8397565,57028,147,10595570810,
-Cerner Corp,5505.788,Health Care,Heathcare Information and Technology,23000,12538797,69830,179.6,21458979289,
-Hasbro Inc,5465.443,Consumer Discretionary,Recreation,6822,17960878,75729,237,13003085155,
-NetApp Inc,5412,Information Technology,Computers - Peripherals,10800,13164969,198620,67,14493208225,
-Moody's Corp,5371,Financials,Financial Svcs.  - Non - bank  -  Insurance,11490,13751632,87393,157,52462840000,
-Agilent Technologies Inc,5339,Health Care,Heathcare Information and Technology,16400,12520566,70014,179,37810255671,
-ADT Inc,5314.787,Information Technology,Business  -  Consumer Services,20500,9343259,58615,159,5844812569,
-Microchip Technology Inc,5274.2,Information Technology,Semiconductor,18000,12864939,41125,313,41691183783,
-ON Semiconductor Corp,5255,Communication Services,Semiconductor,31000,8894933,16069,554,17196034714,
-Huntington Bancshares Inc-OH,5238,Financials,Not found,15477,7488685,61717,121.3,16031788765,
-Sonoco Products Co,5237.443,Industrials,Not found,23000,5402685,53523,101,6146712080,
-Telephone & Data Systems Inc,5225,Health Care,Not found,2900,6885780,54661,126,2084888534,
-Expedia Group Inc,5199,Consumer Discretionary,Retail  - Online,19100,11262552,69854,161,23193842912,
-RenaissanceRe Holdings Ltd,5172.316,Financials,Not found,604,10768159,208241,51.7,8459689081,
-MGM Resorts International,5162.082,Consumer Discretionary,Hotel - Gaming,52000,13146352,38954,337,19007317366,
-Robert Half International Inc,5109,Industrials,Business  -  Consumer Services,13000,7433592,19806,375,8890482276,
-TransDigm Group Inc,5103,Industrials,Aerospace - Defense,14200,13135200,44072,298,32777803003,
-International Flavors & Fragrances Inc,5084.239,Materials,Chemical  - Specialty,13700,7629084,38981,196,34457291875,
-Michaels Cos Inc ,5072.037,Consumer Discretionary,Not found,12000,10472847,11440,915,2284137765,
-Resideo Technologies Inc,5071,Industrials,Building Materials,14700,6353165,25569,248,3647193823,
-Perrigo Co PLC,5063.3,Health Care,Not found,11200,10525298,82616,127,5882775332,
-Watsco Inc,5054.928,Health Care,Retail  - Distributors,5800,11204097,52908,212,9503001325,
-Devon Energy Corp,4989,Energy,Oil - Gas  - Production and Exploration,1800,13795899,164100,84,15131288000,
-Chemours Co ,4969,Communication Services,Not found,6500,7695644,95254,81,3978991890,
-Tapestry Inc,4961.4,Consumer Discretionary,Apparel,9200,12362240,25450,486,11827568896,
-OneMain Holdings Inc,4933,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,8300,9483399,39567,240,6455440716,
-Silgan Holdings Inc,4921.943,Materials,Packaging  -  Container,12000,13264941,36067,368,4272413788,
-Evergy Inc,4913.4,Utilities,Power,5133,5793975,153717,38,12287185095,
-Gardner Denver Holdings Inc,4910.2,Consumer Discretionary,Not found,15900,5535511,61496,90,7526395524,
-Sealed Air Corp,4903.2,Materials,Packaging  -  Container,16500,8989757,55804,161,6735888207,
-Church & Dwight Co Inc,4895.8,Consumer Staples,Not found,5100,8985122,65894,136.4,19517659593,
-CME Group Inc,4883.6,Financials,Financial Svcs.  - Non - bank  -  Insurance,4370,11867214,145478,82,73648812011,
-Xylem Inc-NY,4876,Industrials,Not found,16700,8300000,50000,166,18470513268,
-Vulcan Materials Co,4856.826,Materials,Not found,8767,9574528,85562,112,22815330946,
-Axis Capital Holdings Ltd,4841.954,Materials,Not found,1567,9278330,144000,64,4253281680,
-Western Union Co ,4835,Information Technology,Not found,11000,10099500,31966,316,9730621309,
-Hanover Insurance Group Inc ,4827.3,Consumer Discretionary,Not found,4300,4994450,97544,51,4306811362,
-International Game Technology PLC,4785.806,Materials,Not found,12000,66000000,69984,943,3912760373,
-Torchmark Corp,4737.921,Consumer Discretionary,Not found,3261,8349130,98507,85,9497761955,
-Martin Marietta Materials Inc,4729.9,Materials,Construction Supplies,8700,12198358,67956,180,21788536763,
-Coty Inc,4717.8,Consumer Staples,Household Products,18260,16748651,43242,387,6260885274,
-NiSource Inc,4681.7,Utilities,Utility  - General,7301,6628690,110318,60,8613076448,
-Knight-Swift Transportation Holdings Inc,4673.863,Information Technology,Trucking,22700,4645780,46648,100,7295193983,
-SS&C Technologies Holdings Inc,4667.9,Industrials,Software  - System  -  Application,24600,21620325,133054,162,17214101551,
-Hess Corp,4667,Health Care,Oil - Gas  - Production and Exploration,1775,13493661,190250,71,20552691988,
-Encompass Health Corp,4644.4,Industrials,Hospitals - Healthcare Facilities,31837,7270287,39032,186,8083206440,
-FMC Corp,4642.1,Industrials,Chemical  - Specialty,6400,11536552,51332,225,13627399969,
-Fortive Corp,4634.4,Industrials,Machinery,25000,14141477,56212,251.6,22988948020,
-Simon Property Group Inc,4607.503,Real Estate,R.E.I.T.,3300,10439378,62457,166,38326260205,
-Welltower Inc,4605.967,Real Estate,R.E.I.T.,423,13142124,90811,145,29262724864,
-Monster Beverage Corp,4598.638,Consumer Staples,Beverage  - Soft,2655,13982434,55169,253,46213768470,
-Skechers U.S.A. Inc,4597.414,Real Estate,Shoe,5900,13697047,47634,288,5964380608,
-Mattel Inc,4583.7,Information Technology,Recreation,24000,15514997,5526,2808,7078290774,
-Schneider National Inc,4552.8,Energy,Trucking,15225,3742725,51201,73,4205071544,
-AMETEK Inc,4540.029,Industrials,Electrical Equipment,16500,10176064,86304,118,27983539451,
-Broadridge Financial Solutions Inc,4529,Information Technology,Information Services,12000,7399052,69912,105.8,16584706571,
-Alliance Data Systems Corp,4521.4,Industrials,Information Services,8000,7599100,60219,126,4977953259,
-ServiceNow Inc,4519.484,Information Technology,Software  - System  -  Application,13096,21561715,223554,96,1.06323E+11,
-First Republic Bank-CA,4506.906,Financials,Not found,4812,12884327,145400,89,29239883523,
-Concho Resources Inc,4494,Consumer Staples,Oil - Gas  - Production and Exploration,1453,12980443,157850,82.23,12876927466,
-Under Armour Inc,4474.667,Consumer Discretionary,Apparel,16600,5954169,12126,491,9495935135,
-Noble Energy Inc,4470,Utilities,Not found,2282,13038313,142118,92,11770913928,
-Zebra Technologies Corp,4448,Information Technology,Electronics  - General,8800,10150109,66632,152.33,27222929765,
-Juniper Networks Inc,4445.1,Information Technology,Telecom. Equipment,9950,11129890,129616,86,7833468003,
-Prologis Inc,4438.735,Real Estate,R.E.I.T.,1712,30383438,117751,258,74094546240,
-Tiffany & Co,4424,Health Care,Retail  - Special Lines,14100,10940139,33642,325,16023192050,
-Flowers Foods Inc,4387.991,Information Technology,Food Processing,9700,3822322,75995,50,4619290400,
-Edwards Lifesciences Corp,4386.3,Health Care,Healthcare Products,14900,11520973,64517,179,52946710053,
-Intuitive Surgical Inc,4358.4,Health Care,Healthcare Products,8081,6470374,157267,41,88236927449,
-TreeHouse Foods Inc,4349.7,Industrials,Food Processing,10900,7237021,55710,130,2836519761,
-Brunswick Corp-DE,4347.5,Consumer Staples,Not found,14382,5840775,49314,118,7193386997,
-Covetrus Inc,4339,Consumer Staples,Healthcare Support Services,5500,3690212,30284,122,4819643649,
-Workday Inc,4317.996,Financials,Software  - System  -  Application,12200,9827005,187783,52,59760000000,
-Hilton Worldwide Holdings Inc,4307,Consumer Discretionary,Hotel - Gaming,141000,21387511,43695,489,34426143154,
-IHS Markit Ltd,4287.8,Industrials,Not found,16000,13070056,90999,144,22801482000,
-Leggett & Platt Inc,4280.2,Consumer Discretionary,Furn - Home Furnishings,20400,10204342,36441,280,5871394372,
-Apache Corp,4276,Energy,Oil - Gas  - Production and Exploration,3163,14287300,157761,91,7568555249,
-Carlisle Cos Inc,4245.2,Health Care,Not found,12000,9578941,64629,148,7954791754,
-Keysight Technologies Inc,4221,Information Technology,Electronics  - General,13900,11124216,84714,131,26639860599,
-Antero Resources Corp,4215.472,Information Technology,Oil - Gas  - Production and Exploration,522,5852902,78547,75,2822145896,
-Garmin Ltd,4186.573,Consumer Discretionary,Not found,16000,3233412,35188,92,24459833032,
-Hubbell Inc,4186,Information Technology,Electrical Equipment,19100,5638825,42893,131,9853275320,
-Amdocs Ltd,4169.039,Industrials,Not found,25875,0,102116,0,10076141500,
-Conduent Inc,4163,Consumer Staples,Information Services,67000,7066017,31308,226,1179552249,
-Iron Mountain Inc,4147.27,Health Care,R.E.I.T.,24000,10888949,39267,278,10322595285,
-Landstar System Inc,4136.38,Consumer Staples,Trucking,1320,2645790,42125,62.8,6224414431,
-Scotts Miracle-Gro Co ,4131.6,Energy,Not found,5932,7922384,53177,149,12172797132,
-Equifax Inc,4127.5,Industrials,Business  -  Consumer Services,11400,14281552,72230,197.7,20213167970,
-CF Industries Holdings Inc,4124,Materials,Chemical  - Specialty,3000,8758243,119957,73,9981985481,
-Domino's Pizza Inc,4117.411,Consumer Discretionary,Restaurant - Dining,14400,5495804,17919,307,13391089230,
-Gartner Inc,4099.403,Information Technology,Computer Services,15600,11960245,110383,108,16240479361,
-Bemis Co Inc,4089.9,Health Care,Not found,15694,6643003,42015,158,5290295362,
-SVB Financial Group,4081.758,Financials,Banks  - Regional,4461,10677545,132157,81,27442251427,
-American National Insurance Co,4070.143,Financials,Not found,4640,7850440,67023,117,2481957432,
-Harley-Davidson Inc,4054.377,Consumer Discretionary,Auto  -  Truck,5200,11123478,187157,59,5608206001,
-Paychex Inc,4040.5,Information Technology,Information Services,15800,7930520,56018,142,33556729810,
-United States Cellular Corp,4037,Industrials,Telecom  - Wireless,5300,8843995,55425,159.6,2556050697,
-Total System Services Inc,4028.211,Consumer Discretionary,Not found,12820,7057482,62146,114,21161733591,
-Old Dominion Freight Line Inc,4015.129,Industrials,Trucking,19779,7344950,81583,90,25515677620,
-Urban Outfitters Inc,3983.789,Industrials,Retail  - Special Lines,9600,1039129,12420.51,83.66,3369229757,
-Lululemon Athletica Inc,3979.296,Consumer Discretionary,Not found,19000,19779260,22549,877,41151630948,
-AMERCO,3978.868,Industrials,Trucking,30000,1016699,17280,59,11364085691,
-Spectrum Brands Holdings Inc,3964.2,Industrials,Household Products,12100,19688132,11371,1731,3459619055,
-Snap-on Inc,3942.2,Industrials,Machinery,12300,7560073,60721,125,11334951017,
-Pool Corp,3936.623,Financials,Retail  - Distributors,4500,3290220,50095,66,13519079789,
-Worldpay Inc,3925.4,Financials,Not found,8186,11176630,85481,131,36963372906,
-Digital Realty Trust Inc,3903.609,Real Estate,R.E.I.T.,1153,12337700,157229.85,78,38498621785,
-Lions Gate Entertainment Corp,3890,Materials,Entertainment,1443,6615219,117628,56.2,3090030222,
-Ventas Inc,3795.357,Real Estate,R.E.I.T.,448,11348335,101004,112,20216603309,
-Lamb Weston Holdings Inc,3792.4,Consumer Staples,Food Processing,7700,6837282,55629,123,11982090563,
-Autodesk Inc,3790.4,Information Technology,Software  - System  -  Application,10100,9021758,117829,76.6,62090170725,
-Mercury General Corp,3784.511,Health Care,Insurance  - Prop - Cas.,4300,1706295,61343,28,3308729191,
-PerkinElmer Inc,3782.745,Health Care,Heathcare Information and Technology,13000,16481787,46161,357,14551084326,
-American Water Works Co Inc,3777,Utilities,Not found,7000,5918455,85855,69,26299620012,
-Hologic Inc,3776.4,Health Care,Healthcare Products,5814,12374753,91403,135,19118504966,
-Axalta Coating Systems Ltd,3737.6,Materials,Chemical  - Specialty,13000,9975228,64702,154,6562802989,
-Navient Corp,3734,Financials,Financial Svcs.  - Non - bank  -  Insurance,5560,7793321,46126,168,2370654066,
-Flowserve Corp,3728.134,Information Technology,Machinery,16000,8709622,64075,136,4977848635,
-Twitter Inc,3716.349,Communication Services,Software  - Entertainment,5500,1.4,213155,0.001,61266184979,
-Genpact Ltd,3709.377,Consumer Discretionary,Not found,96500,7617106,31657,241,7765995754,
-Synopsys Inc,3685.281,Information Technology,Software  - System  -  Application,15036,9628307,89083,108,38466604747,
-Tempur Sealy International Inc,3676.9,Health Care,Furn - Home Furnishings,9000,14277857,48205,296,7174754405,
-Domtar Corp,3652,Consumer Discretionary,Paper - Forest Products,10000,6836746,81678,84,1995282549,
-Lennox International Inc,3634.1,Consumer Discretionary,Building Materials,10300,13231690,70513,188,10643506680,
-Las Vegas Sands Corp,3612,Consumer Discretionary,Hotel - Gaming,46000,24680118,42228,584,48221404676,
-Pinnacle West Capital Corp,3586.982,Utilities,Power,6000,11882550,132212,90,8232121453,
-Alaska Air Group Inc,3566,Industrials,Air Transport,16072,5533320,64528,85.8,8310745892,
-EQT Corp,3557.449,Energy,Oil - Gas  - Production and Exploration,624,1,115690,0.0001,4971975111,
-Timken Co ,3513.2,Health Care,Not found,17430,11879251,51873,229,6146197467,
-Service Corp International-US,3511.509,Utilities,Not found,16503,12510895,33280,376,8325615016,
-Caesars Entertainment Corp,3474,Information Technology,Not found,15500,4791280,37103,129,19909211621,
-WABCO Holdings Inc,3421.4,Financials,Not found,13911,7488503,51176,146.3,6702947098,
-Alliant Energy Corp,3416,Utilities,Power,3375,7765384,138044,56,11754404592,
-Palo Alto Networks Inc,3408.4,Materials,Software  - System  -  Application,8014,23885839,219722,109,35427425125,
-Spirit AeroSystems Holdings Inc,3404.8,Industrials,Aerospace - Defense,14500,11072149,70486,157,4829298950,
-First Horizon National Corp,3390,Financials,Not found,6649,5551044,89476,62,9242998070,
-Toro Co ,3378.81,Consumer Discretionary,Not found,10385,5267433,48319,109,11032471817,
-Brown-Forman Corp,3363,Consumer Staples,Beverage  - Alcoholic,4800,3695893,58714,63,33950744317,
-Red Hat Inc,3362.069,Real Estate,Not found,13360,15442344,118925,130,32858152791,
-Skyworks Solutions Inc,3355.7,Information Technology,Semiconductor,10000,13660593,21852,625,30147021108,
-DENTSPLY SIRONA Inc,3342,Health Care,Healthcare Products,15200,11366243,50861,223,12990924595,
-Zillow Group Inc,3339.817,Information Technology,Software  - Entertainment,5504,4502366,121573,37,40784819231,
-Acuity Brands Inc,3326.3,Communication Services,Electrical Equipment,11500,14874164,15169,981,4575217370,
-GoDaddy Inc,3316.7,Financials,Software  - Internet,6621,14310581,59369,241,13944583386,
-Elanco Animal Health Inc,3273.3,Health Care,Drugs  - Pharmaceutical,6080,15801769,81265,194,15738366951,
-Virtu Financial Inc,3239.331,Health Care,Brokerage  -  Investment Banking,1012,4598172,177848,26,5300981401,
-Qorvo Inc,3239.141,Information Technology,Semiconductor,7900,7984739,44708,179,20115456763,
-Illumina Inc,3239,Health Care,Heathcare Information and Technology,7800,1521949,104555,15,65281496000,
-Citrix Systems Inc,3236.7,Information Technology,Software  - System  -  Application,8400,14513856,181769,80,16677570293,
-Akamai Technologies Inc,3198.149,Information Technology,Software  - Internet,8368,10937601,117276,93,15541834109,
-MSC Industrial Direct Co Inc,3192.399,Information Technology,Not found,6315,3871786,54425,71,4896076537,
-PRA Health Sciences Inc,3183.365,Utilities,Heathcare Information and Technology,18100,7160216,66630,107,9503453848,
-Varian Medical Systems Inc,3168.2,Health Care,Healthcare Products,10000,9446296,109548,86,16151692042,
-Xilinx Inc,3162.666,Information Technology,Semiconductor,4891,6589807,148150,44,32011101270,
-Transocean Ltd,3152,Industrials,Not found,6600,9936952,129485,77,2264221022,
-CIT Group Inc,3150.4,Information Technology,Banks  - Regional,4131,8339413,93434,89,4580046885,
-Trimble Inc,3147.7,Information Technology,Electronics  - General,11402,9680494,70075,138,19081600359,
-E*TRADE Financial Corp,3145,Information Technology,Not found,4122,5966882,98271,61,10342428529,
-Clean Harbors Inc,3144.097,Information Technology,Environmental  -  Waste Services,13500,4113899,65894,62,4785931463,
-Albemarle Corp,3128.909,Industrials,Chemical  - Specialty,5900,8521584,77782,110,18054701557,
-Marathon Oil Corp,3122,Energy,Oil - Gas  - Production and Exploration,1672,14050851,144720,97,8916558664,
-Teradyne Inc,3121.469,Information Technology,Semiconductor Equip,5500,8007913,97185,82,21862019348,
-Catalent Inc,3094.3,Health Care,Drugs  - Pharmaceutical,13900,8514987,50845,167.5,19570942315,
-Comerica Inc,3094,Financials,Banks  - Regional,7681,14632651,85981,170,9750022800,
-Take-Two Interactive Software Inc,3088.97,Communication Services,Entertainment,4488,109540,67714,1.62,21363150522,
-Teledyne Technologies Inc,3086.2,Industrials,Aerospace - Defense,10670,3818788,65046,59,14122386548,
-Mettler-Toledo International Inc,3085.177,Health Care,Heathcare Information and Technology,16500,8755320,39445,222,26663173433,
-Terex Corp,3076.4,Information Technology,Construction Supplies,8200,8332602,56699,147,2980730000,
-Colfax Corp,3070.769,Information Technology,Machinery,15400,8430026,23146,364,5408046759,
-Diamondback Energy Inc,3056,Energy,Oil - Gas  - Production and Exploration,712,16049655,137832,116,12370158207,
-IAC-InterActiveCorp,3047.681,Industrials,Software  - Entertainment,9269,15508980,53981,287,21859786292,
-Sensata Technologies Holding PLC,3045.578,Utilities,Electrical Equipment,19000,5795871,10790,537,9288471917,
-Garrett Motion Inc,3034,Consumer Discretionary,Not found,6300,5276980,27146,198,780438611.5,
-STERIS PLC,3030.895,Health Care,Not found,13000,5992286,59832,100,15039148031,
-Carter's Inc,3024.334,Industrials,Apparel,18000,7627912,10890,700,3711476792,
-Pentair PLC,3017.8,Industrials,Not found,9500,6413860,59187,108,9600133883,
-ResMed Inc,2957.013,Health Care,Healthcare Products,7770,9635100,60918,158,28400463015,
-JetBlue Airways Corp,2957,Industrials,Air Transport,16495,3955524,59647,66.3,5996726436,
-Zions Bancorp NA,2942,Financials,Not found,9726,4341075,65048.25,67,8910257066,
-Crane Co,2936.9,Consumer Staples,Machinery,11000,7190812,68405,105,5052173682,
-AptarGroup Inc,2929.34,Industrials,Packaging  -  Container,13000,7918040,40502,195,8481644976,
-Charles River Laboratories International Inc,2923.933,Materials,Heathcare Information and Technology,18400,17722105,49069,361,14363428063,
-Legg Mason Inc,2922.125,Consumer Discretionary,Not found,3059,9952270,165165,60,3129250854,
-Public Storage,2915.068,Real Estate,R.E.I.T.,5400,4289200,26001,165,41406959188,
-Regal Beloit Corp,2907,Real Estate,Electrical Equipment,19560,6730794,13433,501,5684963291,
-Nasdaq Inc,2903,Financials,Financial Svcs.  - Non - bank  -  Insurance,4830,13869051,120822,115,23241128263,
-Valmont Industries Inc,2895.355,Energy,Engineering - Construction,10844,4872938,46015,106,5157626786,
-AO Smith Corp,2895.3,Health Care,Not found,13500,3808438,21337,178,9828261907,
-Graham Holdings Co,2889.121,Information Technology,Not found,16661,1470860,40131,37,3038891588,
-Hill-Rom Holdings Inc,2881,Information Technology,Healthcare Products,10000,7326160,68973,106,7123302018,
-Atmos Energy Corp,2821.137,Utilities,Power,4694,10395993,84516,123,11060267979,
-AMC Networks Inc,2814.956,Consumer Discretionary,Broadcasting,2114,20196317,57587,354,2792729299,
-Gates Industrial Corp PLC,2793,Information Technology,Not found,14300,10486690,28679,366,4508222539,
-Verisk Analytics Inc,2784.6,Industrials,Business  -  Consumer Services,8960,9050882,77055,117,27049449431,
-Boston Properties Inc,2765.686,Real Estate,R.E.I.T.,760,11917600,115266,103,15851666424,
-Energizer Holdings Inc,2744.8,Industrials,Household Products,5900,6814918,35464,192,2933626940,
-Allegion PLC,2719.9,Industrials,Not found,11500,8552444,44199,193,10115743793,
-TransUnion,2716.6,Industrials,Business  -  Consumer Services,8200,8417153,81423,103,16419270000,
-First Solar Inc,2711.332,Financials,Semiconductor,5100,8524240,83313,102,8945251991,
-IDEXX Laboratories Inc,2706.655,Health Care,Healthcare Products,9300,7637774,55106,139,45152808845,
-Marvell Technology Group Ltd,2699.161,Materials,Not found,5633,7166309,162933,44,32723378000,
-Cadence Design Systems Inc,2682.891,Information Technology,Software  - System  -  Application,8800,19146556,100773,190,40021610040,
-Stericycle Inc,2675.5,Financials,Environmental  -  Waste Services,15000,3856557,50916,76,6128655079,
-Incyte Corp,2666.702,Health Care,Drugs  - Biotechnology,1773,15151238,254237,60,17451176792,
-EPAM Systems Inc,2659.478,Energy,Computer Services,41200,4325619,28721,151,21557182775,
-Lincoln Electric Holdings Inc,2655.4,Health Care,Machinery,10700,6981969,45062,155,7172569968,
-Lazard Ltd,2646.769,Consumer Discretionary,Not found,3100,10509587,195170,54,4211603109,
-H&R Block Inc,2639.72,Industrials,Business  -  Consumer Services,3500,8504020,16182,526,3615175580,
-Kansas City Southern,2632.6,Industrials,Transportation  - Railroads,6522,6380412,48623,131,19595880598,
-Cabot Corp,2614,Industrials,Chemical  - Basic,4500,6679379,68660,97,2870456550,
-Brown & Brown Inc,2613.375,Information Technology,Insurance  - General,11136,5178025,71366,73,13182026727,
-Popular Inc,2603.863,Consumer Discretionary,Banks  - Regional,8522,5135399,38614,133,5790106272,
-Fortinet Inc,2594.4,Information Technology,Software  - System  -  Application,8238,9629923,122329,79,27944812970,
-Continental Resources Inc-OK,2586.47,Consumer Staples,Not found,1201,12746088,127231,100,9148106894,
-Nu Skin Enterprises Inc,2581.934,Utilities,Household Products,5000,4570379,3818,1197,2641363047,
-Donaldson Co Inc,2581.8,Consumer Discretionary,Not found,12400,6270388,34680,181,7550409555,
-Hawaiian Electric Industries Inc,2579.775,Consumer Discretionary,Power,3841,4902901,151680,32,3859552733,
-Zayo Group Holdings Inc,2578,Consumer Discretionary,Not found,3781,11246476,82000,137,8172993189,
-Equity Residential,2571.705,Real Estate,R.E.I.T.,2600,6588161,59542,111,24994521830,
-Kontoor Brands Inc,2548.839,Consumer Discretionary,Apparel,15000,0,0,0,2529049408,
-Visteon Corp,2548,Information Technology,Auto Parts,10000,0,0,0,3609494967,
-Bio-Rad Laboratories Inc,2545.626,Health Care,Heathcare Information and Technology,8000,7261053,69055,105,17725459779,
-Teleflex Inc,2537.156,Health Care,Healthcare Products,14000,6782758,46589,146,18858948055,
-Erie Indemnity Co,2536.489,Real Estate,Not found,5849,4249710,90924,47,12734674453,
-Middleby Corp ,2513.257,Real Estate,Not found,9778,7198183,39153,175,8586532172,
-Columbia Sportswear Co,2501.554,Consumer Staples,Not found,7275,2671227,27562,97,6996431711,
-Symantec Corp,2490,Financials,Not found,3600,2921038,115899,25.2,11139853628,
-Euronet Worldwide Inc,2482.7,Consumer Discretionary,Information Services,7700,8415773,24230,347,8125521640,
-Interactive Brokers Group Inc,2479,Information Technology,Brokerage  -  Investment Banking,1643,8365000,88028,95,32319465422,
-ITT Inc,2477.8,Real Estate,Machinery,9700,7068573,53778,131,7378450000,
-Align Technology Inc,2471.941,Health Care,Healthcare Products,18070,18269139,13756,1328,45275787464,
-WPX Energy Inc,2433,Financials,Oil - Gas  - Production and Exploration,590,11334302,155484,73,4602710801,
-Cooper Cos Inc ,2430.9,Consumer Staples,Not found,12000,7724746,39775,194,19106345849,
-Floor & Decor Holdings Inc,2425.788,Information Technology,Retail  - Building Supply,8790,2422843,23877,101,9914642186,
-Curtiss-Wright Corp,2391.336,Industrials,Aerospace - Defense,8200,9185016,57569,160,4673502629,
-Match Group Inc,2391.269,Information Technology,Software  - Entertainment,1880,3361203,102949,33,42166707362,
-FleetCor Technologies Inc,2388.855,Information Technology,Information Services,8400,11504313,38414,299,23529238562,
-Waters Corp,2365.365,Industrials,Heathcare Information and Technology,7412,1084859,74654,15,17229789128,
-Jazz Pharmaceuticals PLC,2363.567,Industrials,Not found,1940,14713637,214881,68,9495905255,
-Splunk Inc,2358.926,Industrials,Software  - System  -  Application,5800,13505795,261231,52,23986435137,
-SLM Corp,2353.109,Real Estate,Financial Svcs.  - Non - bank  -  Insurance,1900,6062247,72550,84,5804196278,
-Valvoline Inc,2353,Energy,Chemical  - Basic,8800,4601614,31075,148,4575443673,
-IDEX Corp,2351.646,Information Technology,Machinery,7439,9119596,66703,137,15097504279,
-F5 Networks Inc,2350.822,Information Technology,Telecom. Equipment,6110,9473457,176749,54,11980603656,
-Genesee & Wyoming Inc,2348.55,Consumer Discretionary,Not found,8000,0,0,0,11980603656,
-MKS Instruments Inc,2330,Real Estate,Semiconductor Equip,5800,9669644,79505,122,9274554718,
-Ashland Global Holdings Inc,2326,Financials,Chemical  - Specialty,4500,7372385,62083,119,5244695693,
-Arista Networks Inc,2317.512,Information Technology,Telecom. Equipment,2613,1384171,151647,9,21831593194,
-Synovus Financial Corp,2311.008,Information Technology,Banks  - Regional,5264,5222995,65896,79,6532982914,
-People's United Financial Inc,2307.7,Financials,Banks  - Regional,6110,5800085,68190,85,7740298349,
-AvalonBay Communities Inc,2301.261,Real Estate,R.E.I.T.,3122,10921362,70917,154,25147040063,
-Evercore Inc,2291.628,Consumer Discretionary,Brokerage  -  Investment Banking,1900,7312898,187500,39,5280640590,
-TCF Financial Corp,2281.725,Consumer Discretionary,Banks  - Regional,7254,0,0,0,7091551469,
-Royal Caribbean Cruises Ltd,2208.805,Consumer Discretionary,Not found,8200,14358919,17303,830,22062263617,
-Copart Inc,2205.583,Industrials,Business  -  Consumer Services,7600,156315,35360,4.4,25845986462,
-Cypress Semiconductor Corp,2205.314,Health Care,Not found,5871,10571858,54343,195,8679207003,
-Maxim Integrated Products Inc,2191.395,Information Technology,Semiconductor,7115,9143785,32372,282,25040396479,
-KAR Auction Services Inc,2187.7,Industrials,Business  -  Consumer Services,10000,5529428,33017,167,1847605047,
-Seattle Genetics Inc,2175.536,Consumer Discretionary,Not found,2092,14521495,222352,65,27555112237,
-Kirby Corp,2171.408,Energy,Shipbuilding  -  Marine,5400,4684626,83595,56,3835225550,
-Rollins Inc,2161.22,Industrials,Environmental  -  Waste Services,15616,4780854,50134,95.4,16713139807,
-Wyndham Destinations Inc,2160,Financials,Hotel - Gaming,15500,7951962,49083,162,4670360185,
-West Pharmaceutical Services Inc,2146.9,Health Care,Healthcare Products,9200,6479661,49229,133,21086016048,
-Nabors Industries Ltd,2134.043,Financials,Not found,10000,14742873,53768,274,1133857243,
-BWX Technologies Inc,2123.516,Consumer Staples,Aerospace - Defense,6700,5041508,88538,57,5605560947,
-OGE Energy Corp,2122.3,Energy,Power,2360,6447313,110779,58,6019107029,
-Nordson Corp,2121.1,Utilities,Machinery,7555,3437271,57335,60,11377814646,
-BOK Financial Corp,2112.949,Industrials,Banks  - Regional,4915,3818371,70319,54,6159706256,
-Range Resources Corp,2103.615,Consumer Discretionary,Oil - Gas  - Production and Exploration,533,8384520,140000,60,2528822893,
-Wynn Resorts Ltd,2095.861,Consumer Discretionary,Not found,27500,13851298,45706,303,15397668694,
-Acadia Healthcare Co Inc,2089.929,Health Care,Not found,28600,7719813,26881,287,5061920930,
-SBA Communications Corp,2083.138,Real Estate,R.E.I.T.,1483,10156251,92370,109,27352964630,
-Allison Transmission Holdings Inc,2081,Utilities,Construction Supplies,3300,3093412,85826,36,4421825723,
-Chemed Corp,2079.583,Communication Services,Healthcare Support Services,16641,10019850,44423,226,7165585785,
-Hyatt Hotels Corp,2066,Industrials,Hotel - Gaming,115000,14702221,35358,416,8990388401,
-BGC Partners Inc,2063.717,Consumer Discretionary,Brokerage  -  Investment Banking,5200,11750000,111150,106,2445146708,
-Hain Celestial Group Inc ,2053.903,Industrials,Not found,4287,11641363,30295,384,4266034665,
-Affiliated Managers Group Inc,2027.5,Health Care,Investments  -  Asset Management,4000,24197628,160697,151,6100103576,
-Air Lease Corp,2015.439,Financials,Retail  - Distributors,120,7895939,185375,43,5347518861,
-NewMarket Corp,2010.931,Consumer Discretionary,Chemical  - Specialty,2105,3183198,146806,22,4177522528,
-Tribune Media Co,2009.734,Industrials,Not found,5800,7410800,53341,139,4072959180,
-Signature Bank-New York NY,2006.894,Materials,Not found,1472,7830542,103787,75.5,12798938863,
-Trinity Industries Inc,1999.4,Information Technology,Construction Supplies,6375,10241919,14756,694,3677617283,
-nVent Electric PLC,1998.6,Materials,Not found,8800,5999443,49796,120,4537551628,
-Bruker Corp,1987.5,Consumer Staples,Heathcare Information and Technology,7230,4909641,76488,64,9564663132,
-Zynga Inc,1974.8,Health Care,Entertainment,2245,11679821,98588,118,12270355727,
-Murphy Oil Corp,1967.341,Financials,Oil - Gas  - Production and Exploration,822,18804373,136024,138,2598888735,
-Vail Resorts Inc,1963.704,Industrials,Recreation,7100,3624696,14884,244,12639805862,
-ServiceMaster Global Holdings Inc,1961,Utilities,Not found,10000,5267718,48126,109,5157581747,
-First Citizens BancShares Inc-NC,1960.776,Financials,Not found,6451,4024342,64543,62,7353985907,
-CDK Global Inc,1960.1,Real Estate,Software  - System  -  Application,9000,14114436,77182,183,6285035583,
-Arcosa Inc,1935.6,Consumer Staples,Engineering - Construction,6275,0,0,0,2797649598,
-DexCom Inc,1926.7,Health Care,Healthcare Products,5500,10279373,94523,109,37968899365,
-FLIR Systems Inc,1923.689,Information Technology,Electronics  - General,4179,5492416,76714,72,7124935179,
-Parsley Energy Inc,1903.33,Industrials,Oil - Gas  - Production and Exploration,496,6584555,171503,38,5658575332,
-Apergy Corp,1899.996,Energy,Not found,3000,4055014,69120,59,18922429620,
-Wintrust Financial Corp,1897.209,Financials,Banks  - Regional,5057,5140088,56323,91,4293581732,
-EchoStar Corp,1887.907,Consumer Discretionary,Telecom. Equipment,2420,2547199,104923,24,2171932899,
-Alexandria Real Estate Equities Inc,1885.637,Real Estate,R.E.I.T.,470,11041490,155000,71,21858537013,
-QIAGEN NV,1870.346,Consumer Discretionary,Not found,5600,0,0,0,11410000120,
-Live Nation Entertainment Inc,1861.178,Communication Services,Entertainment,10500,14563122,18333,794,20456350922,
-BioMarin Pharmaceutical Inc,1860.455,Health Care,Drugs  - Biotechnology,3059,18405856,190917,96,14313632410,
-Element Solutions Inc,1853.7,Communication Services,Chemical  - Specialty,4400,4620138,50500,106,4608430797,
-Teradata Corp,1836,Health Care,Software  - System  -  Application,8535,4941051,76892,64,4538760000,
-John Wiley & Sons Inc,1831.483,Consumer Staples,Publishing  -  Newspapers,6900,5499029,57541,96,2990766673,
-East West Bancorp Inc,1830.589,Information Technology,Banks  - Regional,3000,7413241,78992,94,10434791015,
-Invitation Homes Inc,1822.828,Financials,R.E.I.T.,1140,6291215,57644,109,16795396992,
-GrubHub Inc,1819.982,Industrials,Retail  - Online,2714,7835652,85700,91,5970250977,
-HEICO Corp,1787.009,Real Estate,Aerospace - Defense,5200,10204504,60046,170,16562178920,
-Helmerich & Payne Inc,1773.927,Real Estate,Oil - Gas  - Production and Exploration,4138,7731049,87987,87.9,3218380369,
-New York Community Bancorp Inc,1769.073,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,2948,7640224,82420,93,5788649409,
-Twilio Inc,1761.776,Financials,Software  - Internet,4629,12292577,191956,64,68770758639,
-MEDNAX Inc,1733.951,Health Care,Healthcare Support Services,3600,8066275,98094,82,2101405255,
-Eaton Vance Corp,1730.365,Industrials,Investments  -  Asset Management,1983,13370078,149073,90,8583885828,
-WR Grace & Co,1729.8,Financials,Not found,4000,5529934,170381,32,4021129130,
-Wendy's Co ,1709.002,Real Estate,Not found,13300,6688988,19657,340,4786056163,
-Jack Henry & Associates Inc,1697.067,Information Technology,Information Services,6402,4851479,69325,70,11460279802,
-MSCI Inc,1695.39,Financials,Financial Svcs.  - Non - bank  -  Insurance,3633,9255960,55857,165,34331233574,
-Gentex Corp,1688.189405,Consumer Discretionary,Auto Parts,5303,3059702,48462,63,8691583770,
-Pure Storage Inc,1684.179,Consumer Discretionary,Computers - Peripherals,3400,8383230,223393,38,6626578923,
-SEI Investments Co,1684.058,Consumer Discretionary,Not found,3963,2275583,90320,25.2,8203412857,
-ANSYS Inc,1681.297,Information Technology,Software  - System  -  Application,4800,19591414,100100,196,30201759119,
-Mid-America Apartment Communities Inc,1677.984,Information Technology,R.E.I.T.,2476,5735898,46088,124,15647320828,
-Cimarex Energy Co,1677.842,Health Care,Oil - Gas  - Production and Exploration,747,9002555,124105,73,6091353618,
-Credit Acceptance Corp,1669.3,Consumer Staples,Financial Svcs.  - Non - bank  -  Insurance,2119,1039000,68355,15,6307099875,
-CoStar Group Inc,1659.019,Materials,Business  -  Consumer Services,4752,19324540,89925,215,32338237363,
-Realty Income Corp,1651.625,Industrials,R.E.I.T.,208,7538883,99644,76,22866444080,
-Graco Inc,1650.115,Information Technology,Machinery,3700,8520558,64849,131,11921706037,
-HCP Inc,1644.875,Health Care,Not found,217,9907966,145000,68,15161621109,
-CoreLogic Inc-United States,1642.375,Industrials,Not found,5100,6566418,68504,95.85,6280841023,
-Senior Housing Properties Trust,1632.026,Utilities,Not found,3000,0,0,0,2007868,
-Host Hotels & Resorts Inc,1620,Real Estate,R.E.I.T.,68,9434465,197781,48,11885392651,
-Atlassian Corp PLC,1614.173,Communication Services,Not found,4907,9098603,71543,127,61742751631,
-Lamar Advertising Co,1568.856,Information Technology,Not found,3300,4966110,59550,83.4,8839867636,
-WEX Inc,1559.869,Materials,Information Services,5000,6482394,63763,102,9483544522,
-National Fuel Gas Co,1546.291,Financials,Not found,2162,4032786,84849,48,4194430150,
-Brookfield Property REIT Inc,1529.523,Information Technology,R.E.I.T.,14000,11332589,80869,140,1193938325,
-Vornado Realty Trust,1527.951,Real Estate,R.E.I.T.,2899,11466885,65442,175.1,8582257353,
-Bright Horizons Family Solutions Inc,1515.093,Health Care,Education,33800,1895577,24695,77,9779319459,
-Equitrans Midstream Corp,1510.825,Real Estate,Oil - Gas Distribution,771,5013222,125578,40,3234956753,
-Hexcel Corp,1502.4,Information Technology,Aerospace - Defense,4647,8822920,60383,146,4709486105,
-Essex Property Trust Inc,1495.748,Real Estate,R.E.I.T.,1799,6419864,74338,86,16907020065,
-FactSet Research Systems Inc,1494.111,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,10484,2884084,17358,166,11710708710,
-Exact Sciences Corp,1491.391,Utilities,Drugs  - Biotechnology,4800,18729996,113869,164,23571586783,
-Cullen-Frost Bankers Inc,1486.489,Industrials,Banks  - Regional,4685,4763232,56246,84.7,6708858736,
-United Therapeutics Corp,1483.3,Information Technology,Drugs  - Biotechnology,950,45651970,196979,232,7487011827,
-Nuance Communications Inc,1478.899,Utilities,Software  - System  -  Application,7100,12582183,50397,250,12853357564,
-frontdoor Inc,1474,Materials,Business  -  Consumer Services,1600,5529075,44750,124,4527220322,
-CNX Resources Corp,1463.519,Utilities,Oil - Gas  - Production and Exploration,451,2755901,83139,33,2774904677,
-PTC Inc,1458.415,Financials,Software  - System  -  Application,6243,10984505,85126,129,16363971458,
-Eagle Materials Inc,1450.814,Information Technology,Construction Supplies,2400,5537014,79862,69,5395949920,
-Littelfuse Inc,1445.695,Materials,Electronics  - General,12200,3920145,15671,250,6535295111,
-Cabot Oil & Gas Corp,1440.438,Energy,Oil - Gas  - Production and Exploration,503,13830926,74070,187,7325358178,
-Associated Banc-Corp,1426.896,Financials,Banks  - Regional,4459,5140297,53222,97,3129997271,
-FNB Corp-PA,1424.862,Materials,Not found,3768,6409567,54714,117,3880784070,
-Umpqua Holdings Corp,1424.636,Consumer Discretionary,Banks  - Regional,3943,3604846,61072,59,3882636706,
-Sun Communities Inc,1398.347,Health Care,R.E.I.T.,4872,7969265,29280,272,16356593230,
-Commerce Bancshares Inc-MO,1389.547,Financials,Not found,4766,3692831,58414,63,8771516500,
-Morningstar Inc,1389.5,Financials,Financial Svcs.  - Non - bank  -  Insurance,7979,3960682,83455,47,9907202326,
-Versum Materials Inc,1372.3,Communication Services,Not found,2300,4809960,82544,58,5585492177,
-Integra LifeSciences Holdings Corp,1371.868,Industrials,Healthcare Products,3700,7859423,75619,104,5821526274,
-Dunkin' Brands Group Inc,1370.227,Consumer Staples,Retail  - Grocery and Food,1114,5404590,128265,42.1,6197583645,
-Extra Space Storage Inc,1356.212,Real Estate,R.E.I.T.,4013,6284975,38658,163,16559595290,
-Pinnacle Financial Partners Inc,1338.882,Energy,Banks  - Regional,2508,4923891,70266,70,6244986154,
-Sabre Corp,1334.1,Financials,Information Services,7531,8810560,76584,115,4696452372,
-Western Alliance Bancorp,1332.6,Health Care,Banks  - Regional,1915,5261283,101103,52,9576928472,
-Cable One Inc,1325.229,Industrials,Cable TV,2716,2704303,49978,54,11630828113,
-Starwood Property Trust Inc,1320.738,Consumer Discretionary,R.E.I.T.,282,0,0,0,6705224164,
-Nutanix Inc,1307.682,Materials,Software  - System  -  Application,5340,6943333,179305,38.7,6199596886,
-Wyndham Hotels & Resorts Inc,1300,Financials,Hotel - Gaming,9000,6732826,22391,301,6102612927,
-Premier Inc,1299.592,Utilities,Healthcare Support Services,2500,7680983,120578,64,4136558860,
-Fair Isaac Corp,1294.562,Communication Services,Software  - System  -  Application,4003,11345257,93278,122,13702964757,
-Webster Financial Corp,1287.326,Health Care,Banks  - Regional,3298,3582866,65227,55,5128461606,
-National Instruments Corp,1286.671,Financials,Electronics  - General,7000,8487974,49581,171,5968379944,
-Ubiquiti Networks Inc,1284.5,Financials,Not found,714,3698,59800,0,8499401350,
-Norwegian Cruise Line Holdings Ltd,1279.908,Consumer Discretionary,Hotel - Gaming,36000,17808364,16925,1052,9810102107,
-Prosperity Bancshares Inc,1275.444,Real Estate,Banks  - Regional,3756,3720949,36631,102,6904757623,
-ICU Medical Inc,1271.004,Information Technology,Healthcare Products,7900,2825277,31552,90,4401049649,
-Hospitality Properties Trust,1265.254,Consumer Staples,Not found,600,0,0,0,3961361214,
-VeriSign Inc,1265.052,Information Technology,Software  - Internet,909,9024073,180475,50,22098677219,
-LogMeIn Inc,1260.385,Financials,Not found,3974,9957554,108209,92,3489633457,
-Cboe Global Markets Inc,1254.3,Financials,Financial Svcs.  - Non - bank  -  Insurance,1010,8212785,166086,49,10569841689,
-PacWest Bancorp,1249.551,Materials,Banks  - Regional,1835,7061107,85821,82,4396622970,
-Medical Properties Trust Inc,1249.238,Health Care,R.E.I.T.,86,17253436,175927,98,12729503327,
-Texas Capital Bancshares Inc,1242.428,Consumer Discretionary,Banks  - Regional,1641,4908814,93586,52.5,3999041313,
-UDR Inc,1241.165,Real Estate,R.E.I.T.,1263,6307734,66909,94,12519909569,
-Black Knight Inc,1238.5,Health Care,Information Services,5700,10143427,100039,101,12258606253,
-Outfront Media Inc,1236.3,Industrials,R.E.I.T.,2062,6993709,72331,97,3142142079,
-Coherent Inc,1228.999,Information Technology,Electronics  - General,4875,4887445,69018,71,5948373089,
-VICI Properties Inc,1225.574,Health Care,R.E.I.T.,147,5555658,19595,284,15547130442,
-GrafTech International Ltd,1224.361,Information Technology,Electrical Equipment,1285,2361058,35981,66,3313178308,
-WP Carey Inc,1209.319,Financials,Not found,188,6918604,141718,49,12267790520,
-BankUnited Inc,1200.83,Financials,Banks  - Regional,1493,5320229,90073,59.1,3855632524,
-IPG Photonics Corp,1200.724,Information Technology,Electronics  - General,6060,1251984,31205,40.1,12231890436,
-Bank OZK,1185.389,Financials,Banks  - Regional,2652,5135609,41167,125,5383945607,
-RingCentral Inc,1183.657,Health Care,Software  - System  -  Application,3140,9820094,127834,77,34013429882,
-American Homes 4 Rent,1182.836,Financials,R.E.I.T.,1447,1476575,53556,27.57,9873209961,
-White Mountains Insurance Group Ltd,1180.7,Consumer Discretionary,Not found,1262,6858274,42523,161,3827744892,
-Dolby Laboratories Inc,1161.792,Communication Services,Electronics  - General,2289,7360030,130998,56,10215151170,
-VEREIT Inc,1161.366,Real Estate,R.E.I.T.,160,6821118,113700,60,9144009096,
-RealPage Inc,1158.484,Industrials,Software  - System  -  Application,7000,9579997,51324,187,8885352132,
-Tableau Software Inc,1155.352,Financials,Not found,4181,3509719,199864,18,9337544166,
-Welbilt Inc,1153.4,Utilities,Machinery,4400,3706252,47561,78,2343903862,
-Gaming and Leisure Properties Inc,1153.165,Materials,R.E.I.T.,560,11433673,30137,379,10435567344,
-Sterling Bancorp-DE,1149.583,Health Care,Not found,1639,7157396,69466,111,4308379387,
-Liberty Media Corp-Liberty Formula One,1145,Consumer Discretionary,Not found,84,19812263,88786,223,10559805270,
-Masimo Corp,1143.744,Industrials,Healthcare Products,1600,14996101,117628,127,13918882884,
-SM Energy Co,1126.582,Energy,Utility  - General,503,7849218,177380,44,1652289178,
-Patterson-UTI Energy Inc,1124.249,Industrials,Oil - Gas  - Production and Exploration,3000,8845356,87685,101,1449325170,
-Tyler Technologies Inc,1116.663,Information Technology,Software  - System  -  Application,5536,4191130,87564,47.86,19060513150,
-Assured Guaranty Ltd,1115,Financials,Not found,441,12153470,255268,47.6,3440098496,
-Sage Therapeutics Inc,1114.2,Financials,Drugs  - Biotechnology,298,9902083,369650,27,5016759503,
-Veeva Systems Inc,1104.081,Health Care,Heathcare Information and Technology,3501,322917,102907,3.1,43938652133,
-Equity LifeStyle Properties Inc,1091.448,Real Estate,R.E.I.T.,4000,3455317,25681,135,11258830028,
-Kimco Realty Corp,1057.893,Real Estate,R.E.I.T.,484,6948567,102500,68,8155815005,
-Uniti Group Inc,1057.611,Health Care,R.E.I.T.,899,5425302,75448,72,2819693207,
-Camden Property Trust,1054.637,Information Technology,R.E.I.T.,1700,4053465,54107,75,10324107030,
-Brixmor Property Group Inc,1053.748,Health Care,R.E.I.T.,480,6220427,106908,58.18,6015424401,
-SL Green Realty Corp,1052.744,Real Estate,R.E.I.T.,794,20990016,71887,292,5082568803,
-Proofpoint Inc,1050.01,Real Estate,Software  - System  -  Application,3658,8413694,157971,53,7077874572,
-Neurocrine Biosciences Inc,1045.9,Communication Services,Drugs  - Biotechnology,845,9450826,257209,37,10343195315,
-Extended Stay America Inc,1042.316,Health Care,Hotel - Gaming,4200,4101720,24483.08,168,2860501830,
-Alkermes PLC,1038.756,Health Care,Not found,2245,14659541,177189,83,3105138836,
-CyrusOne Inc,1033.5,Health Care,R.E.I.T.,441,7108928,115693,61,7960042395,
-Zendesk Inc,1029.564,Information Technology,Software  - System  -  Application,4130,4409144,123560,36,17362387107,
-Colony Capital Inc,1025.51,Consumer Staples,R.E.I.T.,400,15956955,175481,91,2948781077,
-SolarWinds Corp,1019.241,Industrials,Software  - System  -  Application,3251,1411200,118530,12,5190190301,
-Pegasystems Inc,1017.517,Information Technology,Software  - System  -  Application,5776,5933824,128252,46,10864146543,
-QEP Resources Inc,1016.3,Consumer Discretionary,Oil - Gas  - Production and Exploration,257,5959741,211619,28,873236955.6,
-Regency Centers Corp,1016.175,Real Estate,R.E.I.T.,450,5619541,101379,53,9494206732,
-Cantel Medical Corp,1016.048,Consumer Staples,Healthcare Products,3669,7842443,61747,127,3167387586,
-Duke Realty Corp,993.198,Real Estate,R.E.I.T.,400,6693904,122714,55,14771226432,
-Exelixis Inc,987.538,Utilities,Drugs  - Biotechnology,773,2132555,241154,9,6898091405,
-DocuSign Inc,973.971,Communication Services,Software  - System  -  Application,3909,8733680,128976,68,43251355869,
-FireEye Inc,940.584,Financials,Software  - System  -  Application,3400,7728166,156004,50,4671442139,
-Armstrong World Industries Inc,936.9,Information Technology,Building Materials,2500,5030560,72220,71,4197247619,
-Apartment Investment & Management Co,925.718,Energy,Not found,950,7305455,77292,94.5,733090529,
-Extraction Oil & Gas Inc,912.425,Real Estate,Oil - Gas  - Production and Exploration,323,3134245,153049,36,842540002.2,
-Insulet Corp,904.4,Industrials,Healthcare Products,1900,5883985,113721,52,17264145448,
-Kilroy Realty Corp,898.397,Information Technology,R.E.I.T.,252,12137534,150436,81,7484860255,
-GCI Liberty Inc,894.733,Information Technology,Not found,2051,3857811,72830,53,6152256580,
-Hilton Grand Vacations Inc,894,Information Technology,Hotel - Gaming,9110,5905405,39273,150,3407663579,
-Omega Healthcare Investors Inc,892.381,Industrials,R.E.I.T.,68,7287348,194570,37.5,8835311946,
-Douglas Emmett Inc,891.523,Consumer Discretionary,R.E.I.T.,713,9434604,45727,206,5856993260,
-American Campus Communities Inc,870.584,Industrials,R.E.I.T.,2988,5802845,26519,219,5807079908,
-Rayonier Inc,859.154,Financials,R.E.I.T.,826,4683002,106120,44,4603425474,
-Park Hotels & Resorts Inc,852,Materials,R.E.I.T.,182,6824939,28120,243,5259378060,
-Macquarie Infrastructure Corp,847,Financials,Air Transport,1763,2921211,49827,58.6,2796680832,
-Monolithic Power Systems Inc,844.452,Information Technology,Semiconductor,2000,9356946,36848,254,17336808330,
-Grand Canyon Education Inc,844.096,Industrials,Education,4625,1929086,60255,32,4998614780,
-Ceridian HCM Holding Inc,842.5,Utilities,Software  - System  -  Application,5974,5022043,134817,37,13563273041,
-Paycom Software Inc,841.434,Information Technology,Software  - System  -  Application,4218,21138558,64408,328,23463298938,
-ABIOMED Inc,840.883,Health Care,Healthcare Products,1536,19243230,115794,166,14922147993,
-Federal Realty Investment Trust,835.494,Real Estate,R.E.I.T.,307,7630858,111105,69,8007112893,
-Cognex Corp,811.02,Consumer Staples,Electronics  - General,2055,3848831,72959,53,14987039586,
-Hudson Pacific Properties Inc,804.965,Information Technology,R.E.I.T.,375,9327742,123063,76,3976221656,
-Moderna Inc,803.395,Real Estate,Drugs  - Biotechnology,700,8948207,78742,113,58550252980,
-Kosmos Energy Ltd,801.32,Information Technology,Oil - Gas  - Production and Exploration,252,5195573,288547,18,1358118932,
-Macerich Co ,786.026,Financials,Not found,670,6943149,94711,73,2087820738,
-First Hawaiian Inc,780.139,Financials,Banks  - Regional,2103,6011668,54729,110,3729888008,
-2U Inc,774.533,Communication Services,Software  - System  -  Application,3749,6612508,59272,112,3110717808,
-Choice Hotels International Inc,774.072,Consumer Discretionary,Hotel - Gaming,1498,6821434,86605,79,5888021486,
-Guidewire Software Inc,742.307,Industrials,Software  - System  -  Application,2690,4559179,161858,28,9703759179,
-Healthcare Trust of America Inc,738.965,Health Care,R.E.I.T.,333,6418812,69548,92,6048324135,
-Bio-Techne Corp,738.691,Health Care,Heathcare Information and Technology,2300,11011138,64371,171,14307458026,
-Highwoods Properties Inc,736.9,Information Technology,R.E.I.T.,359,2103705,68222,31,4256608666,
-Whiting Petroleum Corp,732.362,Consumer Discretionary,Oil - Gas  - Production and Exploration,505,6185713,117385,53,1301820734,
-Bank of Hawaii Corp,730.833,Financials,Banks  - Regional,2022,5307172,58365,91,3577037315,
-Ionis Pharmaceuticals Inc,729,Financials,Drugs  - Biotechnology,817,9598830,270956,35,7723475029,
-Chimera Investment Corp,728.062,Energy,R.E.I.T.,41,10665440,358000,29.8,2736735449,
-Paramount Group Inc,714.237,Materials,R.E.I.T.,323,9356506,88741,105.44,2163638233,
-Liberty Property Trust,704.889,Consumer Discretionary,Not found,271,4797350,96152,49.9,7068352434,
-Howard Hughes Corp ,699.489,Real Estate,Not found,600,2061711,47395,43,5385266619,
-STORE Capital Corp,694.268,Health Care,R.E.I.T.,97,7426429,136380,54.5,9179121689,
-MarketAxess Holdings Inc,689.125,Financials,Financial Svcs.  - Non - bank  -  Insurance,606,3844232,140455,27,21765938139,
-Cinemark Holdings Inc,686.31,Financials,Entertainment,12705,6308779,20313,310,2823475754,
-CubeSmart,679.177,Industrials,R.E.I.T.,3011,5357599,27935,192,7428825976,
-Taubman Centers Inc,661.054,Consumer Discretionary,Not found,420,1357347,85185,16,1838448762,
-National Retail Properties Inc,660.681,Financials,R.E.I.T.,70,6307897,98819,63,7775105888,
-Life Storage Inc,616.771,Consumer Discretionary,R.E.I.T.,2078,3519327,31357,112,6430137982,
-Corporate Office Properties Trust,609.365,Information Technology,R.E.I.T.,406,4319124,104974,41.1,2957096933,
-Empire State Realty Trust Inc,609.228,Industrials,R.E.I.T.,831,11145499,62157,179,1932425740,
-CoreSite Realty Corp,606.824,Industrials,R.E.I.T.,481,5385071,84096,64,5877395813,
-TripAdvisor Inc,604,Information Technology,Software  - Entertainment,2596,1260637,93750,13,6645733880,
-Madison Square Garden Co ,603.319,Financials,Not found,450,54116491,18650,2902,7027782154,
-JBG SMITH Properties,602.723,Industrials,R.E.I.T.,1050,4893799,95058,51.48,4250707713,
-Apple Hospitality REIT Inc,601.879,Information Technology,R.E.I.T.,66,4588609,145807,31.5,3180775931,
-Aspen Technology Inc,598.717,Financials,Software  - System  -  Application,1710,7478887,93493,78.4,10447488276,
-RPC Inc,598.302,Consumer Discretionary,Oilfield Svcs - Equip.,2700,0,0,0,1385588790,
-Manhattan Associates Inc,586.372,Financials,Software  - System  -  Application,3400,9186524,90920,101,8097127303,
-Okta Inc,586.067,Energy,Software  - Internet,2248,0,0,0,34061231513,
-New Residential Investment Corp,579.331,Communication Services,R.E.I.T.,5471,0,0,0,4398924974,
-Penumbra Inc,560.412,Industrials,Healthcare Products,3300,726690,71088,10,10593812620,
-Brandywine Realty Trust,534.852,Health Care,R.E.I.T.,341,5335186,84491,63.15,2143205983,
-Centennial Resource Development Inc-DE,533.805,Health Care,Not found,151,2513336,142221,18,1135189365,
-TFS Financial Corp,508.549,Industrials,Financial Svcs.  - Non - bank  -  Insurance,997,4749066,64639,73.47,5575105306,
-AGNC Investment Corp,501,Health Care,R.E.I.T.,50,16130400,240598,67,8660186828,
-Royal Gold Inc,498.819,Consumer Discretionary,Precious Metals,23,3874988,446083,8.7,6901147314,
-Alnylam Pharmaceuticals Inc,492.853,Financials,Drugs  - Biotechnology,1453,7317856,225811,32,17462551336,
-Spirit Realty Capital Inc,483.617,Industrials,R.E.I.T.,82,9719499,87754,110.8,5060816151,
-Switch Inc,462.31,Financials,Software  - Internet,789,0,0,0,4213316224,
-SITE Centers Corp,460.333,Real Estate,R.E.I.T.,323,6657317,84580,79,2629882279,
-Weingarten Realty Investors,433.917,Utilities,R.E.I.T.,243,6360288,96414,66,3341807552,
-Retail Properties of America Inc,430.043,Health Care,R.E.I.T.,214,5763972,101995,57,2339285428,
-Universal Display Corp,428.867,Health Care,Semiconductor,349,12733442,126469,101,10171370906,
-Elastic NV,427.62,Health Care,Not found,1936,0,0,0,12695516403,
-EPR Properties,414.661,Energy,R.E.I.T.,53,4159755,206575,20,3549172638,
-Pluralsight Inc,391.865,Energy,Software  - System  -  Application,1766,0,0,0,3061300435,
-Sarepta Therapeutics Inc,380.833,Information Technology,Drugs  - Biotechnology,743,1387072,290714,4.8,6856754480,
-Annaly Capital Management Inc,367.696,Financials,R.E.I.T.,180,0,0,0,11831334585,
-MFA Financial Inc,359.384,Health Care,R.E.I.T.,65,5351445,206500,25.9,1846660472,
-Six Flags Entertainment Corp,356.575,Real Estate,Recreation,1950,5867497,9448,621,3917934448,
-Columbia Property Trust Inc,300.566,Consumer Staples,R.E.I.T.,160,4994621,162046,31,1682872236,
-Bluebird Bio Inc,250.734,Financials,Drugs  - Biotechnology,1213,13153566,233104,56,2108228782,
-Retail Value Inc,239.095,Health Care,R.E.I.T.,4,0,0,0,339675292.3,
-Agios Pharmaceuticals Inc,203.196,Health Care,Drugs  - Biotechnology,562,16669213,267104,62,3339471909,
-Nektar Therapeutics,152.915,Financials,Drugs  - Pharmaceutical,718,9939250,152663,65,4303140328,
-Equity Commonwealth,66.278,Real Estate,R.E.I.T.,28,6027946,310061,19,3471748899,
-Liberty Broadband Corp,50.706,Consumer Discretionary,Cable TV,1971,12553984,147122,85,29570846356,
-Two Harbors Investment Corp,-1186.516,Communication Services,R.E.I.T.,150,0,0,0,1998090351,
+﻿company,revenue,sector,industry,employees,ceo_comp,employee_comp,cpr
+Walmart Inc,559151,Consumer Staples,Retail  - General,2200000,23618233,21952,1076
+Amazon.com Inc,386064,Consumer Discretionary,Retail  - Online,1298000,1681840,28848,58
+Berkshire Hathaway Inc,286256,Financials,Diversified,360174,374773,65740,5.7
+Apple Inc,274515,Information Technology,Computers - Peripherals,147000,11555466,57596,201
+CVS Health Corp,268706,Health Care,Healthcare Support Services,300000,36466470,46140,790
+UnitedHealth Group Inc,257141,Health Care,Healthcare Support Services,325000,18907522,54322,348
+McKesson Corp,231051,Health Care,Healthcare Support Services,80000,17400207,38026,458
+Alphabet Inc,182527,Information Technology,Software  - Entertainment,135301,280621552,258708,1085
+Exxon Mobil Corp,178574,Energy,Oil - Gas  - Integrated,72000,23529292,173712,135
+AT&T Inc,171760,Communication Services,Telecom. Services,230760,32032925,98630,325
+Costco Wholesale Corp,166761,Consumer Staples,Retail  - General,156000,8016200,47312,169
+Cigna Corp,160401,Health Care,Healthcare Support Services,73700,19303032,62946,306.7
+Cardinal Health Inc,152922,Health Care,Healthcare Support Services,48000,15584454,57261,272
+Microsoft Corp,143015,Information Technology,Software  - System  -  Application,163000,42910215,172512,249
+Walgreens Boots Alliance Inc,139537,Consumer Staples,Retail  - Special Lines,331000,19156202,34074,562
+Home Depot Inc,132110,Consumer Discretionary,Not found,500000,11366662,23389,486
+JPMorgan Chase & Co,129503,Financials,Bank  - Money Center,255351,31619266,80431,393
+Verizon Communications Inc,128292,Communication Services,Telecom. Services,132200,18111823,172971,105
+Ford Motor Co,127144,Consumer Discretionary,Not found,186000,17355505,110706,157
+General Motors Co,122485,Consumer Discretionary,Not found,155000,21630867,106715,203
+Kroger Co ,122286,Consumer Staples,Not found,435000,12037872,24912,483
+Anthem Inc,121867,Health Care,Healthcare Support Services,83400,15473139,62686,247
+Centene Corp,111115,Materials,Healthcare Support Services,71300,26448425,68987,383
+Comcast Corp,103564,Communication Services,Cable TV,168000,36384957,78869,461
+Chevron Corp,94471,Energy,Oil - Gas  - Integrated,48200,33070662,140063,236
+Dell Technologies Inc,94224,Information Technology,Computers - Peripherals,165000,3623801,88459,41
+Bank of America Corp,93753,Financials,Bank  - Money Center,212505,26049804,94256,276
+Lowe's Cos Inc,89597,Consumer Discretionary,Not found,300000,14302791,22921,650
+Citigroup Inc,88839,Financials,Bank  - Money Center,210000,25521414,52988,482
+Facebook Inc,85965,Communication Services,Software  - Entertainment,58604,23415973,247883,94
+United Parcel Service Inc,84628,Industrials,Transportation,543000,18040841,74395,243
+Johnson & Johnson,82584,Health Care,Drugs  - Pharmaceutical,134500,25380258,76000,334
+Wells Fargo & Co,80303,Financials,Not found,268531,36288490,65931,550
+General Electric Co,79619,Industrials,Not found,174000,24553788,50471,486
+Target Corp,78112,Consumer Discretionary,Retail  - General,368000,17204069,22439,767
+Intel Corp,77867,Information Technology,Semiconductor,110600,66935100,96300,695
+Humana Inc,77155,Health Care,Healthcare Support Services,48700,16726455,73669,227
+International Business Machines Corp,73621,Information Technology,Computer Services,352600,20160865,56896,354
+Procter & Gamble Co,70950,Consumer Staples,Not found,99000,20498812,66326,309
+PepsiCo Inc,70372,Consumer Staples,Beverage  - Soft,291000,16870817,45896,368
+Marathon Petroleum Corp,69779,Energy,Oilfield Svcs - Equip.,60910,24129164,27507,877
+FedEx Corp,69217,Industrials,Transportation,183000,15973884,52718,303
+T-Mobile US Inc,68397,Communication Services,Telecom  - Wireless,75000,27762231,62195,446
+MetLife Inc,67842,Financials,Insurance  - Life,46500,14709539,77359,190
+Lockheed Martin Corp,65398,Industrials,Aerospace - Defense,114000,30900000,154883,200
+Walt Disney Co ,65388,Consumer Staples,Not found,203000,47525560,52184,911
+Valero Energy Corp,64912,Energy,Oilfield Svcs - Equip.,9964,28175952,272417,103
+Archer-Daniels-Midland Co,64355,Consumer Staples,Not found,39088,18174409,63981,285
+Phillips 66,64129,Energy,Oil - Gas Distribution,14300,31927081,188738,169
+Boeing Co ,58158,Industrials,Not found,141000,14250195,158869,90
+Prudential Financial Inc,57033,Financials,Insurance  - Life,41671,15144335,111499,136
+HP Inc,56639,Information Technology,Computers - Peripherals,53000,19317972,75013,258
+United Technologies Corp,56587,Information Technology,Not found,181000,21538847,76417,282
+Goldman Sachs Group Inc,53498,Financials,Not found,40500,24657737,138854,178
+Sysco Corp,52893.31,Consumer Staples,Food Wholesalers,57000,10742679,70801,152
+Morgan Stanley,52047,Financials,Brokerage  -  Investment Banking,68000,31642395,127414,248
+HCA Healthcare Inc,51533,Health Care,Hospitals - Healthcare Facilities,210000,26788251,56012,478
+Cisco Systems Inc,49301,Information Technology,Telecom. Equipment,77500,25829833,142593,181
+Charter Communications Inc,48097,Communication Services,Cable TV,96100,8743601,57625,151.7
+Merck & Co Inc,47994,Health Care,Not found,74000,27648475,95621,289
+Best Buy Co Inc,47262,Consumer Discretionary,Not found,125000,17382486,28500,610
+AbbVie Inc,45804,Health Care,Drugs  - Biotechnology,47000,21668015,155885,139
+Allstate Corp ,44791,Financials,Not found,41860,19615696,61860,317
+Accenture PLC,44327.039,Information Technology,Not found,506000,15031875,50512,298
+American International Group Inc,43736,Financials,Insurance  - General,45000,19369637,67403,288
+Tyson Foods Inc,43185,Consumer Staples,Food Processing,139000,10398160,36681,283
+Progressive Corp,42638.1,Financials,Not found,41571,14041272,66285,212
+Bristol-Myers Squibb Co,42518,Health Care,Not found,30250,18767253,123365,152
+Pfizer Inc,41908,Health Care,Drugs  - Pharmaceutical,88000,17928963,98972,181
+Caterpillar Inc,41748,Industrials,Construction Supplies,97300,34519129,65132,530
+Bunge Ltd,41404,Consumer Staples,Not found,23000,16734730,39133,428
+Oracle Corp,39068,Information Technology,Software  - System  -  Application,135000,2481646,83813,30
+Dow Inc,38542,Materials,Chemical  - Basic,35700,15878639,109556,145
+American Express Co,38185,Financials,Not found,63700,23796002,64803,367
+General Dynamics Corp,37925,Industrials,Aerospace - Defense,100700,18313204,116510,157
+NIKE Inc,37403,Consumer Discretionary,Shoe,75400,13968022,25386,550
+Northrop Grumman Corp,36799,Industrials,Aerospace - Defense,97000,20307994,114667,177
+Chubb Ltd,35994,Financials,Not found,33000,20475070,66372,308.5
+Deere & Co,35540,Industrials,Not found,69634,21697885,80267,270
+Abbott Laboratories,34608,Health Care,Healthcare Products,109000,27802817,84434,329
+Sprint Corp,33600,Industrials,Not found,28500,6395042,70941,90
+Exelon Corp,33039,Utilities,Power,32713,15400000,126000,122
+Coca-Cola Co ,33014,Utilities,Not found,80300,18701149,11285,1657
+Honeywell International Inc,32637,Industrials,Diversified,113000,20525104,69513,295
+Thermo Fisher Scientific Inc,32218,Health Care,Heathcare Information and Technology,80000,19023145,80915,235
+3M,32184,Industrials,Diversified,94987,18321566,57494,319
+TJX Cos Inc ,32136.962,Consumer Discretionary,Not found,286000,18822770,11791,1596
+Travelers Cos Inc ,31981,Industrials,Not found,30600,16791247,111170,151
+Capital One Financial Corp,31643,Financials,Financial Svcs.  - Non - bank  -  Insurance,52000,7705792,68780,112
+Tesla Inc,31536,Consumer Discretionary,Auto  -  Truck,70757,23760,58455,0.41
+Raytheon Co,29176,Financials,Not found,70000,23721407,141123,168
+Medtronic PLC,28913,Health Care,Not found,90000,17796325,74206,240
+Philip Morris International Inc,28694,Consumer Staples,Tobacco,71000,22125060,53756,396
+Arrow Electronics Inc,28673.363,Information Technology,Computer Services,19600,11671842,60819,192
+Dollar General Corp,27753.973,Consumer Discretionary,Retail  - General,143000,10602517,13773,770
+LyondellBasell Industries NV,27753,Materials,Not found,19200,15943313,86466,184
+Jabil Inc,27266.438,Financials,Electronics  - General,240000,11412435,7109,1605
+Linde PLC,27243,Materials,Not found,80820,22475878,43216,520
+Hewlett Packard Enterprise Co,26982,Information Technology,Not found,59400,13714497,67196,204
+Mondelez International Inc,26581,Consumer Staples,Food Processing,79000,18115449,32280,561
+Kraft Heinz Co ,26185,Consumer Staples,Not found,38000,44158287,42689,1034
+Amgen Inc,25424,Health Care,Drugs  - Biotechnology,24300,19612793,130904,150
+CBS Corp,25285,Real Estate,Not found,23990,36572367,104791,349
+US Bancorp,25241,Industrials,Not found,70000,18801847,69775,269
+Netflix Inc,24996.056,Communication Services,Entertainment,9400,38577129,202931,190
+Gilead Sciences Inc,24689,Health Care,Drugs  - Biotechnology,13600,29361393,173264,169
+Eli Lilly & Co,24539.8,Communication Services,Not found,35000,21283242,96290,221
+BB&T Corp,24427,Health Care,Not found,54982,11509407,101421,113
+Broadcom Inc,23888,Information Technology,Semiconductor,21000,2366888,354119,7
+Duke Energy Corp,23868,Utilities,Power,28793,15029386,123608,122
+CBRE Group Inc,23826.195,Real Estate,Real Estate  - Operations  -  Services,100000,13435428,61122,220
+Dollar Tree Inc,23610.8,Consumer Discretionary,Retail  - General,56900,9398842,11250,835
+Schlumberger Ltd,23601,Energy,Not found,86000,22247160,71021,313
+QUALCOMM Inc,23531,Information Technology,Semiconductor,41000,23065052,90259,256
+Starbucks Corp,23518,Consumer Discretionary,Restaurant - Dining,349000,19241950,11489,1675
+US Foods Holding Corp,22885,Industrials,Food Wholesalers,26000,7711847,82441,94
+Lennar Corp,22488.854,Consumer Discretionary,Homebuilding,9495,18279581,102830,178
+Johnson Controls International plc,22317,Industrials,Not found,97000,15476638,41987,369
+Danaher Corp,22284,Health Care,Healthcare Products,69000,18193200,74672,244
+Aflac Inc,22147,Financials,Insurance  - Life,6239,14108852,56371,250
+Visa Inc,21846,Information Technology,Information Services,19500,24265771,142494,170
+PayPal Holdings Inc,21454,Information Technology,Information Services,26500,25825473,70405,367
+Micron Technology Inc,21435,Information Technology,Semiconductor,40000,16944751,60796,279
+salesforce.com Inc,21252,Information Technology,Software  - System  -  Application,56606,28391846,151955,187
+Altria Group Inc,20841,Consumer Staples,Tobacco,8294,15439987,142246,109
+CenturyLink Inc,20712,Utilities,Not found,39000,17235108,71279,243
+Baker Hughes a GE Co,20705,Materials,Not found,55000,14922621,79242,188
+International Paper Co,20580,Materials,Not found,49300,15924647,88810,179
+Hartford Financial Services Group Inc ,20523,Consumer Discretionary,Not found,18500,14560748,96867,150
+Penske Automotive Group Inc,20443.9,Information Technology,Retail  - Automotive,23000,6893752,44527,155
+WellCare Health Plans Inc,20414.1,Utilities,Not found,12000,12697176,81647,155.5
+DuPont de Nemours Inc,20397,Materials,Chemical  - Specialty,34000,11660634,86294,135
+AutoNation Inc,20390,Information Technology,Retail  - Automotive,21600,8510005,49568,172
+Southern Co ,20375,Industrials,Not found,27700,27865185,167872,166
+CarMax Inc,20319.987,Consumer Discretionary,Retail  - Automotive,27050,8951547,38554,232
+DR Horton Inc,20311.1,Materials,Not found,9716,14377638,86531,166
+Nucor Corp,20139.658,Materials,Steel,26400,19099582,87573,218
+Kohl's Corp,19974,Information Technology,Retail  - General,37000,12340445,11069.63,1115
+Cummins Inc,19811,Industrials,Construction Supplies,57825,25116751,73480,341.8
+DXC Technology Co,19577,Information Technology,Not found,138000,17256539,41602,415
+Union Pacific Corp,19533,Industrials,Transportation  - Railroads,41967,15018400,79446,189
+Whirlpool Corp,19456,Consumer Discretionary,Furn - Home Furnishings,78000,14011663,20765,675
+Molina Healthcare Inc,19423,Consumer Discretionary,Healthcare Support Services,10500,18025074,62227,290
+McDonald's Corp,19207.8,Consumer Discretionary,Restaurant - Dining,200000,18012549,9291,1939
+Kimberly-Clark Corp,19140,Consumer Staples,Household Products,46000,12028120,47328,254
+AmerisourceBergen Corp,18989.3926,Health Care,Healthcare Support Services,22000,11323960,54472,208
+ConocoPhillips,18784,Energy,Oil - Gas  - Production and Exploration,9700,30381543,186334,163
+PACCAR Inc,18728.5,Industrials,Construction Supplies,26000,7430608,79282,94
+Mylan NV,18526.417,Financials,Not found,35000,18526417,43367,427
+PG&E Corp,18469,Health Care,Power,24000,19372233,206693,94
+CDW Corp-DE,18467.5,Information Technology,Not found,10000,6191797,93452,66
+Sherwin-Williams Co ,18361.7,Materials,Not found,61031,14854731,42590,349
+PNC Financial Services Group Inc ,18262,Financials,Not found,49549,16555752,76131,217
+Harris Corp,18194,Consumer Discretionary,Not found,50000,15745630,58426,269
+Macy's Inc,18097,Financials,Retail  - General,123000,12733691,21885,582
+ManpowerGroup Inc,18001,Financials,Business  -  Consumer Services,25000,12545932,5625,2230
+NextEra Energy Inc,17997,Utilities,Power,13900,21877597,129735,168
+Eaton Corp PLC,17858,Materials,Not found,92000,19980672,57712,346
+Occidental Petroleum Corp,17809,Energy,Oil - Gas  - Integrated,14400,16017683,185259,86
+Avnet Inc,17634.333,Materials,Computer Services,14600,8438078,52638,160
+General Mills Inc,17626.6,Consumer Staples,Food Processing,35000,9855417,57177,172
+Westrock Co,17578.8,Materials,Not found,49300,11659257,58183,200
+Lincoln National Corp,17439,Financials,Insurance  - Life,10966,15412217,79460,194
+American Airlines Group Inc,17337,Industrials,Air Transport,102700,11571714,61143,189
+Marsh & McLennan Cos Inc,17224,Financials,Not found,76000,20331697,67826,300
+Applied Materials Inc,17202,Industrials,Semiconductor Equip,24000,14072395,104500,135
+Becton Dickinson and Co,17117,Health Care,Not found,72000,16014633,42219,379
+Delta Air Lines Inc,17095,Industrials,Air Transport,74000,17325379,118198,147
+Lear Corp,17045.5,Consumer Discretionary,Auto Parts,174600,13718257,10172,1349
+Bank of New York Mellon Corp ,16940,Financials,Not found,48500,13437888,63202,213
+Emerson Electric Co,16785,Communication Services,Electrical Equipment,83500,20310575,47415,428
+Western Digital Corp,16736,Information Technology,Computers - Peripherals,63800,12866469,10063,1279
+NVIDIA Corp,16675,Materials,Semiconductor,13532,13642838,155035,88
+Cognizant Technology Solutions Corp,16652,Information Technology,Computer Services,289500,16503792,32084,514
+Jones Lang LaSalle Inc,16589.9,Industrials,Real Estate  - Operations  -  Services,90800,9298663,106000,87
+Genuine Parts Co,16537.433,Consumer Discretionary,Not found,50000,8169948,39321,208
+Synchrony Financial,16472,Financials,Financial Svcs.  - Non - bank  -  Insurance,16500,12181183,45407,268
+Colgate-Palmolive Co,16471,Consumer Staples,Not found,34200,11149290,24055,463
+Gap Inc ,16383,Consumer Discretionary,Not found,129000,20793939,5831,3566
+XPO Logistics Inc,16252,Information Technology,Transportation,102000,7858337,33162,237
+CH Robinson Worldwide Inc,16207.106,Materials,Not found,14888,5065928,59086,86
+BlackRock Inc,16205,Financials,Investments  -  Asset Management,16500,24308254,133644,182
+Allergan PLC,16088.9,Industrials,Not found,17400,9770528,92255,106
+Ross Stores Inc,16039.073,Consumer Discretionary,Retail  - Special Lines,92500,12248994,10027,1222
+Fluor Corp,15668.477,Industrials,Engineering - Construction,50182,6682051,67856,98
+Nordstrom Inc,15524,Utilities,Retail  - General,75000,4451746,34454,129
+DISH Network Corp,15493.435,Communication Services,Cable TV,13500,1007020,54685,18
+United Continental Holdings Inc,15355,Industrials,Not found,74400,12643005,74750,169
+Mastercard Inc,15301,Information Technology,Information Services,21000,23249977,138142,168
+Celgene Corp,15281,Materials,Not found,8852,16223923,263237,62
+Waste Management Inc,15218,Industrials,Environmental  -  Waste Services,48250,11298101,76048,149
+PBF Energy Inc,15115.9,Information Technology,Oilfield Svcs - Equip.,3442,10149441,160703,63
+American Electric Power Co Inc,14918.5,Utilities,Not found,16787,14492436,132611,109
+Fiserv Inc,14852,Information Technology,Information Services,44000,27633556,65254,423
+Athene Holding Ltd,14764,Communication Services,Not found,1350,4254581,85259,50
+Principal Financial Group Inc,14741.7,Financials,Insurance  - Life,17400,14748051,116561,127
+Reinsurance Group of America Inc,14596,Financials,Reinsurance,3188,8116274,113479,72
+Automatic Data Processing Inc,14589.8,Information Technology,Information Services,58000,19000187,63225,301
+Stanley Black & Decker Inc,14534.6,Industrials,Machinery,53100,18707111,43316,432
+Texas Instruments Inc,14461,Information Technology,Semiconductor,30000,18655972,82034,227
+Halliburton Co,14445,Energy,Not found,40000,12770467,87289,146
+Stryker Corp,14351,Health Care,Healthcare Products,43000,14974829,70771,212
+Estee Lauder Cos Inc ,14294,Consumer Staples,Not found,48000,21435428,30733,697
+Corteva Inc,14217,Materials,Chemical  - Specialty,21000,11357053,80757,141
+Freeport-McMoRan Inc,14198,Materials,Metals  -  Mining,24500,15742249,75874,207
+Qurate Retail Inc,14177,Health Care,Retail  - Online,25314,4697971,30221,155
+Dominion Energy Inc,14172,Utilities,Utility  - General,17300,17257035,145136,119
+Wayfair Inc,14145.156,Health Care,Retail  - Online,16122,83237,41412,2
+Laboratory Corp of America Holdings,13978.5,Industrials,Not found,72400,13138362,41834,314
+PPG Industries Inc,13834,Materials,Chemical  - Specialty,46900,15117938,40598,372
+Kellogg Co,13770,Consumer Staples,Not found,31000,9694223,38895,249
+Parker-Hannifin Corp,13695.52,Industrials,Machinery,50520,17472500,57282,305
+Edison International,13578,Utilities,Power,12937,11806662,190935,62
+Jacobs Engineering Group Inc,13566.975,Industrials,Engineering - Construction,55000,14627254,79733,183
+Biogen Inc,13444.6,Health Care,Drugs  - Biotechnology,9100,18159858,159721,114
+AECOM,13239.976,Information Technology,Engineering - Construction,54000,15910241,80021,199
+Omnicom Group Inc,13171.1,Communication Services,Advertising,64100,19818780,44059,450
+Unum Group,13162.1,Financials,Insurance  - Life,10700,9727186,65568,148
+Aptiv PLC,13066,Consumer Discretionary,Not found,151000,15164533,7302,2077
+TechnipFMC PLC,13050.6,Information Technology,Not found,37000,15351206,63294,243
+Discover Financial Services,12953,Financials,Financial Svcs.  - Non - bank  -  Insurance,17600,9250436,47096,196
+Adobe Inc,12868,Information Technology,Software  - System  -  Application,22516,39145631,147115,266
+Viacom Inc,12838,Consumer Discretionary,Not found,10700,24350958,39110,623
+Anadarko Petroleum Corp,12837,Information Technology,Not found,4700,16959896,160251,106
+Aramark,12829.559,Consumer Discretionary,Restaurant - Dining,170750,16960517,16510,1027
+Adient PLC,12670,Communication Services,Not found,83000,14738869,18861,782
+AutoZone Inc,12631.967,Consumer Discretionary,Retail  - Automotive,96690,8617562,27581,312
+Loews Corp,12583,Financials,Insurance  - Prop - Cas.,12200,9312872,72145,129
+Illinois Tool Works Inc,12574,Industrials,Machinery,43000,15455289,51892,298
+Fidelity National Information Services Inc,12552,Information Technology,Information Services,62000,27658117,59235,467
+AXA Equitable Holdings Inc,12415,Materials,Not found,7900,11254123,108566,104
+WESCO International Inc,12325.995,Real Estate,Retail  - Distributors,18000,6642192,57269,116
+Goodyear Tire & Rubber Co ,12321,Financials,Not found,63000,16970655,53623,316
+Fox Corp,12303,Industrials,Broadcasting,9000,29154460,81307,359
+Leidos Holdings Inc,12297,Information Technology,Computer Services,39000,10671271,103657,103
+Consolidated Edison Inc,12246,Utilities,Utility  - General,14071,15345285,215556,71
+DTE Energy Co,12177,Utilities,Not found,10600,8776433,153976,57
+TE Connectivity Ltd,12172,Information Technology,Not found,82000,9291836,20846,446
+Charles Schwab Corp ,12109,Materials,Not found,32000,16101141,105565,153
+Pilgrim's Pride Corp,12091.901,Energy,Food Processing,56400,4492122,22600,199
+State Street Corp,12078,Financials,Investments  -  Asset Management,39439,8699401,56610,154
+Ameriprise Financial Inc,11958,Financials,Investments  -  Asset Management,12300,24516930,106428,230
+L Brands Inc,11846.891,Consumer Discretionary,Retail  - Special Lines,25500,4553310,14186,321
+WW Grainger Inc,11797,Financials,Not found,23100,7675215,66072,116
+Ecolab Inc,11790.2,Materials,Chemical  - Specialty,50200,19803193,54234,365
+Ball Corp,11781,Materials,Packaging  -  Container,21500,11855919,93903,126
+VMware Inc,11767,Information Technology,Software  - System  -  Application,31000,23569191,131144,180
+Berry Global Group Inc,11709,Financials,Packaging  -  Container,47000,5590944,50162,111
+Kinder Morgan Inc-DE,11700,Energy,Not found,10524,7270,111546,0
+Baxter International Inc,11673,Health Care,Healthcare Products,50000,13913821,43131,323
+Textron Inc,11651,Industrials,Aerospace - Defense,33000,18942936,99196,191
+LKQ Corp,11628.83,Communication Services,Retail  - Distributors,44000,6429072,29945,215
+Keurig Dr Pepper Inc,11618,Consumer Staples,Beverage  - Soft,27000,9204921,49645,185
+O'Reilly Automotive Inc,11604.493,Consumer Discretionary,Retail  - Automotive,77857,3080482,23175,133
+Crown Holdings Inc,11575,Real Estate,Packaging  -  Container,33000,14010690,33390,420
+Universal Health Services Inc,11558.897,Health Care,Hospitals - Healthcare Facilities,78800,24473240,38931,629
+DaVita Inc,11550.604,Health Care,Healthcare Support Services,67000,17629901,61536,286
+Xcel Energy Inc,11526,Utilities,Power,11367,16898798,113022,150
+Newmont Goldcorp Corp,11497,Materials,Not found,12400,9098908,83522,109
+Vistra Energy Corp,11443,Information Technology,Not found,5475,9692170,117549,82
+Sempra Energy,11370,Utilities,Utility  - General,19000,19829297,145951,136
+IQVIA Holdings Inc,11359,Health Care,Heathcare Information and Technology,70000,22139776,118891,186
+Corning Inc,11303,Information Technology,Electronics  - General,50110,14283654,49121,291
+Quanta Services Inc,11202.672,Industrials,Engineering - Construction,40300,10247932,92493,111
+HollyFrontier Corp,11183.643,Energy,Oilfield Svcs - Equip.,4074,5222831,129232,40
+Aon PLC,11066,Financials,Not found,50000,16181591,69784,232
+Conagra Brands Inc,11054.4,Consumer Staples,Food Processing,16500,14392748,45590,316
+PulteGroup Inc,11036.082,Consumer Discretionary,Homebuilding,5249,9216065,96842,95
+EOG Resources Inc,11004.841,Energy,Oil - Gas  - Production and Exploration,2900,12751421,175681,73
+Ally Financial Inc,10882,Financials,Financial Svcs.  - Non - bank  -  Insurance,9500,10659777,123305,86
+CNA Financial Corp,10808,Utilities,Insurance  - Prop - Cas.,5800,13054480,114082,114
+FirstEnergy Corp,10790,Utilities,Power,12153,14684659,149550,98
+Fidelity National Financial Inc,10778,Industrials,Insurance  - Prop - Cas.,25063,9646148,57381,168
+Discovery Inc,10671,Communication Services,Broadcasting,9800,45843912,79343,578
+Tractor Supply Co,10620.352,Consumer Discretionary,Not found,20000,8655358,28524,303
+CSX Corp,10583,Industrials,Transportation  - Railroads,19282,15537181,107632,144
+Marriott International Inc-MD,10571,Consumer Discretionary,Not found,174000,13435887,38878,346
+Seagate Technology PLC,10509,Information Technology,Not found,42000,10344579,9570,1081
+VF Corp,10488.556,Health Care,Not found,48000,17842521,10099,1767
+SunTrust Banks Inc,10431,Health Care,Not found,22899,8815914,67311,131
+eBay Inc,10271,Consumer Discretionary,Retail  - Online,12700,17647255,130636,135
+L3 Technologies Inc,10244,Consumer Discretionary,Not found,31000,19712866,78820,250
+BorgWarner Inc,10165,Consumer Discretionary,Auto Parts,50000,13947029,44389,314
+Republic Services Inc,10153.6,Industrials,Environmental  -  Waste Services,35000,12617294,63899,197
+Henry Schein Inc,10119.141,Health Care,Healthcare Support Services,19000,14438094,71272,203
+Expeditors International of Washington Inc,10116.481,Industrials,Transportation,17908,6424455,45108,142
+Entergy Corp,10113.636,Utilities,Power,13635,14264249,129663,110
+Advance Auto Parts Inc,10106.321,Consumer Discretionary,Retail  - Automotive,40000,7691513,19463,395
+Assurant Inc,10094.8,Financials,Insurance  - General,14250,10155682,43368,234.2
+Lam Research Corp,10044.736,Information Technology,Semiconductor Equip,11300,13745109,95689,144
+Boston Scientific Corp,9913,Health Care,Healthcare Products,38000,15764140,65630,240
+PVH Corp,9909,Consumer Discretionary,Apparel,21500,17065604,18089,943
+Norfolk Southern Corp,9789,Industrials,Transportation  - Railroads,20156,16655786,108348,154
+Advanced Micro Devices Inc,9763,Information Technology,Semiconductor,12600,58534288,96874,604
+United States Steel Corp,9741,Industrials,Steel,23350,13318357,72170,185
+Markel Corp,9735.066,Energy,Insurance  - Prop - Cas.,18900,4853777,39303,123.5
+AES Corp-VA,9660,Utilities,Not found,8000,10827886,61975,175
+Molson Coors Brewing Co,9654,Consumer Staples,Not found,17000,5234327,72272,72
+JB Hunt Transport Services Inc,9636.573,Industrials,Not found,30309,6588249,65663,100
+Hormel Foods Corp,9608.462,Consumer Staples,Food Processing,19100,8324267,45086,185
+Public Service Enterprise Group Inc,9603,Utilities,Utility  - General,12992,13074227,142188,92
+Steel Dynamics Inc,9601.482,Financials,Steel,8385,10615111,127630,83
+Everest Re Group Ltd,9598.114,Financials,Not found,1603,7626619,144915,52.63
+Mohawk Industries Inc,9552.197,Consumer Discretionary,Furn - Home Furnishings,42000,3126417,42999,73
+First Data Corp,9498,Financials,Not found,19000,102210395,50406,2028
+Square Inc,9497.578,Industrials,Information Services,5477,2.75,164369,0.0001
+Quest Diagnostics Inc,9437,Health Care,Healthcare Support Services,49000,10131566,53492,189
+Newell Brands Inc,9385,Consumer Discretionary,Household Products,31000,8624805,31704,272
+Huntington Ingalls Industries Inc,9361,Industrials,Aerospace - Defense,42000,8641992,73108,118
+Cheniere Energy Inc,9358,Communication Services,Oil - Gas Distribution,1519,16789520,182655,91.9
+Willis Towers Watson PLC,9352,Financials,Not found,46000,18691731,70319,266
+Alcoa Corp,9286,Consumer Staples,Metals  -  Mining,12900,12963461,100290,129
+Casey's General Stores Inc,9175.296,Industrials,Retail  - Grocery and Food,17282,3528588,15655,225
+AGCO Corp,9149.7,Financials,Farming - Agriculture,20961,15287732,48463,315
+NRG Energy Inc,9093,Utilities,Power,4577,9146053,114883,80
+Interpublic Group of Cos Inc ,9061,Communication Services,Not found,50200,16590172,71835,231
+Southwest Airlines Co,9048,Industrials,Air Transport,56537,8771124,101302,86.6
+News Corp,9008,Communication Services,Publishing  -  Newspapers,23500,14747659,64666,228
+Eversource Energy,8904.43,Utilities,Power,9299,19806088,133899,148
+Alleghany Corp,8896.719,Health Care,Reinsurance,9017,13993062,30363,461
+Air Products & Chemicals Inc,8856.3,Materials,Not found,19275,17031957,61035,279
+Reliance Steel & Aluminum Co,8811.9,Financials,Steel,12800,13770002,58100,237
+Dick's Sporting Goods Inc,8750.743,Energy,Retail  - Special Lines,15300,9083405,10091,900
+Campbell Soup Co,8691,Consumer Staples,Not found,14500,8491078,60357,141
+Mosaic Co ,8681.7,Financials,Not found,12617,9767104,37234,262
+Chesapeake Energy Corp,8634,Communication Services,Oil - Gas  - Production and Exploration,2300,15392109,128199,120
+NXP Semiconductors NV,8612,Consumer Discretionary,Not found,29400,20558002,50294,409
+Amphenol Corp,8598.9,Information Technology,Electronics  - General,80000,7380975,14441,511
+ONEOK Inc,8542.242,Energy,Oil - Gas Distribution,2886,10945741,136080,80
+United Rentals Inc,8530,Industrials,Retail  - Distributors,18250,6215830,73881,84
+Arch Capital Group Ltd,8525.275,Consumer Discretionary,Not found,4500,8915516,112111,80
+Brighthouse Financial Inc,8503,Health Care,Insurance  - Life,1400,8490118,150678,56
+Regeneron Pharmaceuticals Inc,8497.1,Health Care,Drugs  - Biotechnology,9123,21455117,139055,154
+Eastman Chemical Co,8473,Materials,Not found,14500,14556133,81638,178
+CommScope Holding Co Inc,8435.9,Financials,Not found,30000,13992038,12769,1096
+Ryder System Inc,8420.091,Consumer Discretionary,Trucking,39000,6604851,48274,137
+Fifth Third Bancorp,8402,Financials,Banks  - Regional,19872,8999237,68103,132
+Constellation Brands Inc,8343.5,Consumer Staples,Beverage  - Alcoholic,9000,10312778,53851,192
+Univar Inc,8265,Health Care,Not found,9457,6479497,64418,101
+Yum China Holdings Inc,8263,Industrials,Not found,450000,12170001,4161,2925
+Targa Resources Corp,8260.3,Consumer Discretionary,Oil - Gas Distribution,2372,12460549,114112,109
+Intercontinental Exchange Inc,8244,Financials,Financial Svcs.  - Non - bank  -  Insurance,8890,14408908,146693,98
+Raymond James Financial Inc,8168,Financials,Brokerage  -  Investment Banking,14800,13090394,94864,138
+Thor Industries Inc,8167.933,Health Care,Auto  -  Truck,22250,9048728,50233,180
+Hershey Co ,8149.719,Health Care,Not found,15200,16787188,38099,441
+Santander Consumer USA Holdings Inc,8108.462,Information Technology,Financial Svcs.  - Non - bank  -  Insurance,5175,3588991,54633,65.7
+WR Berkley Corp,8098.925,Financials,Not found,7495,11017931,105106,105
+Activision Blizzard Inc,8086,Communication Services,Entertainment,9500,30122896,94308,319
+American Tower Corp,8041.5,Real Estate,R.E.I.T.,5618,18095288,62745,288
+Liberty Media Corp-Liberty SiriusXM,8040,Consumer Discretionary,Not found,4555,0,0,0
+Sirius XM Holdings Inc,8040,Real Estate,Cable TV,5726,18778831,137390,137
+Southern Copper Corp,7984.9,Utilities,Metals  -  Mining,13777,1639870,33321,49
+American Financial Group Inc-OH,7909,Financials,Not found,6500,10464587,73634,142
+Darden Restaurants Inc,7806.9,Consumer Discretionary,Restaurant - Dining,177895,10710578,18175,589
+JM Smucker Co ,7801,Consumer Staples,Not found,7300,8056890,71045,113
+Williams Cos Inc ,7719,Energy,Not found,4739,15590338,177403,88
+Intuit Inc,7679,Information Technology,Software  - System  -  Application,10600,17933345,157232,114
+Citizens Financial Group Inc,7676,Financials,Banks  - Regional,17584,9898442,66497,149
+Voya Financial Inc,7649,Real Estate,Financial Svcs.  - Non - bank  -  Insurance,6000,12554291,127400,99
+PPL Corp,7607,Utilities,Power,12318,14142567,147463,96
+Wabtec Corp,7556.1,Financials,Construction Supplies,27000,7484027,42045,178
+Foot Locker Inc,7548,Materials,Retail  - Special Lines,15589,13411422,8241,1627
+NVR Inc,7536.923,Consumer Discretionary,Homebuilding,6100,3987000,78448,51
+Cincinnati Financial Corp,7536,Financials,Insurance  - Prop - Cas.,5266,5528654,96112,57.5
+Weyerhaeuser Co,7532,Real Estate,Not found,9372,9957168,63464,157
+Westlake Chemical Corp,7504,Industrials,Chemical  - Basic,9430,10880451,86219,126.2
+Booz Allen Hamilton Holding Corp,7463.841,Consumer Discretionary,Computer Services,27200,7448529,106954,70
+S&P Global Inc,7442,Financials,Financial Svcs.  - Non - bank  -  Insurance,23000,12152512,27860,436
+Global Payments Inc,7423.558,Information Technology,Information Services,24000,20502096,56040,367
+CenterPoint Energy Inc,7418,Utilities,Utility  - General,9500,7724121,102957,75
+Motorola Solutions Inc,7414,Information Technology,Telecom. Equipment,18000,23619990,93750,252
+Ulta Beauty Inc,7398.068,Consumer Discretionary,Retail  - Special Lines,18000,14257713,25666,556
+KeyCorp,7337,Financials,Banks  - Regional,16826,9663988,63748,152
+Burlington Stores Inc,7286.398,Consumer Staples,Retail  - Special Lines,47000,9428212,12120,778
+WEC Energy Group Inc,7241.7,Utilities,Utility  - General,7273,9262101,127703,73
+Masco Corp,7188,Industrials,Building Materials,18000,8659363,40070,216
+Old Republic International Corp,7165.9,Industrials,Insurance  - Prop - Cas.,9000,1646775,82043,20.1
+Seaboard Corp,7126,Energy,Food Processing,13100,8806646,37682,234
+First American Financial Corp,7086.667,Financials,Insurance  - Prop - Cas.,19597,10367225,55016,188
+Cintas Corp,7085.12,Financials,Business  -  Consumer Services,40000,8621245,52302,165
+Toll Brothers Inc,7077.659,Consumer Discretionary,Homebuilding,4500,10744205,70089,153
+Pioneer Natural Resources Co,7068,Energy,Not found,2323,13562263,171525,79
+Owens Corning,7055,Industrials,Building Materials,19000,6351566,55090,115
+Polaris Industries Inc,7027.9,Financials,Not found,5000,10158452,49387,205.7
+Zimmer Biomet Holdings Inc,7024.5,Health Care,Healthcare Products,20000,11176720,69683,160
+Xerox Corp,7022,Information Technology,Not found,27000,0,0,0
+Arthur J Gallagher & Co,7003.6,Information Technology,Not found,32401,8960616,56067,160
+Avery Dennison Corp,6971.5,Materials,Packaging  -  Container,32000,8495032,12278,692
+Oshkosh Corp,6856.8,Information Technology,Construction Supplies,14400,10258166,62619,164
+Booking Holdings Inc,6796,Consumer Discretionary,Retail  - Online,20300,14768526,50418,293
+Ardagh Group SA,6731,Consumer Staples,Not found,16340,0,0,0
+Clorox Co ,6721,Information Technology,Not found,8800,9362715,68441,137
+Dover Corp,6683.76,Consumer Discretionary,Machinery,23000,9149075,45141,203
+CMS Energy Corp,6680,Utilities,Utility  - General,8837,8986702,122783,73
+Zoetis Inc,6675,Health Care,Drugs  - Pharmaceutical,11300,21145419,76949,275
+Hanesbrands Inc,6664.35,Consumer Discretionary,Apparel,61000,3956325,7076,559
+Packaging Corp of America,6658.2,Industrials,Not found,15200,10338117,71268,125.5
+Regions Financial Corp,6655,Financials,Banks  - Regional,19406,13128415,60621,217
+Graphic Packaging Holding Co,6559.9,Industrials,Not found,18775,9154192,60795,151
+UGI Corp,6559,Real Estate,Power,6500,8592760,64610,133
+Sprouts Farmers Market Inc,6468.759,Industrials,Retail  - Grocery and Food,28000,6780744,21181,320
+Rockwell Automation Inc,6329.8,Industrials,Electrical Equipment,23500,11710165,57907,202
+Avangrid Inc,6320,Real Estate,Power,6597,2258449,221567,10
+Northern Trust Corp,6301.1,Financials,Investments  -  Asset Management,19800,9459768,76636,123
+Nielsen Holdings PLC,6290,Industrials,Business  -  Consumer Services,43000,12936400,32646,396
+M&T Bank Corp,6281.156,Financials,Banks  - Regional,17373,5704703,66768,85
+Realogy Holdings Corp,6221,Industrials,Real Estate  - Operations  -  Services,9235,0,0,0
+NCR Corp,6207,Financials,Computers - Peripherals,36000,12780572,54281,235
+T Rowe Price Group Inc,6206.7,Consumer Staples,Not found,7678,14588346,109916,133
+Vertex Pharmaceuticals Inc,6205.683,Health Care,Drugs  - Biotechnology,3400,18800000,227653,83
+Ralph Lauren Corp,6159.8,Health Care,Apparel,13700,13851684,22787,608
+HD Supply Holdings Inc,6146,Health Care,Not found,11500,7467171,51288,146
+Invesco Ltd,6145.6,Financials,Investments  -  Asset Management,8512,11518949,125282,92
+Owens-Illinois Inc,6091,Industrials,Not found,25000,0,0,0
+Fortune Brands Home & Security Inc,6090.3,Industrials,Building Materials,27500,10693887,57125,187
+National Oilwell Varco Inc,6090,Financials,Not found,35479,9253961,51374,180
+Alexion Pharmaceuticals Inc,6069.9,Health Care,Drugs  - Biotechnology,3387,18947984,237151,80
+Huntsman Corp,6018,Industrials,Chemical  - Diversified,9000,16468951,71711,230
+Equinix Inc,5998.545,Real Estate,R.E.I.T.,10013,16575596,133688,124
+Ingredion Inc,5987,Industrials,Farming - Agriculture,12000,8474335,47754,177
+Chipotle Mexican Grill Inc,5984.634,Consumer Discretionary,Restaurant - Dining,88000,16068144,14155,1136
+Jefferies Financial Group Inc,5958.375,Industrials,Diversified,3922,9231958,170000,54
+Williams-Sonoma Inc,5898.008,Energy,Retail  - Building Supply,11600,27254166,11137,2447
+LPL Financial Holdings Inc,5871.64,Consumer Discretionary,Brokerage  -  Investment Banking,4756,7669954,87303,88
+Crown Castle International Corp,5842,Real Estate,R.E.I.T.,4900,12620843,123187,102
+TD Ameritrade Holding Corp,5838,Consumer Discretionary,Not found,9226,9772730,83718,116.7
+KLA-Tencor Corp,5806.424,Information Technology,Not found,10600,20512367,85968,239
+Ameren Corp,5794,Utilities,Utility  - General,9323,9718998,147127,66
+Olin Corp,5758,Industrials,Chemical  - Basic,8000,7154041,107139,66.77
+Post Holdings Inc,5698.7,Consumer Discretionary,Food Processing,10200,11319810,67082,169
+Arconic Inc,5675,Consumer Staples,Not found,13400,51837578,55497,934
+Celanese Corp,5655,Materials,Chemical  - Specialty,7658,8001982,82366,97.2
+Yum! Brands Inc,5652,Consumer Discretionary,Restaurant - Dining,38000,16369090,11584,1413
+Fastenal Co,5647.3,Industrials,Not found,20365,1759943,45842,38
+Analog Devices Inc,5603.056,Information Technology,Semiconductor,15900,11948434,62277,192
+McCormick & Co Inc-MD,5601.3,Information Technology,Not found,13000,12769184,31603,404
+Carnival Corp,5595,Consumer Discretionary,Hotel - Gaming,11000,11149514,15429,723
+Franklin Resources Inc,5566.5,Financials,Investments  -  Asset Management,11800,10431335,63941,163
+Capri Holdings Ltd,5551,Financials,Not found,17797,14354013,25700,558
+Herbalife Nutrition Ltd,5541.8,Health Care,Household Products,9900,2455922,36137,68
+Electronic Arts Inc,5537,Communication Services,Entertainment,9800,18320071,91661,200
+MDU Resources Group Inc,5532.75,Health Care,Utility  - General,12994,6144355,63768,96
+Roper Technologies Inc,5527.1,Industrials,Diversified,18400,18834053,88988,212
+RPM International Inc,5506.994,Consumer Discretionary,Chemical  - Specialty,14621,8397565,57028,147
+Cerner Corp,5505.788,Health Care,Heathcare Information and Technology,23000,12538797,69830,179.6
+Hasbro Inc,5465.443,Consumer Discretionary,Recreation,6822,17960878,75729,237
+NetApp Inc,5412,Information Technology,Computers - Peripherals,10800,13164969,198620,67
+Moody's Corp,5371,Financials,Financial Svcs.  - Non - bank  -  Insurance,11490,13751632,87393,157
+Agilent Technologies Inc,5339,Health Care,Heathcare Information and Technology,16400,12520566,70014,179
+ADT Inc,5314.787,Information Technology,Business  -  Consumer Services,20500,9343259,58615,159
+Microchip Technology Inc,5274.2,Information Technology,Semiconductor,18000,12864939,41125,313
+ON Semiconductor Corp,5255,Communication Services,Semiconductor,31000,8894933,16069,554
+Huntington Bancshares Inc-OH,5238,Financials,Not found,15477,7488685,61717,121.3
+Sonoco Products Co,5237.443,Industrials,Not found,23000,5402685,53523,101
+Telephone & Data Systems Inc,5225,Health Care,Not found,2900,6885780,54661,126
+Expedia Group Inc,5199,Consumer Discretionary,Retail  - Online,19100,11262552,69854,161
+RenaissanceRe Holdings Ltd,5172.316,Financials,Not found,604,10768159,208241,51.7
+MGM Resorts International,5162.082,Consumer Discretionary,Hotel - Gaming,52000,13146352,38954,337
+Robert Half International Inc,5109,Industrials,Business  -  Consumer Services,13000,7433592,19806,375
+TransDigm Group Inc,5103,Industrials,Aerospace - Defense,14200,13135200,44072,298
+International Flavors & Fragrances Inc,5084.239,Materials,Chemical  - Specialty,13700,7629084,38981,196
+Michaels Cos Inc ,5072.037,Consumer Discretionary,Not found,12000,10472847,11440,915
+Resideo Technologies Inc,5071,Industrials,Building Materials,14700,6353165,25569,248
+Perrigo Co PLC,5063.3,Health Care,Not found,11200,10525298,82616,127
+Watsco Inc,5054.928,Health Care,Retail  - Distributors,5800,11204097,52908,212
+Devon Energy Corp,4989,Energy,Oil - Gas  - Production and Exploration,1800,13795899,164100,84
+Chemours Co ,4969,Communication Services,Not found,6500,7695644,95254,81
+Tapestry Inc,4961.4,Consumer Discretionary,Apparel,9200,12362240,25450,486
+OneMain Holdings Inc,4933,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,8300,9483399,39567,240
+Silgan Holdings Inc,4921.943,Materials,Packaging  -  Container,12000,13264941,36067,368
+Evergy Inc,4913.4,Utilities,Power,5133,5793975,153717,38
+Gardner Denver Holdings Inc,4910.2,Consumer Discretionary,Not found,15900,5535511,61496,90
+Sealed Air Corp,4903.2,Materials,Packaging  -  Container,16500,8989757,55804,161
+Church & Dwight Co Inc,4895.8,Consumer Staples,Not found,5100,8985122,65894,136.4
+CME Group Inc,4883.6,Financials,Financial Svcs.  - Non - bank  -  Insurance,4370,11867214,145478,82
+Xylem Inc-NY,4876,Industrials,Not found,16700,8300000,50000,166
+Vulcan Materials Co,4856.826,Materials,Not found,8767,9574528,85562,112
+Axis Capital Holdings Ltd,4841.954,Materials,Not found,1567,9278330,144000,64
+Western Union Co ,4835,Information Technology,Not found,11000,10099500,31966,316
+Hanover Insurance Group Inc ,4827.3,Consumer Discretionary,Not found,4300,4994450,97544,51
+International Game Technology PLC,4785.806,Materials,Not found,12000,66000000,69984,943
+Torchmark Corp,4737.921,Consumer Discretionary,Not found,3261,8349130,98507,85
+Martin Marietta Materials Inc,4729.9,Materials,Construction Supplies,8700,12198358,67956,180
+Coty Inc,4717.8,Consumer Staples,Household Products,18260,16748651,43242,387
+NiSource Inc,4681.7,Utilities,Utility  - General,7301,6628690,110318,60
+Knight-Swift Transportation Holdings Inc,4673.863,Information Technology,Trucking,22700,4645780,46648,100
+SS&C Technologies Holdings Inc,4667.9,Industrials,Software  - System  -  Application,24600,21620325,133054,162
+Hess Corp,4667,Health Care,Oil - Gas  - Production and Exploration,1775,13493661,190250,71
+Encompass Health Corp,4644.4,Industrials,Hospitals - Healthcare Facilities,31837,7270287,39032,186
+FMC Corp,4642.1,Industrials,Chemical  - Specialty,6400,11536552,51332,225
+Fortive Corp,4634.4,Industrials,Machinery,25000,14141477,56212,251.6
+Simon Property Group Inc,4607.503,Real Estate,R.E.I.T.,3300,10439378,62457,166
+Welltower Inc,4605.967,Real Estate,R.E.I.T.,423,13142124,90811,145
+Monster Beverage Corp,4598.638,Consumer Staples,Beverage  - Soft,2655,13982434,55169,253
+Skechers U.S.A. Inc,4597.414,Real Estate,Shoe,5900,13697047,47634,288
+Mattel Inc,4583.7,Information Technology,Recreation,24000,15514997,5526,2808
+Schneider National Inc,4552.8,Energy,Trucking,15225,3742725,51201,73
+AMETEK Inc,4540.029,Industrials,Electrical Equipment,16500,10176064,86304,118
+Broadridge Financial Solutions Inc,4529,Information Technology,Information Services,12000,7399052,69912,105.8
+Alliance Data Systems Corp,4521.4,Industrials,Information Services,8000,7599100,60219,126
+ServiceNow Inc,4519.484,Information Technology,Software  - System  -  Application,13096,21561715,223554,96
+First Republic Bank-CA,4506.906,Financials,Not found,4812,12884327,145400,89
+Concho Resources Inc,4494,Consumer Staples,Oil - Gas  - Production and Exploration,1453,12980443,157850,82.23
+Under Armour Inc,4474.667,Consumer Discretionary,Apparel,16600,5954169,12126,491
+Noble Energy Inc,4470,Utilities,Not found,2282,13038313,142118,92
+Zebra Technologies Corp,4448,Information Technology,Electronics  - General,8800,10150109,66632,152.33
+Juniper Networks Inc,4445.1,Information Technology,Telecom. Equipment,9950,11129890,129616,86
+Prologis Inc,4438.735,Real Estate,R.E.I.T.,1712,30383438,117751,258
+Tiffany & Co,4424,Health Care,Retail  - Special Lines,14100,10940139,33642,325
+Flowers Foods Inc,4387.991,Information Technology,Food Processing,9700,3822322,75995,50
+Edwards Lifesciences Corp,4386.3,Health Care,Healthcare Products,14900,11520973,64517,179
+Intuitive Surgical Inc,4358.4,Health Care,Healthcare Products,8081,6470374,157267,41
+TreeHouse Foods Inc,4349.7,Industrials,Food Processing,10900,7237021,55710,130
+Brunswick Corp-DE,4347.5,Consumer Staples,Not found,14382,5840775,49314,118
+Covetrus Inc,4339,Consumer Staples,Healthcare Support Services,5500,3690212,30284,122
+Workday Inc,4317.996,Financials,Software  - System  -  Application,12200,9827005,187783,52
+Hilton Worldwide Holdings Inc,4307,Consumer Discretionary,Hotel - Gaming,141000,21387511,43695,489
+IHS Markit Ltd,4287.8,Industrials,Not found,16000,13070056,90999,144
+Leggett & Platt Inc,4280.2,Consumer Discretionary,Furn - Home Furnishings,20400,10204342,36441,280
+Apache Corp,4276,Energy,Oil - Gas  - Production and Exploration,3163,14287300,157761,91
+Carlisle Cos Inc,4245.2,Health Care,Not found,12000,9578941,64629,148
+Keysight Technologies Inc,4221,Information Technology,Electronics  - General,13900,11124216,84714,131
+Antero Resources Corp,4215.472,Information Technology,Oil - Gas  - Production and Exploration,522,5852902,78547,75
+Garmin Ltd,4186.573,Consumer Discretionary,Not found,16000,3233412,35188,92
+Hubbell Inc,4186,Information Technology,Electrical Equipment,19100,5638825,42893,131
+Amdocs Ltd,4169.039,Industrials,Not found,25875,0,102116,0
+Conduent Inc,4163,Consumer Staples,Information Services,67000,7066017,31308,226
+Iron Mountain Inc,4147.27,Health Care,R.E.I.T.,24000,10888949,39267,278
+Landstar System Inc,4136.38,Consumer Staples,Trucking,1320,2645790,42125,62.8
+Scotts Miracle-Gro Co ,4131.6,Energy,Not found,5932,7922384,53177,149
+Equifax Inc,4127.5,Industrials,Business  -  Consumer Services,11400,14281552,72230,197.7
+CF Industries Holdings Inc,4124,Materials,Chemical  - Specialty,3000,8758243,119957,73
+Domino's Pizza Inc,4117.411,Consumer Discretionary,Restaurant - Dining,14400,5495804,17919,307
+Gartner Inc,4099.403,Information Technology,Computer Services,15600,11960245,110383,108
+Bemis Co Inc,4089.9,Health Care,Not found,15694,6643003,42015,158
+SVB Financial Group,4081.758,Financials,Banks  - Regional,4461,10677545,132157,81
+American National Insurance Co,4070.143,Financials,Not found,4640,7850440,67023,117
+Harley-Davidson Inc,4054.377,Consumer Discretionary,Auto  -  Truck,5200,11123478,187157,59
+Paychex Inc,4040.5,Information Technology,Information Services,15800,7930520,56018,142
+United States Cellular Corp,4037,Industrials,Telecom  - Wireless,5300,8843995,55425,159.6
+Total System Services Inc,4028.211,Consumer Discretionary,Not found,12820,7057482,62146,114
+Old Dominion Freight Line Inc,4015.129,Industrials,Trucking,19779,7344950,81583,90
+Urban Outfitters Inc,3983.789,Industrials,Retail  - Special Lines,9600,1039129,12420.51,83.66
+Lululemon Athletica Inc,3979.296,Consumer Discretionary,Not found,19000,19779260,22549,877
+AMERCO,3978.868,Industrials,Trucking,30000,1016699,17280,59
+Spectrum Brands Holdings Inc,3964.2,Industrials,Household Products,12100,19688132,11371,1731
+Snap-on Inc,3942.2,Industrials,Machinery,12300,7560073,60721,125
+Pool Corp,3936.623,Financials,Retail  - Distributors,4500,3290220,50095,66
+Worldpay Inc,3925.4,Financials,Not found,8186,11176630,85481,131
+Digital Realty Trust Inc,3903.609,Real Estate,R.E.I.T.,1153,12337700,157229.85,78
+Lions Gate Entertainment Corp,3890,Materials,Entertainment,1443,6615219,117628,56.2
+Ventas Inc,3795.357,Real Estate,R.E.I.T.,448,11348335,101004,112
+Lamb Weston Holdings Inc,3792.4,Consumer Staples,Food Processing,7700,6837282,55629,123
+Autodesk Inc,3790.4,Information Technology,Software  - System  -  Application,10100,9021758,117829,76.6
+Mercury General Corp,3784.511,Health Care,Insurance  - Prop - Cas.,4300,1706295,61343,28
+PerkinElmer Inc,3782.745,Health Care,Heathcare Information and Technology,13000,16481787,46161,357
+American Water Works Co Inc,3777,Utilities,Not found,7000,5918455,85855,69
+Hologic Inc,3776.4,Health Care,Healthcare Products,5814,12374753,91403,135
+Axalta Coating Systems Ltd,3737.6,Materials,Chemical  - Specialty,13000,9975228,64702,154
+Navient Corp,3734,Financials,Financial Svcs.  - Non - bank  -  Insurance,5560,7793321,46126,168
+Flowserve Corp,3728.134,Information Technology,Machinery,16000,8709622,64075,136
+Twitter Inc,3716.349,Communication Services,Software  - Entertainment,5500,1.4,213155,0.001
+Genpact Ltd,3709.377,Consumer Discretionary,Not found,96500,7617106,31657,241
+Synopsys Inc,3685.281,Information Technology,Software  - System  -  Application,15036,9628307,89083,108
+Tempur Sealy International Inc,3676.9,Health Care,Furn - Home Furnishings,9000,14277857,48205,296
+Domtar Corp,3652,Consumer Discretionary,Paper - Forest Products,10000,6836746,81678,84
+Lennox International Inc,3634.1,Consumer Discretionary,Building Materials,10300,13231690,70513,188
+Las Vegas Sands Corp,3612,Consumer Discretionary,Hotel - Gaming,46000,24680118,42228,584
+Pinnacle West Capital Corp,3586.982,Utilities,Power,6000,11882550,132212,90
+Alaska Air Group Inc,3566,Industrials,Air Transport,16072,5533320,64528,85.8
+EQT Corp,3557.449,Energy,Oil - Gas  - Production and Exploration,624,1,115690,0.0001
+Timken Co ,3513.2,Health Care,Not found,17430,11879251,51873,229
+Service Corp International-US,3511.509,Utilities,Not found,16503,12510895,33280,376
+Caesars Entertainment Corp,3474,Information Technology,Not found,15500,4791280,37103,129
+WABCO Holdings Inc,3421.4,Financials,Not found,13911,7488503,51176,146.3
+Alliant Energy Corp,3416,Utilities,Power,3375,7765384,138044,56
+Palo Alto Networks Inc,3408.4,Materials,Software  - System  -  Application,8014,23885839,219722,109
+Spirit AeroSystems Holdings Inc,3404.8,Industrials,Aerospace - Defense,14500,11072149,70486,157
+First Horizon National Corp,3390,Financials,Not found,6649,5551044,89476,62
+Toro Co ,3378.81,Consumer Discretionary,Not found,10385,5267433,48319,109
+Brown-Forman Corp,3363,Consumer Staples,Beverage  - Alcoholic,4800,3695893,58714,63
+Red Hat Inc,3362.069,Real Estate,Not found,13360,15442344,118925,130
+Skyworks Solutions Inc,3355.7,Information Technology,Semiconductor,10000,13660593,21852,625
+DENTSPLY SIRONA Inc,3342,Health Care,Healthcare Products,15200,11366243,50861,223
+Zillow Group Inc,3339.817,Information Technology,Software  - Entertainment,5504,4502366,121573,37
+Acuity Brands Inc,3326.3,Communication Services,Electrical Equipment,11500,14874164,15169,981
+GoDaddy Inc,3316.7,Financials,Software  - Internet,6621,14310581,59369,241
+Elanco Animal Health Inc,3273.3,Health Care,Drugs  - Pharmaceutical,6080,15801769,81265,194
+Virtu Financial Inc,3239.331,Health Care,Brokerage  -  Investment Banking,1012,4598172,177848,26
+Qorvo Inc,3239.141,Information Technology,Semiconductor,7900,7984739,44708,179
+Illumina Inc,3239,Health Care,Heathcare Information and Technology,7800,1521949,104555,15
+Citrix Systems Inc,3236.7,Information Technology,Software  - System  -  Application,8400,14513856,181769,80
+Akamai Technologies Inc,3198.149,Information Technology,Software  - Internet,8368,10937601,117276,93
+MSC Industrial Direct Co Inc,3192.399,Information Technology,Not found,6315,3871786,54425,71
+PRA Health Sciences Inc,3183.365,Utilities,Heathcare Information and Technology,18100,7160216,66630,107
+Varian Medical Systems Inc,3168.2,Health Care,Healthcare Products,10000,9446296,109548,86
+Xilinx Inc,3162.666,Information Technology,Semiconductor,4891,6589807,148150,44
+Transocean Ltd,3152,Industrials,Not found,6600,9936952,129485,77
+CIT Group Inc,3150.4,Information Technology,Banks  - Regional,4131,8339413,93434,89
+Trimble Inc,3147.7,Information Technology,Electronics  - General,11402,9680494,70075,138
+E*TRADE Financial Corp,3145,Information Technology,Not found,4122,5966882,98271,61
+Clean Harbors Inc,3144.097,Information Technology,Environmental  -  Waste Services,13500,4113899,65894,62
+Albemarle Corp,3128.909,Industrials,Chemical  - Specialty,5900,8521584,77782,110
+Marathon Oil Corp,3122,Energy,Oil - Gas  - Production and Exploration,1672,14050851,144720,97
+Teradyne Inc,3121.469,Information Technology,Semiconductor Equip,5500,8007913,97185,82
+Catalent Inc,3094.3,Health Care,Drugs  - Pharmaceutical,13900,8514987,50845,167.5
+Comerica Inc,3094,Financials,Banks  - Regional,7681,14632651,85981,170
+Take-Two Interactive Software Inc,3088.97,Communication Services,Entertainment,4488,109540,67714,1.62
+Teledyne Technologies Inc,3086.2,Industrials,Aerospace - Defense,10670,3818788,65046,59
+Mettler-Toledo International Inc,3085.177,Health Care,Heathcare Information and Technology,16500,8755320,39445,222
+Terex Corp,3076.4,Information Technology,Construction Supplies,8200,8332602,56699,147
+Colfax Corp,3070.769,Information Technology,Machinery,15400,8430026,23146,364
+Diamondback Energy Inc,3056,Energy,Oil - Gas  - Production and Exploration,712,16049655,137832,116
+IAC-InterActiveCorp,3047.681,Industrials,Software  - Entertainment,9269,15508980,53981,287
+Sensata Technologies Holding PLC,3045.578,Utilities,Electrical Equipment,19000,5795871,10790,537
+Garrett Motion Inc,3034,Consumer Discretionary,Not found,6300,5276980,27146,198
+STERIS PLC,3030.895,Health Care,Not found,13000,5992286,59832,100
+Carter's Inc,3024.334,Industrials,Apparel,18000,7627912,10890,700
+Pentair PLC,3017.8,Industrials,Not found,9500,6413860,59187,108
+ResMed Inc,2957.013,Health Care,Healthcare Products,7770,9635100,60918,158
+JetBlue Airways Corp,2957,Industrials,Air Transport,16495,3955524,59647,66.3
+Zions Bancorp NA,2942,Financials,Not found,9726,4341075,65048.25,67
+Crane Co,2936.9,Consumer Staples,Machinery,11000,7190812,68405,105
+AptarGroup Inc,2929.34,Industrials,Packaging  -  Container,13000,7918040,40502,195
+Charles River Laboratories International Inc,2923.933,Materials,Heathcare Information and Technology,18400,17722105,49069,361
+Legg Mason Inc,2922.125,Consumer Discretionary,Not found,3059,9952270,165165,60
+Public Storage,2915.068,Real Estate,R.E.I.T.,5400,4289200,26001,165
+Regal Beloit Corp,2907,Real Estate,Electrical Equipment,19560,6730794,13433,501
+Nasdaq Inc,2903,Financials,Financial Svcs.  - Non - bank  -  Insurance,4830,13869051,120822,115
+Valmont Industries Inc,2895.355,Energy,Engineering - Construction,10844,4872938,46015,106
+AO Smith Corp,2895.3,Health Care,Not found,13500,3808438,21337,178
+Graham Holdings Co,2889.121,Information Technology,Not found,16661,1470860,40131,37
+Hill-Rom Holdings Inc,2881,Information Technology,Healthcare Products,10000,7326160,68973,106
+Atmos Energy Corp,2821.137,Utilities,Power,4694,10395993,84516,123
+AMC Networks Inc,2814.956,Consumer Discretionary,Broadcasting,2114,20196317,57587,354
+Gates Industrial Corp PLC,2793,Information Technology,Not found,14300,10486690,28679,366
+Verisk Analytics Inc,2784.6,Industrials,Business  -  Consumer Services,8960,9050882,77055,117
+Boston Properties Inc,2765.686,Real Estate,R.E.I.T.,760,11917600,115266,103
+Energizer Holdings Inc,2744.8,Industrials,Household Products,5900,6814918,35464,192
+Allegion PLC,2719.9,Industrials,Not found,11500,8552444,44199,193
+TransUnion,2716.6,Industrials,Business  -  Consumer Services,8200,8417153,81423,103
+First Solar Inc,2711.332,Financials,Semiconductor,5100,8524240,83313,102
+IDEXX Laboratories Inc,2706.655,Health Care,Healthcare Products,9300,7637774,55106,139
+Marvell Technology Group Ltd,2699.161,Materials,Not found,5633,7166309,162933,44
+Cadence Design Systems Inc,2682.891,Information Technology,Software  - System  -  Application,8800,19146556,100773,190
+Stericycle Inc,2675.5,Financials,Environmental  -  Waste Services,15000,3856557,50916,76
+Incyte Corp,2666.702,Health Care,Drugs  - Biotechnology,1773,15151238,254237,60
+EPAM Systems Inc,2659.478,Energy,Computer Services,41200,4325619,28721,151
+Lincoln Electric Holdings Inc,2655.4,Health Care,Machinery,10700,6981969,45062,155
+Lazard Ltd,2646.769,Consumer Discretionary,Not found,3100,10509587,195170,54
+H&R Block Inc,2639.72,Industrials,Business  -  Consumer Services,3500,8504020,16182,526
+Kansas City Southern,2632.6,Industrials,Transportation  - Railroads,6522,6380412,48623,131
+Cabot Corp,2614,Industrials,Chemical  - Basic,4500,6679379,68660,97
+Brown & Brown Inc,2613.375,Information Technology,Insurance  - General,11136,5178025,71366,73
+Popular Inc,2603.863,Consumer Discretionary,Banks  - Regional,8522,5135399,38614,133
+Fortinet Inc,2594.4,Information Technology,Software  - System  -  Application,8238,9629923,122329,79
+Continental Resources Inc-OK,2586.47,Consumer Staples,Not found,1201,12746088,127231,100
+Nu Skin Enterprises Inc,2581.934,Utilities,Household Products,5000,4570379,3818,1197
+Donaldson Co Inc,2581.8,Consumer Discretionary,Not found,12400,6270388,34680,181
+Hawaiian Electric Industries Inc,2579.775,Consumer Discretionary,Power,3841,4902901,151680,32
+Zayo Group Holdings Inc,2578,Consumer Discretionary,Not found,3781,11246476,82000,137
+Equity Residential,2571.705,Real Estate,R.E.I.T.,2600,6588161,59542,111
+Kontoor Brands Inc,2548.839,Consumer Discretionary,Apparel,15000,0,0,0
+Visteon Corp,2548,Information Technology,Auto Parts,10000,0,0,0
+Bio-Rad Laboratories Inc,2545.626,Health Care,Heathcare Information and Technology,8000,7261053,69055,105
+Teleflex Inc,2537.156,Health Care,Healthcare Products,14000,6782758,46589,146
+Erie Indemnity Co,2536.489,Real Estate,Not found,5849,4249710,90924,47
+Middleby Corp ,2513.257,Real Estate,Not found,9778,7198183,39153,175
+Columbia Sportswear Co,2501.554,Consumer Staples,Not found,7275,2671227,27562,97
+Symantec Corp,2490,Financials,Not found,3600,2921038,115899,25.2
+Euronet Worldwide Inc,2482.7,Consumer Discretionary,Information Services,7700,8415773,24230,347
+Interactive Brokers Group Inc,2479,Information Technology,Brokerage  -  Investment Banking,1643,8365000,88028,95
+ITT Inc,2477.8,Real Estate,Machinery,9700,7068573,53778,131
+Align Technology Inc,2471.941,Health Care,Healthcare Products,18070,18269139,13756,1328
+WPX Energy Inc,2433,Financials,Oil - Gas  - Production and Exploration,590,11334302,155484,73
+Cooper Cos Inc ,2430.9,Consumer Staples,Not found,12000,7724746,39775,194
+Floor & Decor Holdings Inc,2425.788,Information Technology,Retail  - Building Supply,8790,2422843,23877,101
+Curtiss-Wright Corp,2391.336,Industrials,Aerospace - Defense,8200,9185016,57569,160
+Match Group Inc,2391.269,Information Technology,Software  - Entertainment,1880,3361203,102949,33
+FleetCor Technologies Inc,2388.855,Information Technology,Information Services,8400,11504313,38414,299
+Waters Corp,2365.365,Industrials,Heathcare Information and Technology,7412,1084859,74654,15
+Jazz Pharmaceuticals PLC,2363.567,Industrials,Not found,1940,14713637,214881,68
+Splunk Inc,2358.926,Industrials,Software  - System  -  Application,5800,13505795,261231,52
+SLM Corp,2353.109,Real Estate,Financial Svcs.  - Non - bank  -  Insurance,1900,6062247,72550,84
+Valvoline Inc,2353,Energy,Chemical  - Basic,8800,4601614,31075,148
+IDEX Corp,2351.646,Information Technology,Machinery,7439,9119596,66703,137
+F5 Networks Inc,2350.822,Information Technology,Telecom. Equipment,6110,9473457,176749,54
+Genesee & Wyoming Inc,2348.55,Consumer Discretionary,Not found,8000,0,0,0
+MKS Instruments Inc,2330,Real Estate,Semiconductor Equip,5800,9669644,79505,122
+Ashland Global Holdings Inc,2326,Financials,Chemical  - Specialty,4500,7372385,62083,119
+Arista Networks Inc,2317.512,Information Technology,Telecom. Equipment,2613,1384171,151647,9
+Synovus Financial Corp,2311.008,Information Technology,Banks  - Regional,5264,5222995,65896,79
+People's United Financial Inc,2307.7,Financials,Banks  - Regional,6110,5800085,68190,85
+AvalonBay Communities Inc,2301.261,Real Estate,R.E.I.T.,3122,10921362,70917,154
+Evercore Inc,2291.628,Consumer Discretionary,Brokerage  -  Investment Banking,1900,7312898,187500,39
+TCF Financial Corp,2281.725,Consumer Discretionary,Banks  - Regional,7254,0,0,0
+Royal Caribbean Cruises Ltd,2208.805,Consumer Discretionary,Not found,8200,14358919,17303,830
+Copart Inc,2205.583,Industrials,Business  -  Consumer Services,7600,156315,35360,4.4
+Cypress Semiconductor Corp,2205.314,Health Care,Not found,5871,10571858,54343,195
+Maxim Integrated Products Inc,2191.395,Information Technology,Semiconductor,7115,9143785,32372,282
+KAR Auction Services Inc,2187.7,Industrials,Business  -  Consumer Services,10000,5529428,33017,167
+Seattle Genetics Inc,2175.536,Consumer Discretionary,Not found,2092,14521495,222352,65
+Kirby Corp,2171.408,Energy,Shipbuilding  -  Marine,5400,4684626,83595,56
+Rollins Inc,2161.22,Industrials,Environmental  -  Waste Services,15616,4780854,50134,95.4
+Wyndham Destinations Inc,2160,Financials,Hotel - Gaming,15500,7951962,49083,162
+West Pharmaceutical Services Inc,2146.9,Health Care,Healthcare Products,9200,6479661,49229,133
+Nabors Industries Ltd,2134.043,Financials,Not found,10000,14742873,53768,274
+BWX Technologies Inc,2123.516,Consumer Staples,Aerospace - Defense,6700,5041508,88538,57
+OGE Energy Corp,2122.3,Energy,Power,2360,6447313,110779,58
+Nordson Corp,2121.1,Utilities,Machinery,7555,3437271,57335,60
+BOK Financial Corp,2112.949,Industrials,Banks  - Regional,4915,3818371,70319,54
+Range Resources Corp,2103.615,Consumer Discretionary,Oil - Gas  - Production and Exploration,533,8384520,140000,60
+Wynn Resorts Ltd,2095.861,Consumer Discretionary,Not found,27500,13851298,45706,303
+Acadia Healthcare Co Inc,2089.929,Health Care,Not found,28600,7719813,26881,287
+SBA Communications Corp,2083.138,Real Estate,R.E.I.T.,1483,10156251,92370,109
+Allison Transmission Holdings Inc,2081,Utilities,Construction Supplies,3300,3093412,85826,36
+Chemed Corp,2079.583,Communication Services,Healthcare Support Services,16641,10019850,44423,226
+Hyatt Hotels Corp,2066,Industrials,Hotel - Gaming,115000,14702221,35358,416
+BGC Partners Inc,2063.717,Consumer Discretionary,Brokerage  -  Investment Banking,5200,11750000,111150,106
+Hain Celestial Group Inc ,2053.903,Industrials,Not found,4287,11641363,30295,384
+Affiliated Managers Group Inc,2027.5,Health Care,Investments  -  Asset Management,4000,24197628,160697,151
+Air Lease Corp,2015.439,Financials,Retail  - Distributors,120,7895939,185375,43
+NewMarket Corp,2010.931,Consumer Discretionary,Chemical  - Specialty,2105,3183198,146806,22
+Tribune Media Co,2009.734,Industrials,Not found,5800,7410800,53341,139
+Signature Bank-New York NY,2006.894,Materials,Not found,1472,7830542,103787,75.5
+Trinity Industries Inc,1999.4,Information Technology,Construction Supplies,6375,10241919,14756,694
+nVent Electric PLC,1998.6,Materials,Not found,8800,5999443,49796,120
+Bruker Corp,1987.5,Consumer Staples,Heathcare Information and Technology,7230,4909641,76488,64
+Zynga Inc,1974.8,Health Care,Entertainment,2245,11679821,98588,118
+Murphy Oil Corp,1967.341,Financials,Oil - Gas  - Production and Exploration,822,18804373,136024,138
+Vail Resorts Inc,1963.704,Industrials,Recreation,7100,3624696,14884,244
+ServiceMaster Global Holdings Inc,1961,Utilities,Not found,10000,5267718,48126,109
+First Citizens BancShares Inc-NC,1960.776,Financials,Not found,6451,4024342,64543,62
+CDK Global Inc,1960.1,Real Estate,Software  - System  -  Application,9000,14114436,77182,183
+Arcosa Inc,1935.6,Consumer Staples,Engineering - Construction,6275,0,0,0
+DexCom Inc,1926.7,Health Care,Healthcare Products,5500,10279373,94523,109
+FLIR Systems Inc,1923.689,Information Technology,Electronics  - General,4179,5492416,76714,72
+Parsley Energy Inc,1903.33,Industrials,Oil - Gas  - Production and Exploration,496,6584555,171503,38
+Apergy Corp,1899.996,Energy,Not found,3000,4055014,69120,59
+Wintrust Financial Corp,1897.209,Financials,Banks  - Regional,5057,5140088,56323,91
+EchoStar Corp,1887.907,Consumer Discretionary,Telecom. Equipment,2420,2547199,104923,24
+Alexandria Real Estate Equities Inc,1885.637,Real Estate,R.E.I.T.,470,11041490,155000,71
+QIAGEN NV,1870.346,Consumer Discretionary,Not found,5600,0,0,0
+Live Nation Entertainment Inc,1861.178,Communication Services,Entertainment,10500,14563122,18333,794
+BioMarin Pharmaceutical Inc,1860.455,Health Care,Drugs  - Biotechnology,3059,18405856,190917,96
+Element Solutions Inc,1853.7,Communication Services,Chemical  - Specialty,4400,4620138,50500,106
+Teradata Corp,1836,Health Care,Software  - System  -  Application,8535,4941051,76892,64
+John Wiley & Sons Inc,1831.483,Consumer Staples,Publishing  -  Newspapers,6900,5499029,57541,96
+East West Bancorp Inc,1830.589,Information Technology,Banks  - Regional,3000,7413241,78992,94
+Invitation Homes Inc,1822.828,Financials,R.E.I.T.,1140,6291215,57644,109
+GrubHub Inc,1819.982,Industrials,Retail  - Online,2714,7835652,85700,91
+HEICO Corp,1787.009,Real Estate,Aerospace - Defense,5200,10204504,60046,170
+Helmerich & Payne Inc,1773.927,Real Estate,Oil - Gas  - Production and Exploration,4138,7731049,87987,87.9
+New York Community Bancorp Inc,1769.073,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,2948,7640224,82420,93
+Twilio Inc,1761.776,Financials,Software  - Internet,4629,12292577,191956,64
+MEDNAX Inc,1733.951,Health Care,Healthcare Support Services,3600,8066275,98094,82
+Eaton Vance Corp,1730.365,Industrials,Investments  -  Asset Management,1983,13370078,149073,90
+WR Grace & Co,1729.8,Financials,Not found,4000,5529934,170381,32
+Wendy's Co ,1709.002,Real Estate,Not found,13300,6688988,19657,340
+Jack Henry & Associates Inc,1697.067,Information Technology,Information Services,6402,4851479,69325,70
+MSCI Inc,1695.39,Financials,Financial Svcs.  - Non - bank  -  Insurance,3633,9255960,55857,165
+Gentex Corp,1688.189405,Consumer Discretionary,Auto Parts,5303,3059702,48462,63
+Pure Storage Inc,1684.179,Consumer Discretionary,Computers - Peripherals,3400,8383230,223393,38
+SEI Investments Co,1684.058,Consumer Discretionary,Not found,3963,2275583,90320,25.2
+ANSYS Inc,1681.297,Information Technology,Software  - System  -  Application,4800,19591414,100100,196
+Mid-America Apartment Communities Inc,1677.984,Information Technology,R.E.I.T.,2476,5735898,46088,124
+Cimarex Energy Co,1677.842,Health Care,Oil - Gas  - Production and Exploration,747,9002555,124105,73
+Credit Acceptance Corp,1669.3,Consumer Staples,Financial Svcs.  - Non - bank  -  Insurance,2119,1039000,68355,15
+CoStar Group Inc,1659.019,Materials,Business  -  Consumer Services,4752,19324540,89925,215
+Realty Income Corp,1651.625,Industrials,R.E.I.T.,208,7538883,99644,76
+Graco Inc,1650.115,Information Technology,Machinery,3700,8520558,64849,131
+HCP Inc,1644.875,Health Care,Not found,217,9907966,145000,68
+CoreLogic Inc-United States,1642.375,Industrials,Not found,5100,6566418,68504,95.85
+Senior Housing Properties Trust,1632.026,Utilities,Not found,3000,0,0,0
+Host Hotels & Resorts Inc,1620,Real Estate,R.E.I.T.,68,9434465,197781,48
+Atlassian Corp PLC,1614.173,Communication Services,Not found,4907,9098603,71543,127
+Lamar Advertising Co,1568.856,Information Technology,Not found,3300,4966110,59550,83.4
+WEX Inc,1559.869,Materials,Information Services,5000,6482394,63763,102
+National Fuel Gas Co,1546.291,Financials,Not found,2162,4032786,84849,48
+Brookfield Property REIT Inc,1529.523,Information Technology,R.E.I.T.,14000,11332589,80869,140
+Vornado Realty Trust,1527.951,Real Estate,R.E.I.T.,2899,11466885,65442,175.1
+Bright Horizons Family Solutions Inc,1515.093,Health Care,Education,33800,1895577,24695,77
+Equitrans Midstream Corp,1510.825,Real Estate,Oil - Gas Distribution,771,5013222,125578,40
+Hexcel Corp,1502.4,Information Technology,Aerospace - Defense,4647,8822920,60383,146
+Essex Property Trust Inc,1495.748,Real Estate,R.E.I.T.,1799,6419864,74338,86
+FactSet Research Systems Inc,1494.111,Communication Services,Financial Svcs.  - Non - bank  -  Insurance,10484,2884084,17358,166
+Exact Sciences Corp,1491.391,Utilities,Drugs  - Biotechnology,4800,18729996,113869,164
+Cullen-Frost Bankers Inc,1486.489,Industrials,Banks  - Regional,4685,4763232,56246,84.7
+United Therapeutics Corp,1483.3,Information Technology,Drugs  - Biotechnology,950,45651970,196979,232
+Nuance Communications Inc,1478.899,Utilities,Software  - System  -  Application,7100,12582183,50397,250
+frontdoor Inc,1474,Materials,Business  -  Consumer Services,1600,5529075,44750,124
+CNX Resources Corp,1463.519,Utilities,Oil - Gas  - Production and Exploration,451,2755901,83139,33
+PTC Inc,1458.415,Financials,Software  - System  -  Application,6243,10984505,85126,129
+Eagle Materials Inc,1450.814,Information Technology,Construction Supplies,2400,5537014,79862,69
+Littelfuse Inc,1445.695,Materials,Electronics  - General,12200,3920145,15671,250
+Cabot Oil & Gas Corp,1440.438,Energy,Oil - Gas  - Production and Exploration,503,13830926,74070,187
+Associated Banc-Corp,1426.896,Financials,Banks  - Regional,4459,5140297,53222,97
+FNB Corp-PA,1424.862,Materials,Not found,3768,6409567,54714,117
+Umpqua Holdings Corp,1424.636,Consumer Discretionary,Banks  - Regional,3943,3604846,61072,59
+Sun Communities Inc,1398.347,Health Care,R.E.I.T.,4872,7969265,29280,272
+Commerce Bancshares Inc-MO,1389.547,Financials,Not found,4766,3692831,58414,63
+Morningstar Inc,1389.5,Financials,Financial Svcs.  - Non - bank  -  Insurance,7979,3960682,83455,47
+Versum Materials Inc,1372.3,Communication Services,Not found,2300,4809960,82544,58
+Integra LifeSciences Holdings Corp,1371.868,Industrials,Healthcare Products,3700,7859423,75619,104
+Dunkin' Brands Group Inc,1370.227,Consumer Staples,Retail  - Grocery and Food,1114,5404590,128265,42.1
+Extra Space Storage Inc,1356.212,Real Estate,R.E.I.T.,4013,6284975,38658,163
+Pinnacle Financial Partners Inc,1338.882,Energy,Banks  - Regional,2508,4923891,70266,70
+Sabre Corp,1334.1,Financials,Information Services,7531,8810560,76584,115
+Western Alliance Bancorp,1332.6,Health Care,Banks  - Regional,1915,5261283,101103,52
+Cable One Inc,1325.229,Industrials,Cable TV,2716,2704303,49978,54
+Starwood Property Trust Inc,1320.738,Consumer Discretionary,R.E.I.T.,282,0,0,0
+Nutanix Inc,1307.682,Materials,Software  - System  -  Application,5340,6943333,179305,38.7
+Wyndham Hotels & Resorts Inc,1300,Financials,Hotel - Gaming,9000,6732826,22391,301
+Premier Inc,1299.592,Utilities,Healthcare Support Services,2500,7680983,120578,64
+Fair Isaac Corp,1294.562,Communication Services,Software  - System  -  Application,4003,11345257,93278,122
+Webster Financial Corp,1287.326,Health Care,Banks  - Regional,3298,3582866,65227,55
+National Instruments Corp,1286.671,Financials,Electronics  - General,7000,8487974,49581,171
+Ubiquiti Networks Inc,1284.5,Financials,Not found,714,3698,59800,0
+Norwegian Cruise Line Holdings Ltd,1279.908,Consumer Discretionary,Hotel - Gaming,36000,17808364,16925,1052
+Prosperity Bancshares Inc,1275.444,Real Estate,Banks  - Regional,3756,3720949,36631,102
+ICU Medical Inc,1271.004,Information Technology,Healthcare Products,7900,2825277,31552,90
+Hospitality Properties Trust,1265.254,Consumer Staples,Not found,600,0,0,0
+VeriSign Inc,1265.052,Information Technology,Software  - Internet,909,9024073,180475,50
+LogMeIn Inc,1260.385,Financials,Not found,3974,9957554,108209,92
+Cboe Global Markets Inc,1254.3,Financials,Financial Svcs.  - Non - bank  -  Insurance,1010,8212785,166086,49
+PacWest Bancorp,1249.551,Materials,Banks  - Regional,1835,7061107,85821,82
+Medical Properties Trust Inc,1249.238,Health Care,R.E.I.T.,86,17253436,175927,98
+Texas Capital Bancshares Inc,1242.428,Consumer Discretionary,Banks  - Regional,1641,4908814,93586,52.5
+UDR Inc,1241.165,Real Estate,R.E.I.T.,1263,6307734,66909,94
+Black Knight Inc,1238.5,Health Care,Information Services,5700,10143427,100039,101
+Outfront Media Inc,1236.3,Industrials,R.E.I.T.,2062,6993709,72331,97
+Coherent Inc,1228.999,Information Technology,Electronics  - General,4875,4887445,69018,71
+VICI Properties Inc,1225.574,Health Care,R.E.I.T.,147,5555658,19595,284
+GrafTech International Ltd,1224.361,Information Technology,Electrical Equipment,1285,2361058,35981,66
+WP Carey Inc,1209.319,Financials,Not found,188,6918604,141718,49
+BankUnited Inc,1200.83,Financials,Banks  - Regional,1493,5320229,90073,59.1
+IPG Photonics Corp,1200.724,Information Technology,Electronics  - General,6060,1251984,31205,40.1
+Bank OZK,1185.389,Financials,Banks  - Regional,2652,5135609,41167,125
+RingCentral Inc,1183.657,Health Care,Software  - System  -  Application,3140,9820094,127834,77
+American Homes 4 Rent,1182.836,Financials,R.E.I.T.,1447,1476575,53556,27.57
+White Mountains Insurance Group Ltd,1180.7,Consumer Discretionary,Not found,1262,6858274,42523,161
+Dolby Laboratories Inc,1161.792,Communication Services,Electronics  - General,2289,7360030,130998,56
+VEREIT Inc,1161.366,Real Estate,R.E.I.T.,160,6821118,113700,60
+RealPage Inc,1158.484,Industrials,Software  - System  -  Application,7000,9579997,51324,187
+Tableau Software Inc,1155.352,Financials,Not found,4181,3509719,199864,18
+Welbilt Inc,1153.4,Utilities,Machinery,4400,3706252,47561,78
+Gaming and Leisure Properties Inc,1153.165,Materials,R.E.I.T.,560,11433673,30137,379
+Sterling Bancorp-DE,1149.583,Health Care,Not found,1639,7157396,69466,111
+Liberty Media Corp-Liberty Formula One,1145,Consumer Discretionary,Not found,84,19812263,88786,223
+Masimo Corp,1143.744,Industrials,Healthcare Products,1600,14996101,117628,127
+SM Energy Co,1126.582,Energy,Utility  - General,503,7849218,177380,44
+Patterson-UTI Energy Inc,1124.249,Industrials,Oil - Gas  - Production and Exploration,3000,8845356,87685,101
+Tyler Technologies Inc,1116.663,Information Technology,Software  - System  -  Application,5536,4191130,87564,47.86
+Assured Guaranty Ltd,1115,Financials,Not found,441,12153470,255268,47.6
+Sage Therapeutics Inc,1114.2,Financials,Drugs  - Biotechnology,298,9902083,369650,27
+Veeva Systems Inc,1104.081,Health Care,Heathcare Information and Technology,3501,322917,102907,3.1
+Equity LifeStyle Properties Inc,1091.448,Real Estate,R.E.I.T.,4000,3455317,25681,135
+Kimco Realty Corp,1057.893,Real Estate,R.E.I.T.,484,6948567,102500,68
+Uniti Group Inc,1057.611,Health Care,R.E.I.T.,899,5425302,75448,72
+Camden Property Trust,1054.637,Information Technology,R.E.I.T.,1700,4053465,54107,75
+Brixmor Property Group Inc,1053.748,Health Care,R.E.I.T.,480,6220427,106908,58.18
+SL Green Realty Corp,1052.744,Real Estate,R.E.I.T.,794,20990016,71887,292
+Proofpoint Inc,1050.01,Real Estate,Software  - System  -  Application,3658,8413694,157971,53
+Neurocrine Biosciences Inc,1045.9,Communication Services,Drugs  - Biotechnology,845,9450826,257209,37
+Extended Stay America Inc,1042.316,Health Care,Hotel - Gaming,4200,4101720,24483.08,168
+Alkermes PLC,1038.756,Health Care,Not found,2245,14659541,177189,83
+CyrusOne Inc,1033.5,Health Care,R.E.I.T.,441,7108928,115693,61
+Zendesk Inc,1029.564,Information Technology,Software  - System  -  Application,4130,4409144,123560,36
+Colony Capital Inc,1025.51,Consumer Staples,R.E.I.T.,400,15956955,175481,91
+SolarWinds Corp,1019.241,Industrials,Software  - System  -  Application,3251,1411200,118530,12
+Pegasystems Inc,1017.517,Information Technology,Software  - System  -  Application,5776,5933824,128252,46
+QEP Resources Inc,1016.3,Consumer Discretionary,Oil - Gas  - Production and Exploration,257,5959741,211619,28
+Regency Centers Corp,1016.175,Real Estate,R.E.I.T.,450,5619541,101379,53
+Cantel Medical Corp,1016.048,Consumer Staples,Healthcare Products,3669,7842443,61747,127
+Duke Realty Corp,993.198,Real Estate,R.E.I.T.,400,6693904,122714,55
+Exelixis Inc,987.538,Utilities,Drugs  - Biotechnology,773,2132555,241154,9
+DocuSign Inc,973.971,Communication Services,Software  - System  -  Application,3909,8733680,128976,68
+FireEye Inc,940.584,Financials,Software  - System  -  Application,3400,7728166,156004,50
+Armstrong World Industries Inc,936.9,Information Technology,Building Materials,2500,5030560,72220,71
+Apartment Investment & Management Co,925.718,Energy,Not found,950,7305455,77292,94.5
+Extraction Oil & Gas Inc,912.425,Real Estate,Oil - Gas  - Production and Exploration,323,3134245,153049,36
+Insulet Corp,904.4,Industrials,Healthcare Products,1900,5883985,113721,52
+Kilroy Realty Corp,898.397,Information Technology,R.E.I.T.,252,12137534,150436,81
+GCI Liberty Inc,894.733,Information Technology,Not found,2051,3857811,72830,53
+Hilton Grand Vacations Inc,894,Information Technology,Hotel - Gaming,9110,5905405,39273,150
+Omega Healthcare Investors Inc,892.381,Industrials,R.E.I.T.,68,7287348,194570,37.5
+Douglas Emmett Inc,891.523,Consumer Discretionary,R.E.I.T.,713,9434604,45727,206
+American Campus Communities Inc,870.584,Industrials,R.E.I.T.,2988,5802845,26519,219
+Rayonier Inc,859.154,Financials,R.E.I.T.,826,4683002,106120,44
+Park Hotels & Resorts Inc,852,Materials,R.E.I.T.,182,6824939,28120,243
+Macquarie Infrastructure Corp,847,Financials,Air Transport,1763,2921211,49827,58.6
+Monolithic Power Systems Inc,844.452,Information Technology,Semiconductor,2000,9356946,36848,254
+Grand Canyon Education Inc,844.096,Industrials,Education,4625,1929086,60255,32
+Ceridian HCM Holding Inc,842.5,Utilities,Software  - System  -  Application,5974,5022043,134817,37
+Paycom Software Inc,841.434,Information Technology,Software  - System  -  Application,4218,21138558,64408,328
+ABIOMED Inc,840.883,Health Care,Healthcare Products,1536,19243230,115794,166
+Federal Realty Investment Trust,835.494,Real Estate,R.E.I.T.,307,7630858,111105,69
+Cognex Corp,811.02,Consumer Staples,Electronics  - General,2055,3848831,72959,53
+Hudson Pacific Properties Inc,804.965,Information Technology,R.E.I.T.,375,9327742,123063,76
+Moderna Inc,803.395,Real Estate,Drugs  - Biotechnology,700,8948207,78742,113
+Kosmos Energy Ltd,801.32,Information Technology,Oil - Gas  - Production and Exploration,252,5195573,288547,18
+Macerich Co ,786.026,Financials,Not found,670,6943149,94711,73
+First Hawaiian Inc,780.139,Financials,Banks  - Regional,2103,6011668,54729,110
+2U Inc,774.533,Communication Services,Software  - System  -  Application,3749,6612508,59272,112
+Choice Hotels International Inc,774.072,Consumer Discretionary,Hotel - Gaming,1498,6821434,86605,79
+Guidewire Software Inc,742.307,Industrials,Software  - System  -  Application,2690,4559179,161858,28
+Healthcare Trust of America Inc,738.965,Health Care,R.E.I.T.,333,6418812,69548,92
+Bio-Techne Corp,738.691,Health Care,Heathcare Information and Technology,2300,11011138,64371,171
+Highwoods Properties Inc,736.9,Information Technology,R.E.I.T.,359,2103705,68222,31
+Whiting Petroleum Corp,732.362,Consumer Discretionary,Oil - Gas  - Production and Exploration,505,6185713,117385,53
+Bank of Hawaii Corp,730.833,Financials,Banks  - Regional,2022,5307172,58365,91
+Ionis Pharmaceuticals Inc,729,Financials,Drugs  - Biotechnology,817,9598830,270956,35
+Chimera Investment Corp,728.062,Energy,R.E.I.T.,41,10665440,358000,29.8
+Paramount Group Inc,714.237,Materials,R.E.I.T.,323,9356506,88741,105.44
+Liberty Property Trust,704.889,Consumer Discretionary,Not found,271,4797350,96152,49.9
+Howard Hughes Corp ,699.489,Real Estate,Not found,600,2061711,47395,43
+STORE Capital Corp,694.268,Health Care,R.E.I.T.,97,7426429,136380,54.5
+MarketAxess Holdings Inc,689.125,Financials,Financial Svcs.  - Non - bank  -  Insurance,606,3844232,140455,27
+Cinemark Holdings Inc,686.31,Financials,Entertainment,12705,6308779,20313,310
+CubeSmart,679.177,Industrials,R.E.I.T.,3011,5357599,27935,192
+Taubman Centers Inc,661.054,Consumer Discretionary,Not found,420,1357347,85185,16
+National Retail Properties Inc,660.681,Financials,R.E.I.T.,70,6307897,98819,63
+Life Storage Inc,616.771,Consumer Discretionary,R.E.I.T.,2078,3519327,31357,112
+Corporate Office Properties Trust,609.365,Information Technology,R.E.I.T.,406,4319124,104974,41.1
+Empire State Realty Trust Inc,609.228,Industrials,R.E.I.T.,831,11145499,62157,179
+CoreSite Realty Corp,606.824,Industrials,R.E.I.T.,481,5385071,84096,64
+TripAdvisor Inc,604,Information Technology,Software  - Entertainment,2596,1260637,93750,13
+Madison Square Garden Co ,603.319,Financials,Not found,450,54116491,18650,2902
+JBG SMITH Properties,602.723,Industrials,R.E.I.T.,1050,4893799,95058,51.48
+Apple Hospitality REIT Inc,601.879,Information Technology,R.E.I.T.,66,4588609,145807,31.5
+Aspen Technology Inc,598.717,Financials,Software  - System  -  Application,1710,7478887,93493,78.4
+RPC Inc,598.302,Consumer Discretionary,Oilfield Svcs - Equip.,2700,0,0,0
+Manhattan Associates Inc,586.372,Financials,Software  - System  -  Application,3400,9186524,90920,101
+Okta Inc,586.067,Energy,Software  - Internet,2248,0,0,0
+New Residential Investment Corp,579.331,Communication Services,R.E.I.T.,5471,0,0,0
+Penumbra Inc,560.412,Industrials,Healthcare Products,3300,726690,71088,10
+Brandywine Realty Trust,534.852,Health Care,R.E.I.T.,341,5335186,84491,63.15
+Centennial Resource Development Inc-DE,533.805,Health Care,Not found,151,2513336,142221,18
+TFS Financial Corp,508.549,Industrials,Financial Svcs.  - Non - bank  -  Insurance,997,4749066,64639,73.47
+AGNC Investment Corp,501,Health Care,R.E.I.T.,50,16130400,240598,67
+Royal Gold Inc,498.819,Consumer Discretionary,Precious Metals,23,3874988,446083,8.7
+Alnylam Pharmaceuticals Inc,492.853,Financials,Drugs  - Biotechnology,1453,7317856,225811,32
+Spirit Realty Capital Inc,483.617,Industrials,R.E.I.T.,82,9719499,87754,110.8
+Switch Inc,462.31,Financials,Software  - Internet,789,0,0,0
+SITE Centers Corp,460.333,Real Estate,R.E.I.T.,323,6657317,84580,79
+Weingarten Realty Investors,433.917,Utilities,R.E.I.T.,243,6360288,96414,66
+Retail Properties of America Inc,430.043,Health Care,R.E.I.T.,214,5763972,101995,57
+Universal Display Corp,428.867,Health Care,Semiconductor,349,12733442,126469,101
+Elastic NV,427.62,Health Care,Not found,1936,0,0,0
+EPR Properties,414.661,Energy,R.E.I.T.,53,4159755,206575,20
+Pluralsight Inc,391.865,Energy,Software  - System  -  Application,1766,0,0,0
+Sarepta Therapeutics Inc,380.833,Information Technology,Drugs  - Biotechnology,743,1387072,290714,4.8
+Annaly Capital Management Inc,367.696,Financials,R.E.I.T.,180,0,0,0
+MFA Financial Inc,359.384,Health Care,R.E.I.T.,65,5351445,206500,25.9
+Six Flags Entertainment Corp,356.575,Real Estate,Recreation,1950,5867497,9448,621
+Columbia Property Trust Inc,300.566,Consumer Staples,R.E.I.T.,160,4994621,162046,31
+Bluebird Bio Inc,250.734,Financials,Drugs  - Biotechnology,1213,13153566,233104,56
+Retail Value Inc,239.095,Health Care,R.E.I.T.,4,0,0,0
+Agios Pharmaceuticals Inc,203.196,Health Care,Drugs  - Biotechnology,562,16669213,267104,62
+Nektar Therapeutics,152.915,Financials,Drugs  - Pharmaceutical,718,9939250,152663,65
+Equity Commonwealth,66.278,Real Estate,R.E.I.T.,28,6027946,310061,19
+Liberty Broadband Corp,50.706,Consumer Discretionary,Cable TV,1971,12553984,147122,85
+Two Harbors Investment Corp,-1186.516,Communication Services,R.E.I.T.,150,0,0,0

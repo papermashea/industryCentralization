@@ -3,7 +3,16 @@ body {
     margin: 0;
 }
 
-#vis-container {
+#central-container {
+}
+
+p.details {
+}
+
+.key{
+}
+
+#central-container {
 }
 
 .node:hover{

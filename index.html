@@ -11,9 +11,23 @@
     </head>
 
     <body>
-        <div id="vis-container"></div>
+        <h1>Industry centralization 1955-2020</h1>
+        <div id="timeline-container">
+            <p class="details">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        </div>
+        <h1>New measures of market power</h1>
+        <div id="central-container">
+            <label for="recent">Select a market power:</label>
+                <select id="power" name="market">
+                    <option value="revenue">Revenue</option>
+                    <option value="market_cap">Market Cap</option>
+                    <option value="ceo_comp">CEO compensation</option>
+                    <option value="employee_comp">Employee Compensation</option>
+                </select>
+        </div>
     </body>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="https://d3js.org/d3.v4.js"></script>
-    <!-- <script src="https://d3js.org/d3.v6.min.js"></script> -->
-    <script src="js/vis.js"></script>
+    <script src="js/central.js"></script>        
+    <!-- <script src="js/timeline.js"></script>         -->
 </html>
