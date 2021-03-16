@@ -3,34 +3,36 @@ var width = 1000
 var height = 800
 
 
-window.onload = function () {
+// window.onload = function () {
 // append the svg object to the body of the page
 var svg = d3.select("#central-container")
   .append("svg")
-    .attr("width", width)
-    .attr("height", height)
+  .attr("width", width)
+  .attr("height", height)
 
 // Data
-data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
+cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
 // data = d3.csv("./data/2017-2019_simple.csv", function(data) {  
-    console.log(data)
+    console.log(cData)
 
   // Color palette for 11 sectors
   var color = d3.scaleOrdinal()
-    .domain(["Communication Services", "Consumer Discretionary", "Consumer Staples", "Energy", "Financials", "Health Care", "Information Technology",  "Industrials", "Materials", "Real Estate", "Utilities"])
-    .range(["lightsteelblue", "cadetblue", "orchid", "thistle", "darkseagreen", "lightcoral", "cornflowerblue", "gold", "darkorange", "sandybrown", "firebrick"]);
+    .domain(["Communication Services", "Consumer Discretionary", "Consumer Staples", "Energy", "Financials", "Health Care", "Information Technology",  "Industrials", "Materials", "Real Estate", "Utilities", "Not found"])
+    .range(["cornflowerblue", "cadetblue", "thistle", "orchid", "darkseagreen", "mediumorchid", "darkslateblue", "firebrick", "sandybrown", "gold", "darkorange", "whitesmoke"]);
 
-// Communication Services - lightsteelblue
-// Consumer Discretionary - cadetblue
-// Consumer Staples - orchid
-// Energy - thistle
-// Financials - darkseagreen
-// Health Care - lightcoral
-// Information Technology - cornflowerblue 
-// Industrials - gold
-// Materials - darkorange
-// Real Estate - sandybrown
-// Utilities - firebrick
+
+    // Information Technology - darkslateblue 
+    // Communication Services - cornflowerblue
+    // Consumer Discretionary - cadetblue
+    // Financials - darkseagreen
+    // Consumer Staples - thistle
+    // Energy - orchid
+    // Health Care - mediumorchid 
+    // Industrials - firebrick
+    // Utilities - darkorange
+    // Materials - sandybrown
+    // Real Estate - gold 
+
 
   // Size scale for revenue
   var size = d3.scaleLinear()
@@ -39,11 +41,10 @@ data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
 
   // create a tooltip
   var Tooltip = d3.select("#central-container")
-    .data(data)
+    .data(cData)
     .enter()
     .append("div")
       .attr("class", "tooltip")
-      .style("color", function(d){ return color(d.sector)})
       .style("opacity", 0)
 
   // Three function that change the tooltip when user hover / move / leave a cell
@@ -72,7 +73,7 @@ data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
   // Circle based on revenue
   var node = svg.append("g")
     .selectAll("circle")
-    .data(data)
+    .data(cData)
     .enter().append("circle")
       .attr("class", "node")
       .attr("r", function(d){ return size(d.revenue)})
@@ -100,14 +101,14 @@ data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
   // Apply these forces to the nodes and update their positions.
   // Once the force algorithm is happy with positions ('alpha' value is low enough), simulations will stop.
   simulation
-      .nodes(data)
+      .nodes(cData)
       .on("tick", function(d){
         node
             .attr("cx", function(d){ return d.x; })
             .attr("cy", function(d){ return d.y; })
       });
 
-  // What happens when a circle is dragged?
+  // Drag circle
   function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(.03).restart();
     d.fx = d.x;
@@ -124,4 +125,4 @@ data = d3.csv("./data/2017-2019_sectors_cpr.csv", function(data) {
   }
 
 });
-}
+// }
