@@ -3,31 +3,65 @@ body {
     margin: 0;
 }
 
-#central-container {
+/*canvas {
+	width: 100%;
+	height: 800px;
+}*/
+
+/*********************************/
+/*********** LAYOUT ***********/
+/*********************************/
+
+.home {
+	margin: 3% 0%;
+	text-align: center;
 }
 
-p.details {
+.home-info {
+	margin: 1% 5%;
+	text-align: center;
 }
 
-.key{
+.present, .past {
+	margin: 0 10%;
+	text-align: center;
 }
 
-#central-container {
+.sector-data {
+	margin: 0;	
 }
 
-.node:hover{
-  stroke-width: 2px !important;
-  opacity: 1!important;
+.sector-revenue {
+	display: inline;
 }
 
-.tooltip {
-	color: white;
-	width: 30%;
-	position: absolute;
-	top: 10px; left: 10px;
-	background-color: rgba(255, 255, 255, 1);
-	padding: 5px;
-	border-radius: 10px;
+.sector-profit {
+	display: none;
+}
+
+.antitrust {
+	width: 500px;
+	height:400px;
+}
+
+.central-container {
+	width: 100%
+	margin: 0 10%;
+}
+
+
+.back {
+	width: 100%;
+	margin: 10% 0%;
+}
+
+/*********************************/
+/*********** TYPE ***********/
+/*********************************/
+
+label {
+	margin: 0px; 
+	padding: 40px 0px;
 }
 
 h1 {
@@ -35,7 +69,34 @@ h1 {
 	font-weight: 700;
 	font-style: normal;
 	line-height: 1;
+	height: 10%;
+	width: 100%;
 }
+
+h2 {
+	font-family: pt-sans-pro,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1;
+}
+
+.details {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.back a, .back a:active, .back a:visited {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+/*********************************/
+/*********** EMBED ***********/
+/*********************************/
 
 .sector-industry {
 	font-family: pt-sans-pro,sans-serif;
@@ -54,8 +115,139 @@ h1 {
 	font-weight: 700;
 }
 
-p {
+/*********************************/
+/*********** KEY ***********/
+/*********************************/
+
+#key {
+	margin: 20px 40px;
+	width: 90%;
+}
+
+#key a {
+	margin: 10px 2px;
+	padding: 5px;
+	font-family: pt-sans-pro,sans-serif;
+	font-weight: 500;
+	display: inline-block;
+	color: white;
+}
+
+.InformationTechnology {
+	background-color: darkslateblue;
+}
+
+.CommunicationServices {
+	background-color: cornflowerblue;
+}
+
+.ConsumerDiscretionary {
+	background-color: cadetblue;
+}
+
+.Financials {
+	background-color: darkseagreen;
+}
+
+.ConsumerStaples {
+	background-color: thistle;
+}
+
+.Energy {
+	background-color: orchid;
+}
+
+.HealthCare {
+	background-color: mediumorchid;
+}
+
+.Industrials {
+	background-color: firebrick;
+}
+
+.Utilities {
+	background-color: darkorange;
+}
+
+.Materials {
+	background-color: sandybrown;
+}
+
+.RealEstate {
+	background-color: gold;
+}
+
+.NotFound {
+	background-color: whitesmoke;
+	color: darkgrey!important;
+}
+
+
+/*********************************/
+/*********** TOOLTIP ***********/
+/*********************************/
+
+.node:hover{
+  stroke-width: 2px !important;
+  opacity: 1!important;
+}
+
+h3 {
+	font-family: pt-sans-pro,sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	line-height: 1;
+}
+
+.tooltip {
+	color: white;
+	width: 90%;
+	margin: 5%;
+	padding: 20px 20px 40px 20px;
+	border-radius: 0px;
+}
+
+.sector-string {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 600;
+	font-style: none;
+	color: white;
+}
+
+.industry-string {
+	font-weight: 400;
+	font-style: italic;
+}
+
+.year-data {
 	font-family: pt-sans-pro, sans-serif;
 	font-weight: 400;
-	font-style: normal;
+	font-style: italic;
+	color: white;
+	font-size: .7em;
 }
+
+.company {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: none;
+	color: white;
+}
+
+.employees {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: none;
+	color: white;
+}
+
+.footer {
+	height: 60px;
+	float:right;
+	margin-bottom: 20px;
+}
+
+.bold-data {
+	font-weight: 600;
+}
+

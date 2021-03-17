@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/styles.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.typekit.net/uqw4xtq.css">
+    </head>
+
+    <body>
+        <h1 class="home"> Measuring market powers of the <a href="past.html">past</a> & <a href="present.html">present</a></h1>
+        <div class="present">
+            <div class ="details">
+                <h2>New measures of market power 2017-2020</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</br>
+                
+                <div id="key">
+<!--                     <h3>Sector key</h3> -->
+                    <a class="InformationTechnology">Information Technology</a>
+                    <a class="CommunicationServices">Communication Services</a>
+                    <a class="ConsumerDiscretionary">Communication Discretionary</a>
+                    <a class="Financials">Financials</a><br/>
+                    <a class="ConsumerStaples">Consumer Staples</a>
+                    <a class="Energy">Energy</a>
+                    <a class="HealthCare">Health Care</a>
+                    <a class="Industrials">Industrials</a>
+                    <a class="Utilities">Utilities</a>
+                    <a class="Materials">Materials</a>
+                    <a class="RealEstate">Real Estate</a>
+                    <a class="NotFound">Unknown</a>
+                </div>
+                <form name="marketPower">
+                     <div class="btn-group" data-toggle="buttons" id="market-powers">
+<!--                         <p>Select a market power:</p> -->
+                        <label class="btn btn-primary active">
+                            <input type="radio" name="power" id="power" value="revenue" checked>Revenue</option>
+                        </label>
+
+                        <label class="btn btn-primary">
+                            <input type="radio" name="power" id="power" value="market_cap_billions">Market Cap</option>
+                        </label>
+
+                        <label class="btn btn-primary">
+                            <input type="radio" name="power" id="power" value="ceo_comp">CEO compensation</option>
+                        </label>
+
+                        <label class="btn btn-primary">
+                            <input type="radio" name="power" id="power" value="employee_comp">Employee Compensation</option>
+                        </label>
+
+                        <label class="btn btn-primary">
+                            <input type="radio" name="power" id="power" value="employees">Employees</option>
+                        </label>
+
+                        <label class="btn btn-primary">
+                            <input type="radio" name="power" id="power" value="cpr">CPR</option>
+                        </label>
+                    </div>
+                </form> 
+
+        <div id="central-container"></div>
+
+        <div class="back">
+            <a href="index.html">◀︎ back to overview ▶︎</a>
+        </div>
+
+    </div>
+
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script type="text/javascript" src="js/central.js"></script>        
+
+
+</html>

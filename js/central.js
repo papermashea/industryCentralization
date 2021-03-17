@@ -1,26 +1,37 @@
 // set the dimensions and margins of the graph
 var width = 1000
 var height = 800
-
+const margin = {
+  left: 200,
+  right: 200,
+  top: 50,
+  bottom: 50
+}
 
 // window.onload = function () {
+
 // append the svg object to the body of the page
 var svg = d3.select("#central-container")
   .append("svg")
   .attr("width", width)
   .attr("height", height)
+  // .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+
+ // d3.selectAll(("input[name='power']")).on("change", function(d){
+    // powerValue = this.value; 
+    // console.log(powerValue)
 
 // Data
-cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
+const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
 // data = d3.csv("./data/2017-2019_simple.csv", function(data) {  
-    console.log(cData)
+    // console.log(cData)
 
-  // Color palette for 11 sectors
+  // Color palette for 11 sectors + unknown
   var color = d3.scaleOrdinal()
     .domain(["Communication Services", "Consumer Discretionary", "Consumer Staples", "Energy", "Financials", "Health Care", "Information Technology",  "Industrials", "Materials", "Real Estate", "Utilities", "Not found"])
     .range(["cornflowerblue", "cadetblue", "thistle", "orchid", "darkseagreen", "mediumorchid", "darkslateblue", "firebrick", "sandybrown", "gold", "darkorange", "whitesmoke"]);
 
-
+    // // COLOR KEY
     // Information Technology - darkslateblue 
     // Communication Services - cornflowerblue
     // Consumer Discretionary - cadetblue
@@ -32,45 +43,70 @@ cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
     // Utilities - darkorange
     // Materials - sandybrown
     // Real Estate - gold 
-
+    // Not found - whitesmoke
 
   // Size scale for revenue
   var size = d3.scaleLinear()
     .domain([0, 600000])
-    .range([5,80])  // circle will be between 10 and 100 px wide
+    .range([5,80])  // circle will be between 5 and 80 px wide
 
   // create a tooltip
   var Tooltip = d3.select("#central-container")
-    .data(cData)
-    .enter()
     .append("div")
-      .attr("class", "tooltip")
-      .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("opacity", 0)
 
-  // Three function that change the tooltip when user hover / move / leave a cell
+  // 3 functions: hover, move, leave cell
   var mouseover = function(d) {
     Tooltip
       .style("opacity", 1)
   }
+
   var mousemove = function(d) {
     Tooltip
-      .html('<h1>' + d.company + '</h1>'
-        + '<p class="sector-industry">' + d.sector + ' | ' 
-          + '<span class="industry">' + d.industry + '</span>'+ '</p>'
-        + '<p class="details">' + d.revenue + " in revenue" + '</p>'
-        + '<p class="details">' + d.employees + " employees" + '</p>'
-        + '<p class="details">' + d.market_cap_billions + " in market cap (billions)" + '</p>'
-        + '<p class="year">' + "in " + d.fiscal_year + '</p>'
-        )
+      .html('<h3>' + d.company + '</h3>'
+        + '<p class="sector-string">' + d.sector + ' | ' 
+          + '<span class="industry-string">' + d.industry  + '</span>' + '</p>'
+        + '<li class="employees">'+ 'CEO pay ratio of ' + '<span class="bold-data">' +  d3.format(",")(d.cpr) + ':1' + '</span>' 
+        + '<li class="employees">' + '<span class="bold-data">' + d3.format(",")(d.employees) + '</span>' + " employees, making an average of " + '<span class="bold-data">' + d3.format(",")(d.employee_comp) + '/year' + '</span>'
+        + '<li class="company">' + '<span class="bold-data">' + "$" + d3.format(",")(d.revenue) + '</span>' + " million in revenue & " + '<span class="bold-data">' + "$" + d3.format(",")(d.market_cap_billions) + '</span>' + " billion in market cap"  
+        + '<p class="year-data">' + 'in ' + d.fiscal_year + '</p>' 
+        + '<div class="footer">' + '</div>' )
+      .style("background-color", color(d.sector))
       .style("left", (d3.mouse(this)[0]+20) + "px")
       .style("top", (d3.mouse(this)[1]) + "px")
   }
+
   var mouseleave = function(d) {
     Tooltip
-        .style("opacity", 0)
+      .style("opacity", 0)
+      .style("background-color", 'white')
   }
 
-  // Circle based on revenue
+  // var maxScale = d3.max(d.ceo_comp)
+  // console.log(maxScale)
+
+  // var newSizeScale = d3.scaleLinear()
+  //   .domain([0, maxScale])
+  //   .range([5,80]);    
+
+// circle click behavior depends on value of "action"
+// d3.select("svg#radio").select("circle")
+//   .on("click", function () {
+//     if (action == "left") {
+//       var cx_new = +d3.select(this).attr("cx") - 50;
+//       if (cx_new < 20) cx_new = 20;
+//       } else {
+//       var cx_new = +d3.select(this).attr("cx") + 50;
+//       if (cx_new > 280) cx_new = 280;
+//       }
+//     d3.select(this)
+//       .transition()
+//       .duration(500)
+//       .attr("cx", cx_new);
+//       });
+
+  // Initial circle based on revenue
   var node = svg.append("g")
     .selectAll("circle")
     .data(cData)
@@ -87,10 +123,33 @@ cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
       .style("fill-opacity", 0.8)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave)
-      .call(d3.drag() // call specific function when circle is dragged
+      .call(d3.drag() 
            .on("start", dragstarted)
            .on("drag", dragged)
            .on("end", dragended));
+
+    d3.selectAll("input")
+      .on("change", change);
+
+    function change() {
+      var powerValue = this.value;
+      // console.log(powerValue)
+
+     // var minScale = d3.min(cData, d => d[powerValue]); 
+     // var maxScale = d3.max(cData, d => d[powerValue]); 
+     var maxScale = d3.max(cData, function(d) { return d[powerValue]; });
+     console.log(maxScale)
+
+     var newSize = d3.scaleLinear()
+      .domain([0, maxScale])
+      // .range([5,80])
+
+      node.attr("r", function(d){ return newSize(d[powerValue])})
+      simulation.force("center", d3.forceCenter().x(width / 2).y(height / 2))
+      simulation.force("charge", d3.forceManyBody().strength(.2)) 
+      simulation.force("collide", d3.forceCollide().strength(.1).radius(function(d){ return (newSize(d[powerValue])+3) }).iterations(1))
+    }
+
 
   // Features of the forces applied to the nodes:
   var simulation = d3.forceSimulation()
@@ -124,5 +183,35 @@ cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
     d.fy = null;
   }
 
-});
-// }
+
+  });
+// });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function conversor(d){
+//     d.revenue_m = +d.revenue_m;
+//     // d.rank = +d.rank;
+//     d.year = +d.year;
+//     d.profit_m = +d.profit_m;
+//     return d;
+// };
