@@ -1,6 +1,6 @@
 // set the dimensions and margins of the graph
-var width = 1000
-var height = 800
+var width = 900
+var height = 700
 const margin = {
   left: 200,
   right: 200,

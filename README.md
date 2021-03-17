@@ -25,9 +25,14 @@ Finally, I scraped and cleaned up CEO compensation, employee compensation, numbe
 
 
 ### More resources
-- [Bloomberg](https://www.bloomberg.com/graphics/ceo-pay-ratio)
-- [Work Chrom](https://work.chron.com/average-income-ceo-fortune-500-company-5348.html)
-- [Fortune 500 archive](https://github.com/cmusam/fortune500)
-- [NYU Stern S&P industries](http://people.stern.nyu.edu/adamodar/New_Home_Page/databreakdown.html)
-- [Salary.com](https://www.salary.com/)
-- [Taxes from the Center for Public Integrity](https://publicintegrity.org/inequality-poverty-opportunity/taxes/trumps-tax-cuts/you-paid-taxes-these-corporations-didnt/)
+- [1. Fortune 500 archive](https://archive.fortune.com/magazines/fortune/fortune500_archive/full/1955/401.html)
+- [2. Fortune 500 2020](https://fortune.com/fortune500/)
+- [3. NYU Stern S&P industries](http://people.stern.nyu.edu/adamodar/New_Home_Page/databreakdown.html)
+- [4. Taxes from the Center for Public Integrity](https://publicintegrity.org/inequality-poverty-opportunity/taxes/trumps-tax-cuts/you-paid-taxes-these-corporations-didnt/)
+- [4. Economic Policy Institute: CEO compensation has grown 940% since 1978](https://www.epi.org/publication/ceo-compensation-2018/)
+- [5. SEC adopts rule for pay ratio disclosure](https://www.sec.gov/news/pressrelease/2015-160.html)
+- [6. Bloomberg on CPR](https://www.bloomberg.com/graphics/ceo-pay-ratio)
+- [7. Work Chrom](https://work.chron.com/average-income-ceo-fortune-500-company-5348.html)
+- [8. Salary.com](https://www.salary.com/)
+- [9.Forbes industry power over time](https://www.forbes.com/sites/forbes-personal-shopper/2021/03/17/best-washer-and-dryer-2021/?sh=137196ea4df3)
+- [10. History of the SEC](https://www.history.com/topics/us-government/securities-and-exchange-commission#:~:text=The%20SEC%20was%20created%20in,prevent%20any%20future%20market%20calamities)

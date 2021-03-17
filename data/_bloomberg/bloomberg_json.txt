@@ -1,6 +1,0 @@
-en: employees
-cc: ceo compensation
-cpr: CEO pay ratio
-
-bloomberg's page shows:
-- YOY change on ceo and employee compensation based on 2019 vs 2020 data
