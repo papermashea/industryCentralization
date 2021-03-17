@@ -17,12 +17,7 @@ body {
 	text-align: center;
 }
 
-.home-info {
-	margin: 1% 5%;
-	text-align: center;
-}
-
-.present, .past {
+.present, .past, .overview, .home-info {
 	margin: 0 10%;
 	text-align: center;
 }
@@ -112,6 +107,29 @@ h2 {
 	line-height: 1.5;
 }
 
+h4 {
+	font-family: bely-display, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1;
+	width: 100%;
+	color: #282A35;
+	height: 20%;
+	padding: 40px 0;
+}
+
+h4 a#past {
+	text-decoration: none;
+	color: #AAF9DC;
+	font-size: 1.4em;
+}
+
+h4 a#present {
+	text-decoration: none;
+	color: #EBFC9B;
+	font-size: 1.4em;
+}
+
 .details, .antitrust-data {
 	font-family: pt-sans-pro, sans-serif;
 	font-weight: 400;
@@ -137,6 +155,25 @@ h2 {
 
 #citation:visited {
 	color: blue;
+}
+
+.dataset {
+	margin: 2% 20%;
+	line-height: 2;
+	text-align: center;
+}
+
+.dataset a {
+	background-color: #282A35;
+	color: white;
+	padding: 20px 40px;
+	margin: 40px;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.dataset a:visited {
+	background-color: black;
 }
 
 
