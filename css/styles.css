@@ -3,11 +3,6 @@ body {
     margin: 0;
 }
 
-/*canvas {
-	width: 100%;
-	height: 800px;
-}*/
-
 /*********************************/
 /*********** LAYOUT ***********/
 /*********************************/
@@ -40,12 +35,12 @@ body {
 }
 
 .central-container {
-	width: 100%
+	width: 100%;
 	margin: 0 10%;
 }
 
 .about {
-	margin: 2% 20%;
+	margin: 2% 10%;
 	line-height: 1.5;
 }
 
@@ -58,11 +53,6 @@ body {
 /*********************************/
 /*********** TYPE ***********/
 /*********************************/
-
-label {
-	margin: 0px; 
-	padding: 40px 0px;
-}
 
 h1 {
 	font-family: bely-display, sans-serif;
@@ -130,6 +120,12 @@ h4 a#present {
 	font-size: 1.4em;
 }
 
+
+label {
+	margin: 0px; 
+	padding: 40px 0px;
+}
+
 .details, .antitrust-data {
 	font-family: pt-sans-pro, sans-serif;
 	font-weight: 400;
@@ -158,7 +154,7 @@ h4 a#present {
 }
 
 .dataset {
-	margin: 2% 20%;
+	margin: 4% 20%;
 	line-height: 2;
 	text-align: center;
 }
@@ -174,6 +170,13 @@ h4 a#present {
 
 .dataset a:visited {
 	background-color: black;
+}
+
+.note {
+	font-family: pt-sans-pro, sans-serif;
+	font-weight: 400;
+	font-size: .8em;
+	font-style: italic;
 }
 
 

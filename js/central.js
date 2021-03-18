@@ -1,6 +1,6 @@
 // set the dimensions and margins of the graph
-var width = 900
-var height = 700
+const width = 900
+const height = 700
 const margin = {
   left: 200,
   right: 200,
@@ -15,6 +15,8 @@ var svg = d3.select("#central-container")
   .append("svg")
   .attr("width", width)
   .attr("height", height)
+  .attr('viewBox', '0 0 900 700')
+  // .attr('preserveAspectRatio', 'xMinYMin meet')
   // .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
  // d3.selectAll(("input[name='power']")).on("change", function(d){
@@ -182,6 +184,29 @@ const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
     d.fx = null;
     d.fy = null;
   }
+
+  // make svg responsive 
+  // d3.select(window).on(
+  //     'resize.' + container.attr('id'), 
+  //     resize
+  // );
+
+  // function resize() {
+  //     const w = parseInt(container.style('width'));
+  //     svg.attr('width', w);
+  //     svg.attr('height', Math.round(w / aspect));
+  // }
+
+
+// var aspect = width / height,
+//     chart = d3.select('#chart');
+
+// d3.select(window)
+//   .on("resize", function() {
+//     var targetWidth = chart.node().getBoundingClientRect().width;
+//     chart.attr("width", targetWidth);
+//     chart.attr("height", targetWidth / aspect);
+//   });
 
 
   });
