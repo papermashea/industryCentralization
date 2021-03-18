@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1200px) {
+.dataset {
+	margin: 4% 10%;
+	line-height: 2;
+	text-align: center;
+}
+
+.dataset a {
+	padding: 10px 20px;
+}
+
+#sector-frame {
+	width: 800px;
+	height: 640px;
+}
+
+}
