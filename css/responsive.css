@@ -2,7 +2,7 @@
 /*********** LARGE ***********/
 /*********************************/
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1100px) {
 
 body {
     background-color: rgb(255, 255, 250);
@@ -22,7 +22,7 @@ h1 {
 }
 
 .dataset {
-	margin: 4% 10%;
+	margin: 5% 10%;
 	line-height: 2;
 	text-align: center;
 }
