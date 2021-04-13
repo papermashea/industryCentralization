@@ -24,9 +24,19 @@ var svg = d3.select("#central-container")
     // console.log(powerValue)
 
 // Data
-const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
+const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(d) {
+  d.revenue = parseInt(d.revenue);
+  d.market_cap_billions = parseInt(d.market_cap_billions);
+  d.ceo_comp = parseInt(d.ceo_comp);
+  d.employee_comp = parseInt(d.employee_comp);
+  d.employees = parseInt(d.employees);
+  d.cpr = parseInt(d.cpr);
+
+    return d; }, function(cData) {
 // data = d3.csv("./data/2017-2019_simple.csv", function(data) {  
     // console.log(cData)
+
+
 
   // Color palette for 11 sectors + unknown
   var color = d3.scaleOrdinal()
@@ -50,7 +60,7 @@ const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
   // Size scale for revenue
   var size = d3.scaleLinear()
     .domain([0, 600000])
-    .range([5,80])  // circle will be between 5 and 80 px wide
+    .range([4,60])  // circle will be between 5 and 80 px wide
 
   // create a tooltip
   var Tooltip = d3.select("#central-container")
@@ -70,7 +80,8 @@ const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
         + '<p class="sector-string">' + d.sector + ' | ' 
           + '<span class="industry-string">' + d.industry  + '</span>' + '</p>'
         + '<li class="employees">'+ 'CEO pay ratio of ' + '<span class="bold-data">' +  d3.format(",")(d.cpr) + ':1' + '</span>' 
-        + '<li class="employees">' + '<span class="bold-data">' + d3.format(",")(d.employees) + '</span>' + " employees, making an average of " + '<span class="bold-data">' + d3.format(",")(d.employee_comp) + '/year' + '</span>'
+        + '<li class="employees">'+ 'CEO total compensation: ' + '<span class="bold-data">' + "$" +  d3.format(",")(d.ceo_comp) + '/year'+ '</span>' 
+        + '<li class="employees">' + '<span class="bold-data">' + d3.format(",")(d.employees) + '</span>' + " employees, making an average of " + '<span class="bold-data">' + "$" + d3.format(",")(d.employee_comp) + '/year' + '</span>'
         + '<li class="company">' + '<span class="bold-data">' + "$" + d3.format(",")(d.revenue) + '</span>' + " million in revenue & " + '<span class="bold-data">' + "$" + d3.format(",")(d.market_cap_billions) + '</span>' + " billion in market cap"  
         + '<p class="year-data">' + 'in ' + d.fiscal_year + '</p>' 
         + '<div class="footer">' + '</div>' )
@@ -135,21 +146,34 @@ const cData = d3.csv("./data/2017-2019_sectors_cpr.csv", function(cData) {
 
     function change() {
       var powerValue = this.value;
-      // console.log(powerValue)
+      console.log(powerValue)
 
      // var minScale = d3.min(cData, d => d[powerValue]); 
      // var maxScale = d3.max(cData, d => d[powerValue]); 
-     var maxScale = d3.max(cData, function(d) { return d[powerValue]; });
-     console.log(maxScale)
+     // var maxPower = d3.max(cData, function(d) { return d[powerValue]}) 
 
-     var newSize = d3.scaleLinear()
-      .domain([0, maxScale])
-      // .range([5,80])
+     // var maxPower = d3.max(cData, function(d) { 
+     //  if (d[powerValue] >= 0) {return d[powerValue]} 
+     //  else {return d[powerValue]*-1 }
+     //  });
 
+    // console.log(maxPower)
+
+    var maxDomain = d3.max(cData, function(d) { return d[powerValue]})
+     console.log(maxDomain)
+
+    var newSize = d3.scaleLinear()
+      .domain([0, d3.max(cData, function(d) { return d[powerValue]})])
+      .range([4,60])
+
+     var newShape = d3.scaleLinear()
       node.attr("r", function(d){ return newSize(d[powerValue])})
+      // node.attr("r", function(d){ return newSize(d[powerValue])})
+
       simulation.force("center", d3.forceCenter().x(width / 2).y(height / 2))
       simulation.force("charge", d3.forceManyBody().strength(.2)) 
-      simulation.force("collide", d3.forceCollide().strength(.1).radius(function(d){ return (newSize(d[powerValue])+3) }).iterations(1))
+      simulation.force("collide", d3.forceCollide().strength(.1).radius(function(d){ return (newSize(d[powerValue])) }).iterations(1))
+      // simulation.force("collide", d3.forceCollide().strength(.1).radius(function(d){ return (newSize(d[powerValue])+3) }).iterations(1))      
     }
 
 
